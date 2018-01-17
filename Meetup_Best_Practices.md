@@ -89,4 +89,4 @@ _Policy to be defined by the CNCF_.
 ### **Ask for help**
 
 
-If you have any other questions you can talk to the **ambassadors** in the [CNCF Slack channel](https://cloud-native.slack.com/).
+If you have any other questions you can them in the [CNCF Slack channel](https://cloud-native.slack.com/).
