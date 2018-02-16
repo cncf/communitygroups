@@ -84,7 +84,7 @@ If possible you should record videos of the presentations and take pictures for 
 You should also **share** the slides with all members after the event.
 
 ### **CNCF swag**
-_Policy to be defined by the CNCF_.
+If you're a newly created meetup and added to meetups.cncf.io, please reach out to info@.cncf.io for a complimentary $50 swag certifcate to the CNCF store.
 
 ### **Ask for help**
 
