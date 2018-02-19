@@ -108,4 +108,4 @@ If you have any other questions, you can ask them in the [CNCF Slack](https://cl
 * We accept only **active** meetup communities. Please, ensure that:
   - at least three successful meetups were held before applying
   - at least one meetup was held during the last 60 days before applying
-* If all the requirements above are satisfied, please apply via an e-mail to [info@cncf.io](mailto:info@cncf.io)
+* If all the requirements above are satisfied, please apply via filling the [form](https://goo.gl/forms/v8s46YnHo1qDUYOS2).
