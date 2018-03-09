@@ -109,3 +109,7 @@ If you have any other questions, you can ask them in the [CNCF Slack](https://cl
   - at least three successful meetups were held before applying
   - at least one meetup was held during the last 60 days before applying
 * If all the requirements above are satisfied, please apply via filling the [form](https://goo.gl/forms/v8s46YnHo1qDUYOS2).
+
+### Code of Conduct
+
+CNCF Meetup program follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
