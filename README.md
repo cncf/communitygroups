@@ -104,7 +104,7 @@ If you have any other questions, you can ask them in the [CNCF Slack](https://cl
 
 ## How to apply?
 
-* The meetup grooup has to be created following the best practices, decribed above.
+* The meetup group has to be created following the best practices, decribed above.
 * We accept only **active** meetup communities. Please, ensure that:
   - at least three successful meetups were held before applying
   - at least one meetup was held during the last 60 days before applying
