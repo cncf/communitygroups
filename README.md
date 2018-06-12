@@ -2,7 +2,7 @@
 
 ## Program description
 
-The Cloud Native Computing Foundation supports the worldwide community of the Cloud Native meetups (the are listed on [meetup.com](https://www.meetup.com/pro/cncf/)) website. 
+The Cloud Native Computing Foundation supports the worldwide community of the Cloud Native meetups (they are listed on [meetup.com](https://www.meetup.com/pro/cncf/)) website. 
 
 CNCF is currently working on expanding the Cloud Native community around the globe, and we are happy to accept the new meetup communities to join our network, and become one of the official CNCF meetups.
 
