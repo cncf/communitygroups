@@ -19,6 +19,9 @@ Here is a list of suggestions and tips to get you started:
 If you start a brand new meetup that aims to cover the whole Cloud Native landscape, we recommend to use the following **naming** convention:
 
 `Cloud Native Computing <Location>`
+`Kubernetes <Location>`
+`Prometheus <Location>`
+`...`
 
 The **description** of the group is left to the discretion of the organizers.
 
