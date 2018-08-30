@@ -16,26 +16,20 @@ Here is a list of suggestions and tips to get you started:
 
 ### **Create the meetup**
 
-If you start a brand new meetup that aims to cover the whole Cloud Native landscape, we recommend to use the following **naming** convention:
+If you start a brand new meetup that aims to cover the whole Cloud Native landscape, we recommend to use one of the following **naming** convention:
 
-`Cloud Native Computing <Location>`
-`Kubernetes <Location>`
-`Prometheus <Location>`
-`...`
+```
+Cloud Native Computing <Location>
+Kubernetes <Location>
+Prometheus <Location>
+<Other CNCF-hosted project name> <Location>
+```
 
 The **description** of the group is left to the discretion of the organizers.
 
 A brief description of the role of the CNCF and the Cloud Native approach could be added.
 
-Here is an example based on the [FAQ](https://www.cncf.io/about/faq/)
-
-> Cloud native computing uses an open source software stack to be:
-
-> 1. Containerized. Each part (applications, processes, etc) is packaged in its own container. This facilitates reproducibility, transparency, and resource isolation.
-
-> 2. Dynamically orchestrated. Containers are actively scheduled and managed to optimize resource utilization.
-
-> 3. Microservices oriented. Applications are segmented into microservices. This significantly increases the overall agility and maintainability of applications.
+You can use text from the [Cloud Native Definition](https://github.com/cncf/toc/blob/master/DEFINITION.md).
 
 In order for your meetup to be the as visible as possible you should add a relevant list of **tags**.
 
@@ -97,7 +91,7 @@ If possible you should record videos of the presentations and take pictures for 
 You should also **share** the slides with all members after the event.
 
 ### **CNCF swag**
-If you're a newly created meetup and added to meetups.cncf.io, please reach out to info@cncf.io for a complimentary $50 swag certifcate to the CNCF store.
+If you're a newly created meetup and added to meetups.cncf.io, please reach out to info@cncf.io for a complimentary $50 swag certificate to the CNCF store.
 
 ### **Ask for help**
 
