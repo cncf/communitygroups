@@ -8,6 +8,12 @@ CNCF is currently working on expanding the Cloud Native community around the glo
 
 If you are interested in joining the list of official CNCF meetups, please take a look at "How to apply?" section below.
 
+## Benefits of joining the CNCF Meetup Program
+
+- Boosting the visibility of your meetup group
+- [Meetup Pro](https://www.meetup.com/pro) cost coverage
+- One-time complimentary swag certificate to the [CNCF Store](https://store.cncf.io)
+
 ## Meetup Best Practices
 
 This page provides guidance on starting a new meetup group based on the experience of existing ones.
@@ -88,10 +94,10 @@ You should think about sending a **reminder** message to the meetup group to ask
 
 If possible you should record videos of the presentations and take pictures for social media and the event page to share  afterwards.
 
-You should also **share** the slides with all members after the event.
+You should also **share** the slides with all members after the event. Optionally, please submit them to the [CNCF Presentations repo](https://github.com/cncf/presentations) on GitHub.
 
 ### **CNCF swag**
-If you're a newly created meetup and added to meetups.cncf.io, please reach out to info@cncf.io for a complimentary $50 swag certificate to the CNCF store.
+If you're a newly created meetup and added to meetups.cncf.io, please reach out to info@cncf.io for a complimentary $50 swag certificate to the [CNCF Store](https://store.cncf.io).
 
 ### **Ask for help**
 
