@@ -20,7 +20,7 @@ This page provides guidance on starting a new meetup group based on the experien
 
 Here is a list of suggestions and tips to get you started:
 
-### **Create the meetup**
+### Naming Convention
 
 If you start a brand new meetup that aims to cover the whole Cloud Native landscape, we recommend to use one of the following **naming** convention:
 
@@ -30,6 +30,10 @@ Kubernetes <Location>
 Prometheus <Location>
 <Other CNCF-hosted project name> <Location>
 ```
+
+Please, do not use any commercial brand or product names in the meetup name.
+
+### **Create the meetup**
 
 The **description** of the group is left to the discretion of the organizers.
 
@@ -112,6 +116,28 @@ If you have any other questions, you can ask them in the [CNCF Slack](https://cl
   - at least three successful meetups were held before applying
   - at least one meetup was held during the last 60 days before applying
 * If all the requirements above are satisfied, please apply via filling the [form](https://goo.gl/forms/v8s46YnHo1qDUYOS2).
+
+### FAQ
+
+#### How often are Meetup applications reviewed?
+
+We review the Meetup applications on a montly basis, and if your Meetup group satisfies our requirements and best practices, we'll send you an invitation.
+
+#### Do I need to re-apply?
+
+No, once you formally apply you are part of the pool of applicants that get reviewed on a monthly basis.
+
+#### Will you email me with a status update of my application each month?
+
+No. We will only follow up if your application is accepted.
+
+Please, ensure that your group satisfies our mandatory requirements (eg. three and more successful meetups, naming guidelines, etc.) before applying!
+
+#### I'd like to get in touch with the CNCF ambassador in a specific city/region. Where can I find who is a local ambassador?
+
+Here is [a map of the CNCF Ambassadors](https://drive.google.com/open?id=1fb0UPi8ijeexueBxcpGuvVlZ_8hJHXVQ&usp=sharing).
+
+NOTE: If you are an existing CNCF Ambassador and would like to ajdust your location on the map, please contact the CNCF Staff.
 
 ### Code of Conduct
 
