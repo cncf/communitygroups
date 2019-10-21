@@ -115,6 +115,8 @@ If you have any other questions, you can ask them in the [CNCF Slack](https://cl
 * We accept only **active** meetup communities. Please, ensure that:
   - at least three successful meetups were held before applying
   - at least one meetup was held during the last 60 days before applying
+* The [meetup.com](https://meetup.com) policy is to allow only organizers of the meetup group to accept the invitation from CNCF. Please apply only if you are an organizer. If you are a co-organizer (in meetup.com terms), please ask the group organizer to apply.
+* A single Meetup group can't be a part of two Pro organizations simultaneously. Please make sure that your group is not a part of another Pro network before applying.
 * If all the requirements above are satisfied, please apply via filling the [form](https://goo.gl/forms/v8s46YnHo1qDUYOS2).
 
 ### FAQ
