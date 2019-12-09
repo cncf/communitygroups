@@ -135,6 +135,13 @@ No. We will only follow up if your application is accepted.
 
 Please, ensure that your group satisfies our mandatory requirements (eg. three and more successful meetups, naming guidelines, etc.) before applying!
 
+#### Does CNCF offer the promotional support for the Meetup groups?
+
+It's the sole responsibility of the Meetup group to self-promote itself, however CNCF is happy to offer the marketing support for the Meetup group as one-off in some exceptional cases (eg. the Meetup group is affiliated with the larger local Cloud Native event happening the same time in the same area).
+
+Also, please make sure that you are aware of other community-focused CNCF programs, including [CNCF Ambassadors](https://www.cncf.io/people/ambassadors/) and [CNCF Speakers Bureau](https://www.cncf.io/speakers/).
+
+
 #### I'd like to get in touch with the CNCF ambassador in a specific city/region. Where can I find who is a local ambassador?
 
 Here is [a map of the CNCF Ambassadors](https://drive.google.com/open?id=1fb0UPi8ijeexueBxcpGuvVlZ_8hJHXVQ&usp=sharing).
