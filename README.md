@@ -4,18 +4,20 @@ Cloud Native Computing Foundation Community Groups
 Program description
 -------------------
 
-The Cloud Native Computing Foundation supports the worldwide community of the Cloud Native Community Groups - https://community.cncf.io/.
+The Cloud Native Computing Foundation supports the worldwide community of the Cloud Native Community Groups (CNCG) - https://community.cncf.io/.
 
 CNCF is currently working on expanding the Cloud Native community around the globe, and we are happy to accept the new local communities to join our network.
 
-If you are interested in joining the list of official CNCF Community Groups.
+If you are interested in joining the list of official CNCF Community Groups, please review the information below on this page.
 
 Benefits of joining the CNCF Community Groups Program
 -----------------------------------------------------
 
--	Boosting the visibility of your meetup group
--	Listing your local community at https://community.cncf.io/ website.
--	One-time complimentary swag certificate to the [CNCF Store](https://store.cncf.io)
+For all Cloud Native Community Groups, CNCF offers the following benefits:
+
+-	One-time complimentary swag certificate to the [CNCF Store](https://store.cncf.io/)
+-	Boosting the visibility of your community group and events
+-	Cost coverage for the hosted community platform
 
 Best Practices
 --------------
@@ -117,32 +119,53 @@ How to apply?
 -------------
 
 -	The meetup group has to be created following the best practices, decribed above.
--	We accept only **active** meetup communities. Please, ensure that:
-	-	at least three successful meetups were held before applying
-	-	at least one meetup was held during the last 60 days before applying
--	The [meetup.com](https://meetup.com) policy is to allow only organizers of the meetup group to accept the invitation from CNCF. Please apply only if you are an organizer. If you are a co-organizer (in meetup.com terms), please ask the group organizer to apply.
--	A single Meetup group can't be a part of two Pro organizations simultaneously. Please make sure that your group is not a part of another Pro network before applying.
 -	If all the requirements above are satisfied, please apply via filling the [form](https://goo.gl/forms/v8s46YnHo1qDUYOS2).
 
 ### FAQ
 
-#### How often are Meetup applications reviewed?
+#### What is the status of the Cloud Native Meetups?
 
-We review the Meetup applications on a montly basis, and if your Meetup group satisfies our requirements and best practices, we'll send you an invitation.
+CNCF meetups have grown to nearly ~200 [meetups](https://www.meetup.com/pro/cncf) across the world. The current meetup platform may disappear in the future due to business continuity risks and also isn’t as fully featured as we desire. Thus, CNCF is moving the meetups to a new platform, hosted by [Bevy](https://www.bevy.com/) and building out a new community that will be inclusive of more types of events than just meetups.
+
+#### When will the transition to the community platform happen?
+
+We’ll be rolling this out in July 2020 and letting community groups migrate to this. In 2021, we’ll be discontinuing our use of Meetup.com and exclusively using the Bevy-backed platform for community groups.
+
+#### How do I sync meetup pro with CNCG?
+
+Bevy has custom integration with the Meetup Pro, and allows syncing groups, members and events between two platforms. However, please note that the synchronization between Bevy and Meetup Pro will be available during the transition period only (by January 2021).
+
+Please see more details on the Meetup/Bevy integration on the Bevy help portal
+
+-	https://help.bevylabs.com/article/335-how-to-connect-to-meetup-pro.
+
+#### Will the pricing policy change?
+
+-	CNCF will cover all costs for the hosted community platform.
+
+#### How does the social coverage/network of Bevy compare to Meetup.com?
+
+The events on a new platform will benefit from the CNCF Marketing team’s
+
+```
+power and coverage. Compared to the Meetup.com-hosted events, the new
+platform allows hosting the events under the cncf.io domain and embedding
+more deeply into the marketing tools and technologies currently used by
+CNCF for the networking outreach. Furthermore, CNCF is committed to
+marketing meetups and events across our platforms.
+```
+
+#### How often are the Cloud Native Community Groups applications reviewed?
+
+We review the CNCG applications on a montly basis, and if your submission satisfies our requirements and best practices, we'll send you an invitation.
 
 #### Do I need to re-apply?
 
 No, once you formally apply you are part of the pool of applicants that get reviewed on a monthly basis.
 
-#### Will you email me with a status update of my application each month?
+#### Does CNCF offer the promotional support for the Community Groups?
 
-No. We will only follow up if your application is accepted.
-
-Please, ensure that your group satisfies our mandatory requirements (eg. three and more successful meetups, naming guidelines, etc.) before applying!
-
-#### Does CNCF offer the promotional support for the Meetup groups?
-
-It's the sole responsibility of the Meetup group to self-promote itself, however CNCF is happy to offer the marketing support for the Meetup group as one-off in some exceptional cases (eg. the Meetup group is affiliated with the larger local Cloud Native event happening the same time in the same area).
+CNCF is happy to offer the marketing support for the Community Groups in some exceptional cases.
 
 Also, please make sure that you are aware of other community-focused CNCF programs, including [CNCF Ambassadors](https://www.cncf.io/people/ambassadors/) and [CNCF Speakers Bureau](https://www.cncf.io/speakers/).
 
@@ -150,8 +173,6 @@ Also, please make sure that you are aware of other community-focused CNCF progra
 
 Here is [a map of the CNCF Ambassadors](https://drive.google.com/open?id=1fb0UPi8ijeexueBxcpGuvVlZ_8hJHXVQ&usp=sharing).
 
-NOTE: If you are an existing CNCF Ambassador and would like to ajdust your location on the map, please contact the CNCF Staff.
-
 ### Code of Conduct
 
-CNCF Meetup program follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
+Cloud Native Community Groups follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
