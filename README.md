@@ -28,7 +28,7 @@ Here is a list of suggestions and tips to get you started:
 
 ### Naming Convention
 
-If you start a brand new meetup that aims to cover the whole Cloud Native landscape, we recommend to use one of the following **naming** convention:
+If you start a brand new group that aims to cover the whole Cloud Native landscape, we recommend to use one of the following **naming** convention:
 
 ```
 Cloud Native Computing <Location>
@@ -119,7 +119,7 @@ How to apply?
 -------------
 
 -	The meetup group has to be created following the best practices, decribed above.
--	If all the requirements above are satisfied, please apply via filling the [form](https://goo.gl/forms/v8s46YnHo1qDUYOS2).
+-	If all the requirements above are satisfied, please apply via filling the [form](https://forms.gle/HaTM3d5vbHWop8qQ6).
 
 ### FAQ
 
