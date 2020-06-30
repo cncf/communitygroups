@@ -118,7 +118,7 @@ If you have any other questions, you can ask them in the [CNCF Slack](https://cl
 How to apply?
 -------------
 
--	The meetup group has to be created following the best practices, decribed above.
+-	The Cloud Native Community Group has to be created following the best practices, decribed above.
 -	If all the requirements above are satisfied, please apply via filling the [form](https://forms.gle/HaTM3d5vbHWop8qQ6).
 
 ### FAQ
