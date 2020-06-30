@@ -1,20 +1,24 @@
-# Cloud Native Computing Foundation Meetups
+Cloud Native Computing Foundation Community Groups
+==================================================
 
-## Program description
+Program description
+-------------------
 
-The Cloud Native Computing Foundation supports the worldwide community of the Cloud Native meetups (they are listed on [meetup.com](https://www.meetup.com/pro/cncf/)) website. 
+The Cloud Native Computing Foundation supports the worldwide community of the Cloud Native Community Groups - https://community.cncf.io/.
 
-CNCF is currently working on expanding the Cloud Native community around the globe, and we are happy to accept the new meetup communities to join our network, and become one of the official CNCF meetups.
+CNCF is currently working on expanding the Cloud Native community around the globe, and we are happy to accept the new local communities to join our network.
 
-If you are interested in joining the list of official CNCF meetups, please take a look at "How to apply?" section below.
+If you are interested in joining the list of official CNCF Community Groups.
 
-## Benefits of joining the CNCF Meetup Program
+Benefits of joining the CNCF Community Groups Program
+-----------------------------------------------------
 
-- Boosting the visibility of your meetup group
-- [Meetup Pro](https://www.meetup.com/pro) cost coverage
-- One-time complimentary swag certificate to the [CNCF Store](https://store.cncf.io)
+-	Boosting the visibility of your meetup group
+-	Listing your local community at https://community.cncf.io/ website.
+-	One-time complimentary swag certificate to the [CNCF Store](https://store.cncf.io)
 
-## Meetup Best Practices
+Best Practices
+--------------
 
 This page provides guidance on starting a new meetup group based on the experience of existing ones.
 
@@ -51,14 +55,13 @@ Sustaining a group yourself can be difficult to manage. Ideally you should have 
 
 Joining forces helps spread the load and expands the network.
 
-
 ### **Find Speakers**
 
 You should provide some kind of **form** in order to allow people to submit their talk proposal similar to this:
 
 https://docs.google.com/forms/d/1V2Y03YMOrIor0M796_WMbYx-fdsn80ngaT-PIum8gUU/edit
 
-> _**Note**_: Make a copy! Please do not edit that form.
+> ***Note***: Make a copy! Please do not edit that form.
 
 When possible take care to review their presentations.
 
@@ -76,9 +79,11 @@ First of all don't forget to thank your sponsors.
 
 Then the most important information is about the agenda, each talk description should contains:
 
-    - A short bio of the speaker
-    - An attractive title
-    - A paragraph describing the content of the presentation/demo
+```
+- A short bio of the speaker
+- An attractive title
+- A paragraph describing the content of the presentation/demo
+```
 
 If you're planning a hands-on demo, you should ensure that the WiFi can handle the number of attendees.
 
@@ -96,28 +101,28 @@ You should think about sending a **reminder** message to the meetup group to ask
 
 ### **Post event**
 
-If possible you should record videos of the presentations and take pictures for social media and the event page to share  afterwards.
+If possible you should record videos of the presentations and take pictures for social media and the event page to share afterwards.
 
 You should also **share** the slides with all members after the event. Optionally, please submit them to the [CNCF Presentations repo](https://github.com/cncf/presentations) on GitHub.
 
 ### **CNCF swag**
+
 If you're a newly created meetup and added to meetups.cncf.io, please reach out to meetups@cncf.io for a complimentary $50 swag certificate to the [CNCF Store](https://store.cncf.io).
 
 ### **Ask for help**
 
-
 If you have any other questions, you can ask them in the [CNCF Slack](https://cloud-native.slack.com/).
 
+How to apply?
+-------------
 
-## How to apply?
-
-* The meetup group has to be created following the best practices, decribed above.
-* We accept only **active** meetup communities. Please, ensure that:
-  - at least three successful meetups were held before applying
-  - at least one meetup was held during the last 60 days before applying
-* The [meetup.com](https://meetup.com) policy is to allow only organizers of the meetup group to accept the invitation from CNCF. Please apply only if you are an organizer. If you are a co-organizer (in meetup.com terms), please ask the group organizer to apply.
-* A single Meetup group can't be a part of two Pro organizations simultaneously. Please make sure that your group is not a part of another Pro network before applying.
-* If all the requirements above are satisfied, please apply via filling the [form](https://goo.gl/forms/v8s46YnHo1qDUYOS2).
+-	The meetup group has to be created following the best practices, decribed above.
+-	We accept only **active** meetup communities. Please, ensure that:
+	-	at least three successful meetups were held before applying
+	-	at least one meetup was held during the last 60 days before applying
+-	The [meetup.com](https://meetup.com) policy is to allow only organizers of the meetup group to accept the invitation from CNCF. Please apply only if you are an organizer. If you are a co-organizer (in meetup.com terms), please ask the group organizer to apply.
+-	A single Meetup group can't be a part of two Pro organizations simultaneously. Please make sure that your group is not a part of another Pro network before applying.
+-	If all the requirements above are satisfied, please apply via filling the [form](https://goo.gl/forms/v8s46YnHo1qDUYOS2).
 
 ### FAQ
 
@@ -140,7 +145,6 @@ Please, ensure that your group satisfies our mandatory requirements (eg. three a
 It's the sole responsibility of the Meetup group to self-promote itself, however CNCF is happy to offer the marketing support for the Meetup group as one-off in some exceptional cases (eg. the Meetup group is affiliated with the larger local Cloud Native event happening the same time in the same area).
 
 Also, please make sure that you are aware of other community-focused CNCF programs, including [CNCF Ambassadors](https://www.cncf.io/people/ambassadors/) and [CNCF Speakers Bureau](https://www.cncf.io/speakers/).
-
 
 #### I'd like to get in touch with the CNCF ambassador in a specific city/region. Where can I find who is a local ambassador?
 
