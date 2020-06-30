@@ -1,4 +1,4 @@
-Cloud Native Computing Foundation Community Groups
+CNCF Community Groups
 ==================================================
 
 Program description
@@ -137,11 +137,11 @@ Bevy has custom integration with the Meetup Pro, and allows syncing groups, memb
 
 Please see more details on the Meetup/Bevy integration on the Bevy help portal
 
--	https://help.bevylabs.com/article/335-how-to-connect-to-meetup-pro.
+https://help.bevylabs.com/article/335-how-to-connect-to-meetup-pro.
 
 #### Will the pricing policy change?
 
--	CNCF will cover all costs for the hosted community platform.
+CNCF will cover all costs for the hosted community platform.
 
 #### How does the social coverage/network of Bevy compare to Meetup.com?
 
