@@ -10,6 +10,8 @@ CNCF is currently working on expanding the Cloud Native community around the glo
 
 If you are interested in joining the list of official CNCF Community Groups, please review the information below on this page.
 
+Cloud Native Community Groups program is powered by the [Bevy platform](https://www.bevy.com/), and managed by the CNCF staff.
+
 Benefits of joining the CNCF Community Groups Program
 -----------------------------------------------------
 
@@ -22,7 +24,7 @@ For all Cloud Native Community Groups, CNCF offers the following benefits:
 Best Practices
 --------------
 
-This page provides guidance on starting a new meetup group based on the experience of existing ones.
+This page provides guidance on starting a new Cloud Native Community Group based on the experience of existing ones.
 
 Here is a list of suggestions and tips to get you started:
 
@@ -39,7 +41,9 @@ Prometheus <Location>
 
 Please, do not use any commercial brand or product names in the meetup name.
 
-### **Create the meetup**
+### **Create the Cloud Native Community Group**
+
+First of all, please follow the official [Bevy documentation on how to create a chapter](https://help.bevylabs.com/article/454-create-a-chapter).
 
 The **description** of the group is left to the discretion of the organizers.
 
@@ -47,11 +51,7 @@ A brief description of the role of the CNCF and the Cloud Native approach could 
 
 You can use text from the [Cloud Native Definition](https://github.com/cncf/toc/blob/master/DEFINITION.md).
 
-In order for your meetup to be the as visible as possible you should add a relevant list of **tags**.
-
-(For example, "Cloud Computing", "DevOps", "Cloud Native", "Docker", "Containers", "Serverless", "Microservices", "Kubernetes", etc.)
-
-The most important thing is to keep an **active group**, with frequent events (ideally once a month).
+The most important thing is to keep an **active group**, with frequent events (ideally once a month). We encourage folks to run either online events or the regular meetup events.
 
 Sustaining a group yourself can be difficult to manage. Ideally you should have a team of passionate and committed co-organizers.
 
@@ -145,15 +145,7 @@ Please see more details on the Meetup/Bevy integration on the Bevy help portal
 
 #### How does the social coverage/network of Bevy compare to Meetup.com?
 
-The events on a new platform will benefit from the CNCF Marketing team’s
-
-```
-power and coverage. Compared to the Meetup.com-hosted events, the new
-platform allows hosting the events under the cncf.io domain and embedding
-more deeply into the marketing tools and technologies currently used by
-CNCF for the networking outreach. Furthermore, CNCF is committed to
-marketing meetups and events across our platforms.
-```
+The events on a new platform will benefit from the CNCF Marketing team’s power and coverage. Compared to the Meetup.com-hosted events, the new platform allows hosting the events under the cncf.io domain and embedding more deeply into the marketing tools and technologies currently used by CNCF for the networking outreach. Furthermore, CNCF is committed to marketing meetups and events across our platforms.
 
 #### How often are the Cloud Native Community Groups applications reviewed?
 
