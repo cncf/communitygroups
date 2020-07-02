@@ -124,6 +124,20 @@ How to apply?
 
 Once completed, CNCF staff will provide you with an access to your group.
 
+#### How to enable the bidirectional sync with Meetup.com?
+
+The integration syncs events from Bevy to Meetup. It connects your
+Bevy group with your existing Meetup group, and helps track member attendance and
+analytics. This integration requires adding the CNCF Meetup Pro
+account as a co-organizer on your Meetup group.
+
+Once the "CNCF Meetup Account" joins your Meetup Group, you'll need
+to follow the "Appoint New Leadership Member" steps here:
+https://help.meetup.com/hc/en-us/articles/360002879411-Managing-a-leadership-team
+to add cncf-meetup-admin@cncf.io as a co-organizer. Please see the
+sample video on how to do this -
+https://share.getcloudapp.com/8LujxJ85.
+
 ### FAQ
 
 #### What is the status of the Cloud Native Meetups?
