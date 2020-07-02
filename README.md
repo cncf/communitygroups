@@ -113,13 +113,16 @@ If you're a newly created meetup and added to meetups.cncf.io, please reach out 
 
 ### **Ask for help**
 
-If you have any other questions, you can ask them in the [CNCF Slack](https://cloud-native.slack.com/).
+If you have any other questions, you can ask them in the [CNCF Slack](https://app.slack.com/client/T08PSQ7BQ/C015WPLD3F1).
 
 How to apply?
 -------------
 
 -	The Cloud Native Community Group has to be created following the best practices, decribed above.
--	If all the requirements above are satisfied, please apply via filling the [form](https://forms.gle/HaTM3d5vbHWop8qQ6).
+- Visit https://community.cncf.io/, and Click "Log In" in the top right; you will be redirected to the Linux Foundation sign in. Use your credentials or create a new account.
+-	Please provide additional information via filling the [form](https://forms.gle/HaTM3d5vbHWop8qQ6).
+
+Once completed, CNCF staff will provide you with an access to your group.
 
 ### FAQ
 
