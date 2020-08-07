@@ -132,6 +132,8 @@ The "CNCF Meetup Account" has to join your Meetup Group, so please apply via the
 
 **Please note that bidirectional sync is only available to the groups that have already joined the [CNCF Meetup Pro network](https://www.meetup.com/pro/cncf) before July 1st, 2020!**
 
+**Important! To have the bidirectional sync with Meetup.com working properly, please make sure that the "CNCF Meetup Account" is added to your group as a co-organizer! If this is not done, Bevy won't be able to create events on Meetup!**
+
 ### FAQ
 
 #### What is the status of the Cloud Native Meetups?
@@ -142,13 +144,17 @@ CNCF meetups have grown to nearly ~200 [meetups](https://www.meetup.com/pro/cncf
 
 We’ll be rolling this out in July 2020 and letting community groups migrate to this. In 2021, we’ll be discontinuing our use of Meetup.com and exclusively using the Bevy-backed platform for community groups.
 
-#### How do I sync meetup pro with CNCG?
+#### How do I sync Meetup Pro with CNCG?
 
 Bevy has custom integration with the Meetup Pro, and allows syncing groups, members and events between two platforms. However, please note that the synchronization between Bevy and Meetup Pro will be available during the transition period only (by January 2021).
 
 Please see more details on the Meetup/Bevy integration on the Bevy help portal
 
 https://help.bevylabs.com/article/335-how-to-connect-to-meetup-pro.
+
+#### Events created on CNCG are not added to my Meetup page automatically.
+
+To have the bidirectional sync with Meetup.com working properly, please make sure that the "CNCF Meetup Account" is added to your group as a co-organizer. If this is not done, Bevy won't be able to create events on Meetup!
 
 #### Will the pricing policy change?
 
