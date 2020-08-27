@@ -134,6 +134,11 @@ The "CNCF Meetup Account" has to join your Meetup Group, so please apply via the
 
 **Important! To have the bidirectional sync with Meetup.com working properly, please make sure that the "CNCF Meetup Account" is added to your group as a co-organizer! If this is not done, Bevy won't be able to create events on Meetup!**
 
+#### Bevy Training
+
+CNCF and Bevy has organized the training session for the Community Groups organizers. It has been recorded and now available on [YouTube](https://www.youtube.com/watch?v=_rBdomoYlmc).
+
+
 ### FAQ
 
 #### What is the status of the Cloud Native Meetups?
