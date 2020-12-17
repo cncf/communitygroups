@@ -58,7 +58,9 @@ Please reach out to us on the #communitygroups channel on the [CNCF slack](https
 
 It's best if you use a public communication channel whenever possible; however, if you need to communicate in private, please feel free to send the program admins a note via meetups@cncf.io (please use the public channels for any program-related discussion).
 
+### Support
 
+- If you have any technical difficulties with the platform itself, please reach out to the [Bevy platform support](https://help.bevylabs.com/) directly.
 
 
 ## FAQ
