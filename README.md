@@ -32,7 +32,7 @@ Moved to [best_practices.md](./best_practices.md)
 
 Once completed, CNCF staff will provide you with access to your group.
 
-#### How to enable the bidirectional sync with Meetup.com?
+#### How to enable the sync with Meetup.com?
 
 - The integration syncs events from Bevy to Meetup. It connects your Bevy group with your existing Meetup group and helps track member attendance and analytics. This integration requires adding the CNCF Meetup Pro account as a co-organizer on your Meetup group.
 
