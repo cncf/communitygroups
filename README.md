@@ -29,6 +29,7 @@ Moved to [best_practices.md](./best_practices.md)
 - The Cloud Native Community Group has to be created following the best practices described above.
 - Visit https://community.cncf.io/, and click "Log In" in the top right; you will be redirected to the Linux Foundation sign-in. Use your credentials or create a new account.
 - Please provide additional information via filling the [form](https://forms.gle/HaTM3d5vbHWop8qQ6).
+  - *Please note that this form is used for inviting the new Community Groups organizers only. If an active Community Group already exists in your region, please reach out to the organizers directly (do not use the form above).*
 
 Once completed, CNCF staff will provide you with access to your group.
 
@@ -42,11 +43,11 @@ Once completed, CNCF staff will provide you with access to your group.
 
 **Please note:**
 
-- the bidirectional sync is only available to the groups that have already joined the [CNCF Meetup Pro network](https://www.meetup.com/pro/cncf) before July 1st, 2020!
+- the cross-platform sync is only available to the groups that have already joined the [CNCF Meetup Pro network](https://www.meetup.com/pro/cncf) before July 1st, 2020!
 
-- To have the bidirectional sync with Meetup.com working correctly, please make sure that the "CNCF Meetup Account" is added to your group as a co-organizer! If this is not done, Bevy won't be able to create events on Meetup!
+- To have the sync with Meetup.com working correctly, please make sure that the "CNCF Meetup Account" is added to your group as a co-organizer! If this is not done, Bevy won't be able to create events on Meetup!
 
-- The steps described above do not migrate the existing users from a Meetup group to the new Community Group. This can be done as a one-off manual step by CNCF staff after your application is accepted and processed.
+- The steps described above do not migrate the existing users from a Meetup group to the new Community Group. This can be done as a one-off manual step by CNCF staff after your application is accepted and processed. To migrate users, please file a request to meetups@cncf.io
 
 #### Bevy Training
 
