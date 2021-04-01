@@ -1,24 +1,10 @@
-Best Practices
---------------
+# Best Practices
 
 This page guides running a new Cloud Native Community Group based on the experience of existing ones.
 
 Here is a list of suggestions and tips to get you started:
 
-### Naming Convention
-
-If you start a brand new group that aims to cover the whole Cloud Native landscape, we recommend to use one of the following **naming** convention:
-
-```
-Cloud Native Computing <Location>
-Kubernetes <Location>
-Prometheus <Location>
-<Other CNCF-hosted project name> <Location>
-```
-
-Please, do not use any commercial brand or product names in the meetup name.
-
-### **Create the Cloud Native Community Group**
+## **Create the Cloud Native Community Group**
 
 CNCF staff is responsible for creating the Cloud Native Community Groups (see the instructions in the [README.md](../README.md) file, but please see the official [Bevy documentation on how to create a chapter](https://help.bevylabs.com/article/454-create-a-chapter).
 
@@ -40,7 +26,7 @@ You should provide some **form** to allow people to submit their talk proposal s
 
 https://docs.google.com/forms/d/1V2Y03YMOrIor0M796_WMbYx-fdsn80ngaT-PIum8gUU/edit
 
-> ***Note***: Make a copy! Please do not edit that form.
+> **_Note_**: Make a copy! Please do not edit that form.
 
 When possible, take care to review their presentations.
 

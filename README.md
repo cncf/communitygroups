@@ -2,6 +2,29 @@
 
 ![cloud native community groups](./cncg.png)
 
+- [CNCF Community Groups](#cncf-community-groups)
+  - [Program description](#program-description)
+  - [Benefits of joining the CNCF Community Groups Program](#benefits-of-joining-the-cncf-community-groups-program)
+  - [Best Practices](#best-practices)
+  - [How to apply?](#how-to-apply)
+    - [How to enable the sync with Meetup.com?](#how-to-enable-the-sync-with-meetupcom)
+  - [Bevy Training](#bevy-training)
+  - [Communication](#communication)
+    - [Support](#support)
+  - [FAQ](#faq)
+    - [What is the status of the Cloud Native Meetups?](#what-is-the-status-of-the-cloud-native-meetups)
+    - [When will the transition to the community platform happen?](#when-will-the-transition-to-the-community-platform-happen)
+    - [How do I sync Meetup Pro with CNCG?](#how-do-i-sync-meetup-pro-with-cncg)
+    - [How can I migrate the users from Meetup to CNCG](#how-can-i-migrate-the-users-from-meetup-to-cncg)
+    - [Events created on CNCG have not been added to my Meetup page automatically](#events-created-on-cncg-have-not-been-added-to-my-meetup-page-automatically)
+    - [Will the pricing policy change?](#will-the-pricing-policy-change)
+    - [How does the social coverage/network of Bevy compare to Meetup.com?](#how-does-the-social-coveragenetwork-of-bevy-compare-to-meetupcom)
+    - [How often are the Cloud Native Community Groups applications reviewed?](#how-often-are-the-cloud-native-community-groups-applications-reviewed)
+    - [Do I need to re-apply?](#do-i-need-to-re-apply)
+    - [Does CNCF offer promotional support for the Community Groups?](#does-cncf-offer-promotional-support-for-the-community-groups)
+    - [I'd like to get in touch with the CNCF ambassador in a specific city/region. Where can I find who a local ambassador is?](#id-like-to-get-in-touch-with-the-cncf-ambassador-in-a-specific-cityregion-where-can-i-find-who-a-local-ambassador-is)
+  - [Code of Conduct](#code-of-conduct)
+
 ## Program description
 
 The Cloud Native Computing Foundation supports the worldwide community of the Cloud Native Community Groups (CNCG) - https://community.cncf.io/.
@@ -22,18 +45,18 @@ For all Cloud Native Community Groups, CNCF offers the following benefits:
 
 ## Best Practices
 
-Moved to [best_practices.md](./best_practices.md)
+Please check out our [best_practices.md](./best_practices.md) guidelines.
 
 ## How to apply?
 
 - The Cloud Native Community Group has to be created following the best practices described above.
 - Visit https://community.cncf.io/, and click "Log In" in the top right; you will be redirected to the Linux Foundation sign-in. Use your credentials or create a new account.
 - Please provide additional information via filling the [form](https://forms.gle/HaTM3d5vbHWop8qQ6).
-  - *Please note that this form is used for inviting the new Community Groups organizers only. If an active Community Group already exists in your region, please reach out to the organizers directly (do not use the form above).*
+  - _Please note that this form is used for inviting the new Community Groups organizers only. If an active Community Group already exists in your region, please reach out to the organizers directly (do not use the form above)._
 
 Once completed, CNCF staff will provide you with access to your group.
 
-#### How to enable the sync with Meetup.com?
+### How to enable the sync with Meetup.com?
 
 - The integration syncs events from Bevy to Meetup. It connects your Bevy group with your existing Meetup group and helps track member attendance and analytics. This integration requires adding the CNCF Meetup Pro account as a co-organizer on your Meetup group.
 
@@ -43,13 +66,12 @@ Once completed, CNCF staff will provide you with access to your group.
 
 **Please note:**
 
-- the cross-platform sync is only available to the groups that have already joined the [CNCF Meetup Pro network](https://www.meetup.com/pro/cncf) before July 1st, 2020!
+- the events sync between Bevy and Meetup is only available to the groups that have already joined the [CNCF Meetup Pro network](https://www.meetup.com/pro/cncf) before July 1st, 2020!
 
-- To have the sync with Meetup.com working correctly, please make sure that the "CNCF Meetup Account" is added to your group as a co-organizer! If this is not done, Bevy won't be able to create events on Meetup!
-
+- To have the events sync with Meetup.com working correctly, please make sure that the "CNCF Meetup Account" is added to your group as a co-organizer! If this is not done, Bevy won't be able to create events on Meetup!
 - The steps described above do not migrate the existing users from a Meetup group to the new Community Group. This can be done as a one-off manual step by CNCF staff after your application is accepted and processed. To migrate users, please file a request to meetups@cncf.io
 
-#### Bevy Training
+## Bevy Training
 
 CNCF and Bevy have organized the training session for the Community Groups organizers. It has been recorded and now available on [YouTube](https://www.youtube.com/watch?v=_rBdomoYlmc).
 
@@ -63,7 +85,6 @@ It's best if you use a public communication channel whenever possible; however, 
 
 - If you have any technical difficulties with the platform itself, please reach out to the [Bevy platform support](https://help.bevylabs.com/) directly.
 
-
 ## FAQ
 
 ### What is the status of the Cloud Native Meetups?
@@ -72,11 +93,11 @@ CNCF meetups have grown to nearly ~200 [meetups](https://www.meetup.com/pro/cncf
 
 ### When will the transition to the community platform happen?
 
-We'll be rolling this out in July 2020 and letting community groups migrate to this. In 2021, we'll discontinue our use of Meetup.com and exclusively use the Bevy-backed platform for community groups.
+We've be rolled the community.cncf.io platform in July 2020 and letting community groups migrate to this. In 2021, we'll discontinue our use of Meetup.com and exclusively use the Bevy-backed platform for community groups.
 
 ### How do I sync Meetup Pro with CNCG?
 
-Bevy has custom integration with the Meetup Pro and allows syncing groups, members, and events between two platforms. However, please note that the synchronization between Bevy and Meetup Pro will be available during the transition period only (by January 2021).
+Bevy has custom integration with the Meetup Pro and allows syncing groups, members, and events between two platforms. However, please note that the synchronization between Bevy and Meetup Pro will be available during the transition period only (by the end of 2021).
 
 Please see more details on the Meetup/Bevy integration on the Bevy help portal.
 
@@ -86,7 +107,7 @@ https://help.bevylabs.com/article/335-how-to-connect-to-meetup-pro.
 
 This can be done as a one-off manual step by CNCF staff after your application is accepted and processed. Please note that only the Meetup users who have made their emails on Meetup public could be migrated.
 
-### Events created on CNCG have not been added to my Meetup page automatically.
+### Events created on CNCG have not been added to my Meetup page automatically
 
 To have the bidirectional sync with Meetup.com working correctly, please make sure that the "CNCF Meetup Account" is added to your group as a co-organizer. If this is not done, Bevy won't be able to create events on Meetup!
 
@@ -100,7 +121,7 @@ The events on a new platform will benefit from the CNCF Marketing team's power a
 
 ### How often are the Cloud Native Community Groups applications reviewed?
 
-We review the CNCG applications weekly or bi-weekly, and if your submission satisfies our requirements and best practices, we'll send you an invitation.
+We review the CNCG applications weekly, and if your submission satisfies our requirements and best practices, we'll send you an invitation.
 
 ### Do I need to re-apply?
 
@@ -116,6 +137,6 @@ Also, please make sure that you are aware of other community-focused CNCF progra
 
 Here is [a map of the CNCF Ambassadors](https://drive.google.com/open?id=1fb0UPi8ijeexueBxcpGuvVlZ_8hJHXVQ&usp=sharing).
 
-# Code of Conduct
+## Code of Conduct
 
 Cloud Native Community Groups follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
