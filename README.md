@@ -45,7 +45,7 @@ For all Cloud Native Community Groups, CNCF offers the following benefits:
 
 ## Best Practices
 
-Please check out our [best_practices.md](./best_practices.md) guidelines.
+Please check out our [best_practices](./best_practices.md).
 
 ## How to apply?
 
