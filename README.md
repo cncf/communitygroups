@@ -1,29 +1,27 @@
-# CNCF Community Groups
-
 ![cloud native community groups](./cncg.png)
 
-- [CNCF Community Groups](#cncf-community-groups)
-  - [Program description](#program-description)
-  - [Benefits of joining the CNCF Community Groups Program](#benefits-of-joining-the-cncf-community-groups-program)
-  - [Best Practices](#best-practices)
-  - [How to apply?](#how-to-apply)
-    - [How to enable the sync with Meetup.com?](#how-to-enable-the-sync-with-meetupcom)
-  - [Bevy Training](#bevy-training)
-  - [Communication](#communication)
-    - [Support](#support)
-  - [FAQ](#faq)
-    - [What is the status of the Cloud Native Meetups?](#what-is-the-status-of-the-cloud-native-meetups)
-    - [When will the transition to the community platform happen?](#when-will-the-transition-to-the-community-platform-happen)
-    - [How do I sync Meetup Pro with CNCG?](#how-do-i-sync-meetup-pro-with-cncg)
-    - [How can I migrate the users from Meetup to CNCG](#how-can-i-migrate-the-users-from-meetup-to-cncg)
-    - [Events created on CNCG have not been added to my Meetup page automatically](#events-created-on-cncg-have-not-been-added-to-my-meetup-page-automatically)
-    - [Will the pricing policy change?](#will-the-pricing-policy-change)
-    - [How does the social coverage/network of Bevy compare to Meetup.com?](#how-does-the-social-coveragenetwork-of-bevy-compare-to-meetupcom)
-    - [How often are the Cloud Native Community Groups applications reviewed?](#how-often-are-the-cloud-native-community-groups-applications-reviewed)
-    - [Do I need to re-apply?](#do-i-need-to-re-apply)
-    - [Does CNCF offer promotional support for the Community Groups?](#does-cncf-offer-promotional-support-for-the-community-groups)
-    - [I'd like to get in touch with the CNCF ambassador in a specific city/region. Where can I find who a local ambassador is?](#id-like-to-get-in-touch-with-the-cncf-ambassador-in-a-specific-cityregion-where-can-i-find-who-a-local-ambassador-is)
-  - [Code of Conduct](#code-of-conduct)
+- [Program description](#program-description)
+- [Benefits of joining the CNCF Community Groups Program](#benefits-of-joining-the-cncf-community-groups-program)
+- [Best Practices](#best-practices)
+- [How to apply?](#how-to-apply)
+  - [How to enable the sync with Meetup.com?](#how-to-enable-the-sync-with-meetupcom)
+- [Bevy Training](#bevy-training)
+- [Communication](#communication)
+  - [Support](#support)
+    - [Troubleshooting](#troubleshooting)
+- [FAQ](#faq)
+  - [What is the status of the Cloud Native Meetups?](#what-is-the-status-of-the-cloud-native-meetups)
+  - [When will the transition to the community platform happen?](#when-will-the-transition-to-the-community-platform-happen)
+  - [How do I sync Meetup Pro with CNCG?](#how-do-i-sync-meetup-pro-with-cncg)
+  - [How can I migrate the users from Meetup to CNCG](#how-can-i-migrate-the-users-from-meetup-to-cncg)
+  - [Events created on CNCG have not been added to my Meetup page automatically](#events-created-on-cncg-have-not-been-added-to-my-meetup-page-automatically)
+  - [Will the pricing policy change?](#will-the-pricing-policy-change)
+  - [How does the social coverage/network of Bevy compare to Meetup.com?](#how-does-the-social-coveragenetwork-of-bevy-compare-to-meetupcom)
+  - [How often are the Cloud Native Community Groups applications reviewed?](#how-often-are-the-cloud-native-community-groups-applications-reviewed)
+  - [Do I need to re-apply?](#do-i-need-to-re-apply)
+  - [Does CNCF offer promotional support for the Community Groups?](#does-cncf-offer-promotional-support-for-the-community-groups)
+  - [I'd like to get in touch with the CNCF ambassador in a specific city/region. Where can I find who a local ambassador is?](#id-like-to-get-in-touch-with-the-cncf-ambassador-in-a-specific-cityregion-where-can-i-find-who-a-local-ambassador-is)
+- [Code of Conduct](#code-of-conduct)
 
 ## Program description
 
@@ -85,7 +83,7 @@ It's best if you use a public communication channel whenever possible; however, 
 
 - If you have any technical difficulties with the platform itself, please reach out to the [Bevy platform support](https://help.bevylabs.com/) directly.
 
-#### Troubleshooting 
+#### Troubleshooting
 
 The troubleshooting guide by Bevy is available [here](https://help.bevylabs.com/article/499-troubleshooting).
 
