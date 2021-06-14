@@ -73,6 +73,10 @@ Once completed, CNCF staff will provide you with access to your group.
 
 CNCF and Bevy have organized the training session for the Community Groups organizers. It has been recorded and now available on [YouTube](https://www.youtube.com/watch?v=_rBdomoYlmc).
 
+### Bevy Help Portal
+
+Bevy Help Portal is available at https://help.bevylabs.com/.
+
 ## Communication
 
 Please reach out to us on the #communitygroups channel on the [CNCF slack](https://slack.cncf.io/). Please don't use DMs unless strictly necessary as doing so both has the potential of overwhelming project maintainers and others with similar questions lose the benefit of public discussion.
