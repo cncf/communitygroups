@@ -50,7 +50,7 @@ Please check out our [best_practices](./best_practices.md).
 - The Cloud Native Community Group has to be created following the best practices described above.
 - Visit https://community.cncf.io/, and click "Log In" in the top right; you will be redirected to the Linux Foundation sign-in. Use your credentials or create a new account.
 - Please provide additional information via filling the [form](https://forms.gle/HaTM3d5vbHWop8qQ6).
-  - _Please note that this form is used for inviting the new Community Groups organizers only. If an active Community Group already exists in your region, please reach out to the organizers directly (do not use the form above)._
+  - _Please note that this form is used for inviting the new Community Groups organizers only. If an active Community Group already exists in your region, please reach out to the organizers directly (do not use the form above - the submitted application will be declined)._
 
 Once completed, CNCF staff will provide you with access to your group.
 
