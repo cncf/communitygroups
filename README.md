@@ -54,6 +54,12 @@ Please check out our [best_practices](./best_practices.md).
 
 Once completed, CNCF staff will provide you with access to your group.
 
+### CNCF Projects
+
+CNCF is also happy to provide the space for projects communities at community.cncf.io (eg. to host the regular community meetings).
+
+To request a community chapter for the CNCF project, please file a ticket to the CNCF ServiceDesk - https://servicedesk.cncf.io (available for the project maintainers listed here - https://maintainers.cncf.io/).
+
 ### How to enable the sync with Meetup.com?
 
 - The integration syncs events from Bevy to Meetup. It connects your Bevy group with your existing Meetup group and helps track member attendance and analytics. This integration requires adding the CNCF Meetup Pro account as a co-organizer on your Meetup group.
