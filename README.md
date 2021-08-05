@@ -58,7 +58,7 @@ Once completed, CNCF staff will provide you with access to your group.
 
 ### CNCF Projects
 
-CNCF is also happy to provide the space for projects communities at community.cncf.io (eg. to host the regular community meetings).
+CNCF is also happy to provide the space for projects communities at https://community.cncf.io (eg. to host the regular community meetings).
 
 To request a community chapter for the CNCF project, please file a ticket to the CNCF ServiceDesk - https://servicedesk.cncf.io (available for the project maintainers listed here - https://maintainers.cncf.io/).
 
