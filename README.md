@@ -39,7 +39,7 @@ Cloud Native Community Groups program is powered by the [Bevy platform](https://
 
 For all Cloud Native Community Groups, CNCF offers the following benefits:
 
-- One-time complimentary swag certificate ($50 USD) to the [CNCF Store](https://store.cncf.io/)
+- One-time complimentary swag certificate ($50 USD) to the [CNCF Store](https://store.cncf.io/) (available after at hosting at least two successful events per chapter).
 - Boosting the visibility of your community group and events
 - Cost coverage for the hosted community platform
 
