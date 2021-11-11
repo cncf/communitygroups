@@ -21,3 +21,6 @@ repository:
     
   - username: amye
     permission: admin
+    
+  - username: xmulligan
+    permission: admin
