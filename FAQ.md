@@ -10,7 +10,9 @@ Bevy will centralize all cloud native groups, across the globe –– making it 
 
 
 # FAQ - Switching from Meetup to Bevy
-![image](cncf-banner-02 (1).jpg)
+
+![image](/cncf-banner-02 (1).jpg)
+
 **Why is CNCF switching over from Meetup to Bevy?**
 
 We’re making the switch to Bevy because we’ve heard your concerns. Meetup was not the best tool to build community, especially an online community. It was not easy to communicate with community members on Meetup, run online events, and it was hard to keep group members active and engaged or to gauge who was active or engaged. The ability to collect data was limited and ultimately, it felt like a very disjointed experience from CNCF itself.
