@@ -11,7 +11,7 @@
 - [Communication](#communication)
   - [Support](#support)
     - [Troubleshooting](#troubleshooting)
-- [FAQ](/faq.md)
+- [FAQ](faq.md)
 - [Code of Conduct](#code-of-conduct)
 
 ## Program description
