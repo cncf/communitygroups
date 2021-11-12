@@ -44,7 +44,7 @@ No. We are migrating group and member data from Meetup to Bevy. All groups will 
 
 Because Bevy is a separate platform from Meetup, we are not legally able to set up a new account for all your current Meetup members, especially keeping GDPR regulations and privacy laws in mind. Keeping our users' privacy and consent intact is very important to us. Thank you for understanding.
 
-FAQ - General
+# FAQ - General
 
 **Will the pricing policy change?**
 
