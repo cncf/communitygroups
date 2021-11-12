@@ -11,7 +11,7 @@
 - [Communication](#communication)
   - [Support](#support)
     - [Troubleshooting](#troubleshooting)
-- [FAQ](faq.md)
+- [FAQ](#faq)
 - [Code of Conduct](#code-of-conduct)
 
 ## Program description
@@ -87,6 +87,10 @@ It's best if you use a public communication channel whenever possible; however, 
 #### Troubleshooting
 
 The troubleshooting guide by Bevy is available [here](https://help.bevylabs.com/article/499-troubleshooting).
+
+#### FAQ
+
+Check out [the full doc here](https://github.com/cncf/communitygroups/blob/main/FAQ.md).
 
 ## Code of Conduct
 
