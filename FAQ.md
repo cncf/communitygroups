@@ -11,7 +11,7 @@ Bevy will centralize all cloud native groups, across the globe –– making it 
 
 # FAQ - Switching from Meetup to Bevy
 
-![image](/cncf-banner-02 (1).jpg)
+![image](./cncf-banner-02 (1).jpg)
 
 **Why is CNCF switching over from Meetup to Bevy?**
 
