@@ -11,12 +11,12 @@
 - [Communication](#communication)
   - [Support](#support)
     - [Troubleshooting](#troubleshooting)
-- [FAQ](#faq)
+    - [FAQ](#faq)
 - [Code of Conduct](#code-of-conduct)
 
 ## Program description
 
-The Cloud Native Computing Foundation supports the worldwide community of the Cloud Native Community Groups (CNCG) - https://community.cncf.io/.
+The Cloud Native Computing Foundation supports the worldwide community of the Cloud Native Community Groups (CNCG) - <https://community.cncf.io/>.
 
 CNCF is currently working on expanding the Cloud Native community worldwide, and we are happy to accept the new local communities to join our network.
 
@@ -39,7 +39,7 @@ Please check out our [best_practices](./best_practices.md).
 ## How to apply?
 
 - The Cloud Native Community Group has to be created following the best practices described above.
-- Visit https://community.cncf.io/, and click "Log In" in the top right; you will be redirected to the Linux Foundation sign-in. Use your credentials or create a new account.
+- Visit <https://community.cncf.io/>, and click "Log In" in the top right; you will be redirected to the Linux Foundation sign-in. Use your credentials or create a new account.
 - Please provide additional information via filling the [form](https://forms.gle/HaTM3d5vbHWop8qQ6).
   - _Please note that this form is used for inviting the new Community Groups organizers only. If an active Community Group already exists in your region, please reach out to the organizers directly (do not use the form above - the submitted application will be declined)._
 
@@ -47,9 +47,9 @@ Once completed, CNCF staff will provide you with access to your group.
 
 ### CNCF Projects
 
-CNCF is also happy to provide the space for projects communities at https://community.cncf.io (eg. to host the regular community meetings).
+CNCF is also happy to provide the space for projects communities at <https://community.cncf.io> (eg. to host the regular community meetings).
 
-To request a community chapter for the CNCF project, please file a ticket to the CNCF ServiceDesk - https://servicedesk.cncf.io (available for the project maintainers listed here - https://maintainers.cncf.io/).
+To request a community chapter for the CNCF project, please file a ticket to the CNCF ServiceDesk - <https://servicedesk.cncf.io> (available for the project maintainers listed here - <https://maintainers.cncf.io/>).
 
 ### How to enable the sync with Meetup.com?
 
@@ -57,14 +57,13 @@ To request a community chapter for the CNCF project, please file a ticket to the
 
 - The "CNCF Meetup Account" has to be added to your Meetup Group (CNCF staff is managing this account), so please apply via the form above mentioning the Meetup Group URL. If you run multiple groups, please apply every time with the new group URL.
 
-- Once the CNCF account joins your group, you'll need to follow the "Appoint New Leadership Member" steps here: https://help.meetup.com/hc/en-us/articles/360002879411-Managing-a-leadership-team to add cncf-meetup-admin@cncf.io as a co-organizer. Please see the sample video on how to do this - https://share.getcloudapp.com/8LujxJ85.
+- Once the CNCF account joins your group, you'll need to follow the "Appoint New Leadership Member" steps here: <https://help.meetup.com/hc/en-us/articles/360002879411-Managing-a-leadership-team> to add cncf-meetup-admin@cncf.io as a co-organizer. Please see the sample video on how to do this - <https://share.getcloudapp.com/8LujxJ85>.
 
 **Please note:**
 
 - the events sync between Bevy and Meetup is only available to the groups that have already joined the [CNCF Meetup Pro network](https://www.meetup.com/pro/cncf) before July 1st, 2020!
-
 - To have the events sync with Meetup.com working correctly, please make sure that the "CNCF Meetup Account" is added to your group as a co-organizer! If this is not done, Bevy won't be able to create events on Meetup!
-- The steps described above do not migrate the existing users from a Meetup group to the new Community Group. This can be done as a one-off manual step by CNCF staff after your application is accepted and processed. To migrate users, please file a request to meetups@cncf.io
+- The steps described above do not migrate the existing users from a Meetup group to the new Community Group. More details about this could be found at the FAQ - <https://github.com/cncf/communitygroups/blob/main/FAQ.md#why-cant-you-simply-create-an-account-for-everyone-from-meetup-to-bevy>.
 
 ## Bevy Training
 
@@ -72,7 +71,7 @@ CNCF and Bevy have organized the training session for the Community Groups organ
 
 ### Bevy Help Portal
 
-Bevy Help Portal is available at https://help.bevylabs.com/.
+Bevy Help Portal is available at <https://help.bevylabs.com/>.
 
 ## Communication
 
