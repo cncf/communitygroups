@@ -12,6 +12,7 @@
     - [**How are we communicating this change to group members?**](#how-are-we-communicating-this-change-to-group-members)
     - [**When will my group page be ready?**](#when-will-my-group-page-be-ready)
     - [**Will I have to start from scratch when building my group on Bevy?**](#will-i-have-to-start-from-scratch-when-building-my-group-on-bevy)
+    - [**I am an organizer of the Meetup group, and my group was migrated on Bevy. However I don't have the organizers permissions. Why?**](#i-am-an-organizer-of-the-meetup-group-and-my-group-was-migrated-on-bevy-however-i-dont-have-the-organizers-permissions-why)
     - [**Why can’t you simply create an account for everyone from Meetup to Bevy?**](#why-cant-you-simply-create-an-account-for-everyone-from-meetup-to-bevy)
   - [**FAQ - General**](#faq---general)
     - [**Will the pricing policy change?**](#will-the-pricing-policy-change)
@@ -62,6 +63,10 @@ Most of the existing Meetup groups have already been migrated to the new platfor
 ### **Will I have to start from scratch when building my group on Bevy?**
 
 No. We are migrating group and member data from Meetup to Bevy. All groups will have a page on Bevy and all of the data of your members will transfer over. When they make an account on Bevy to join your group, as long as they use the same email address they used on Meetup, all their information should populate over creating a seamless and hopefully improved community experience for your members.
+
+### **I am an organizer of the Meetup group, and my group was migrated on Bevy. However I don't have the organizers permissions. Why?**
+
+The Meetup groups have been migrated, but organizers were not (it’s not technically possible, unfortumatelty). We'll encourage you to apply for runnigng this chapter as usual - https://github.com/cncf/communitygroups#how-to-apply. Once application is processed, we'll invite you as an organizer.
 
 ### **Why can’t you simply create an account for everyone from Meetup to Bevy?**
 
