@@ -83,6 +83,10 @@ It's best if you use a public communication channel whenever possible; however, 
 
 - If you have any technical difficulties with the platform itself, please reach out to the [Bevy platform support](https://help.bevylabs.com/) directly.
 
+#### Testing Video
+
+If you want to test video features, you can use: https://tokbox.com/developer/tools/precall/
+
 #### Troubleshooting
 
 The troubleshooting guide by Bevy is available [here](https://help.bevylabs.com/article/499-troubleshooting).
