@@ -67,7 +67,8 @@ To request a community chapter for the CNCF project, please file a ticket to the
 
 ## Bevy Training
 
-CNCF and Bevy have organized the training session for the Community Groups organizers. It has been recorded and now available on [YouTube](https://www.youtube.com/watch?v=_rBdomoYlmc).
+CNCF and Bevy have organized the training session for the Community Groups organizers. It has been recorded and now [available on YouTube](https://www.youtube.com/watch?v=_rBdomoYlmc).
+You can also access shorter, more specific training videos by having a look at these [self-paced video tutorials](http://vimeo.com/showcase/bevy-virtual-conference) (use password "devfest").
 
 ### Bevy Help Portal
 
@@ -75,13 +76,21 @@ Bevy Help Portal is available at <https://help.bevylabs.com/>.
 
 ## Communication
 
-Please reach out to us on the #communitygroups channel on the [CNCF slack](https://slack.cncf.io/). Please don't use DMs unless strictly necessary as doing so both has the potential of overwhelming project maintainers and others with similar questions lose the benefit of public discussion.
+Please reach out to us on the #communitygroups channel on the CNCF slack. Please don't use DMs unless strictly necessary as doing so both has the potential of overwhelming project maintainers and others with similar questions lose the benefit of public discussion.
 
 It's best if you use a public communication channel whenever possible; however, if you need to communicate in private, please feel free to send the program admins a note via meetups@cncf.io (please use the public channels for any program-related discussion).
+
+The #socialmedia channel via the CNCF slack workspace is also a great place to post your social media efforts requesting assistance from CNCF to amplify. Just tag Katie Meinders for Twitter, and Jessie Adams-Shore for LinkedIn.
+
 
 ### Support
 
 - If you have any technical difficulties with the platform itself, please reach out to the [Bevy platform support](https://help.bevylabs.com/) directly.
+- Troubleshooting: The troubleshooting guide by Bevy is available here: [help.bevylabs.com/article/499-troubleshooting](https://help.bevylabs.com/article/499-troubleshooting)
+
+### Community Group Inactivity
+
+- If your group has more than 90 days of inactivity in the number of events/meetups being help, then you will be deemed an “Inactive” group via the Cloud Native Computing Foundation and removed from [community.cncf.io](https://community.cncf.io/)
 
 #### Testing Video
 
