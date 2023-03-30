@@ -73,7 +73,7 @@ Please reach out to us on the #communitygroups channel on the CNCF slack. Please
 
 It's best if you use a public communication channel whenever possible; however, if you need to communicate in private, please feel free to send the program admins a note via meetups@cncf.io (please use the public channels for any program-related discussion).
 
-The #socialmedia channel via the CNCF slack workspace is also a great place to post your social media efforts requesting assistance from CNCF to amplify. Just tag Katie Meinders for Twitter, and Jessie Adams-Shore for LinkedIn.
+The #socialmedia channel via the CNCF slack workspace is also a great place to post your social media efforts requesting assistance from CNCF to amplify. Just tag Katie Meinders for Twitter (over 99.9k followers), and Jessie Adams-Shore for LinkedIn (over 87.5k followers).
 
 
 ### Support
