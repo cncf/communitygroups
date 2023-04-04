@@ -37,19 +37,7 @@ Please check out our [best_practices](./best_practices.md).
 
 ## How to apply?
 
-- The Cloud Native Community Group has to be created following the best practices described above.
-- Visit community.cncf.io/, and click "Log In" in the top right; you will be redirected to the Linux Foundation sign-in. Use your credentials or create a new account.
-- Please file a ticket to the CNCF ServiceDesk - https://servicedesk.cncf.io with the below information:
-  - Email
-  - First Name
-  - Community Group location (country):
-  - Community Group location (city/town)
-  - If you are an organizer of the Cloud Native Meetups, please put the group URL here:
-  - I am interested in joining the Cloud Native Community Groups program because:
-  - Please confirm that there are no active Community Groups already existing in your region (if they do - please reach out to the organizers directly,   and do not use this form). NOTE: If the group does exist, but no organizers listed - this group is considered inactive, so please apply using this       form.   
-  - You can find all groups at https://community.cncf.io/chapters/.
-  - Please note that this form is used for inviting the new Community Groups organizers only. If an active Community Group already exists in your         region, please reach out to the organizers directly (do not use the form above - the submitted application will be declined).
-  - Once completed, CNCF staff will review your request and provide approval with access. 
+We are pausing applications at the moment due to the back log of requests. We plan to re-open the form in late April 2023/early May 2023. In the meantime - please reach out to [meetups@cncf.io](mailto:meetups@cncf.io) with any inquries about previous applications.
 
 
 ### CNCF Projects
