@@ -37,7 +37,7 @@ Please check out our [best_practices](./best_practices.md).
 
 ## How to apply?
 
-We are pausing applications at the moment due to the back log of requests. We plan to re-open the form in late April 2023/early May 2023. In the meantime - please reach out to [meetups@cncf.io](mailto:meetups@cncf.io) with any inquries about previous applications.
+Please fill out [this request form](https://docs.google.com/forms/d/e/1FAIpQLScknQNnuhm-BLF4TQ5_wNXhtg18Sg7CWXkvwLhEpbCnyWr9gA/viewform) in its entirety. If you do not hear back within 30 days, please reach out to meetups@cncf.io Please do not fill out the form more than once for the same chapter/city request.
 
 
 ### CNCF Projects
