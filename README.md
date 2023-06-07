@@ -24,7 +24,7 @@ As of 2021, Cloud Native Community Groups program is powered by the Bevy platfor
 ## Benefits of joining the CNCF Community Groups Program
 
 For all Cloud Native Community Groups, CNCF offers the following benefits:
-- One-time complimentary swag coupon of $100 USD to the CNCF Store provided to each community group (not to each organizer), is available after hosting 2 successful events per chapter within 3 months. NOTE: Registration must happen within the Bevy platform for this coupon to be earned.
+- One-time complimentary swag coupon of $100 USD to the CNCF Store provided to each community group (not to each organizer), is available after hosting 2 successful events per chapter within 3 months. NOTE: Registration must happen within the Bevy platform for this coupon to be earned. Requesting your voucher - write to meetups@cncf.io with your linked Bevy event pages.
 - Joining the CNCF organizer-exclusive Slack channel for collaboration
 - Boosting the visibility of your community group and events. See below under the “Communication” section for more details.
 - Cost coverage for the hosted community platform, Bevy
