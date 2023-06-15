@@ -12,6 +12,7 @@
   - [Support](#support)
     - [Troubleshooting](#troubleshooting)
     - [FAQ](#faq)
+- [Community Group Inactivity](#community-group-inactivity)
 - [Code of Conduct](#code-of-conduct)
 
 ## Program description
