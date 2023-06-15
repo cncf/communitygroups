@@ -71,7 +71,12 @@ The #socialmedia channel via the CNCF slack workspace is also a great place to p
 
 ### Community Group Inactivity
 
-- If your group has more than 90 days of inactivity in the number of events/meetups being help, then you will be deemed an “Inactive” group via the Cloud Native Computing Foundation and removed from [community.cncf.io](https://community.cncf.io/)
+If your group has more than 90 days of inactivity in the number of events/meetups being help, then you will be deemed an “Inactive” group via the Cloud Native Computing Foundation and removed from [community.cncf.io](https://community.cncf.io/)
+
+Should a community group violate vendor neutrality, a CNCF core value, the following path towards deactivation will ocur.
+* 1st offense = a written violation via email
+* 2nd offense = a community meeting with organizers for final warning
+* 3rd offense = disabling your chapter
 
 #### Testing Video
 
