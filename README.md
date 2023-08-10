@@ -1,15 +1,14 @@
 ![cloud native community groups](./cncg.png)
 
-➡️ [Program description](#program-description)
-➡️ [Benefits of joining the CNCF Community Groups Program](#benefits-of-joining-the-cncf-community-groups-program)
-➡️ [Best practices](#best-practices)
-➡️ [How to apply?](#how-to-apply)
-➡️ [How to enable the sync with Meetup.com?](#how-to-enable-the-sync-with-meetupcom)
-➡️ [Bevy training and support](#bevy-training)
-➡️ [Communication](#communication)
-    - [FAQ](#faq)
-➡️ [Community group inactivity](#community-group-inactivity)
-➡️ [Code of Conduct](#code-of-conduct)
+* ➡️ [Program description](#program-description)
+* ➡️ [Benefits of joining the CNCF Community Groups Program](#benefits-of-joining-the-cncf-community-groups-program)
+* ➡️ [Best practices](#best-practices)
+* ➡️ [How to apply?](#how-to-apply)
+* ➡️ [Bevy training and support](#bevy-training)
+* ➡️ [Communication](#communication)
+* ➡️ [FAQ](#faq)
+* ➡️ [Community group inactivity](#community-group-inactivity)
+* ➡️ [Code of Conduct](#code-of-conduct)
 
 ## Program description
 
