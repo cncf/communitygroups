@@ -42,6 +42,13 @@ Please fill out [this request form](https://docs.google.com/forms/d/e/1FAIpQLSck
 * CNCF and Bevy have organized the training session for the Community Groups organizers. It has been recorded and now [available on YouTube](https://www.youtube.com/watch?v=_rBdomoYlmc).
 * You can also access the Bevy Help Portal at <https://help.bevylabs.com/>.
 * [Bevy FAQ can be found here](https://github.com/cncf/communitygroups/blob/main/FAQ.md).
+* If you want to test video features, you can use: https://tokbox.com/developer/tools/precall/
+
+### Support
+
+- If you have any technical difficulties with the platform itself, please reach out to the [Bevy platform support by clicking the purple question mark in the bottom right corner of your Bevy chapter dashboard.
+- Troubleshooting: The troubleshooting guide by Bevy is available here: [help.bevylabs.com/article/499-troubleshooting](https://help.bevylabs.com/article/499-troubleshooting)
+- Last resort, you can reach out to Audra Montenegro in the CNCF Slack workspace to help you, especially if it is time senstive.
 
 ## Communication
 
@@ -52,13 +59,7 @@ It's best if you use a public communication channel whenever possible; however, 
 The #socialmedia channel via the CNCF slack workspace is a great place to post your social media efforts requesting assistance from CNCF to amplify. Just tag Katie Meinders and Jessie Adams-Shore to help amplify your social post.
 
 
-### Support
-
-- If you have any technical difficulties with the platform itself, please reach out to the [Bevy platform support by clicking the purple question mark in the bottom right corner of your Bevy chapter dashboard.
-- Troubleshooting: The troubleshooting guide by Bevy is available here: [help.bevylabs.com/article/499-troubleshooting](https://help.bevylabs.com/article/499-troubleshooting)
-- Last resort, you can reach out to Audra Montenegro in the CNCF Slack workspace to help you, especially if it is time senstive.
-
-### Community Group Inactivity
+## Community Group Inactivity
 
 If your group has more than 90 days of inactivity in the number of events/meetups being help, then you will be deemed an “Inactive” group via the Cloud Native Computing Foundation and removed from [community.cncf.io](https://community.cncf.io/)
 
@@ -66,10 +67,6 @@ Should a community group violate vendor neutrality, a CNCF core value, the follo
 * 1st offense = a written violation via email
 * 2nd offense = a community meeting with organizers for final warning
 * 3rd offense = disabling your chapter
-
-#### Testing Video
-
-If you want to test video features, you can use: https://tokbox.com/developer/tools/precall/
 
 ## Code of Conduct
 
