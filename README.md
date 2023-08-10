@@ -1,4 +1,4 @@
-![cloud native community groups](./cncg.png)
+![cloud native community groups](./CNCG Logo_08102023.jpeg)
 
 * [Program description](#program-description)
 * [Benefits of joining the CNCF Community Groups Program](#benefits-of-joining-the-cncf-community-groups-program)
