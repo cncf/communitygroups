@@ -6,7 +6,6 @@
 * [How to apply/get started](#how-to-apply)
 * [Bevy training and support](#bevy-training)
 * [Communication](#communication)
-* [FAQ](#faq)
 * [Community group inactivity](#community-group-inactivity)
 * [Code of Conduct](#code-of-conduct)
 
