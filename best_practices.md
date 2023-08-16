@@ -63,13 +63,13 @@ A brief description of the role of the CNCF and the Cloud Native approach could 
 
 You can use text from the [Cloud Native Definition](https://github.com/cncf/toc/blob/master/DEFINITION.md).
 
-The most important thing is to keep an **active group**, with frequent events (ideally once a month). We encourage folks to run either online events or regular meetup events.
+The most important thing is to keep an **active group**, with frequent events (ideally once a month | minimum one every 90 days). We encourage folks to run either online events or regular meetup events.
 
 Sustaining a group yourself can be challenging to manage. Ideally, it would be best if you had a team of passionate and committed co-organizers.
 
 Joining forces helps spread the load and expands the network.
 
-## 1. Start planning you event
+## 1. Start planning your event
 
 ### Find Speakers
 
