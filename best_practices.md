@@ -242,7 +242,7 @@ As an organizer, you play a crucial role in managing various aspects of the even
 
 ### CNCF swag
 
-If you're a newly created meetup and added to meetups.cncf.io, please reach out to meetups@cncf.io for a complimentary $50 swag certificate to the [CNCF Store](https://store.cncf.io).
+If you're a **newly** created meetup and added to community.cncf.io, please reach out to meetups@cncf.io for a complimentary $100 swag certificate to the [CNCF Store](https://store.cncf.io).
 
 ### Ask for help
 
