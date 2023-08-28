@@ -6,6 +6,7 @@
 * [How to apply/get started](#how-to-apply)
 * [Bevy training and support](#bevy-training)
 * [Communication](#communication)
+* [Naming your chapter](#naming-your-chapter)
 * [Community group inactivity](#community-group-inactivity)
 * [Code of Conduct](#code-of-conduct)
 
@@ -50,9 +51,15 @@ Please fill out [this request form](https://docs.google.com/forms/d/e/1FAIpQLSck
 - Troubleshooting: The troubleshooting guide by Bevy is available here: [help.bevylabs.com/article/499-troubleshooting](https://help.bevylabs.com/article/499-troubleshooting)
 - Last resort, you can reach out to Audra Montenegro in the CNCF Slack workspace to help you, especially if it is time senstive.
 
+## Naming your chapter
+
+Please use "Cloud Native CITY NAME" when naming your chapter. We ask that you avoid using "CNCF" in the naming convention, as it can misslead people into think CNCF has employees in that location. You may, however, use a tag line that states something similar to, "An official CNCF community group (or chapter)."
+
+"CNCG" is an internal acronym we currenyly use at CNCF and among organizers, but it has not yet gained traction. So we encourage people to avoid using it in the names of their chapters, as of 2023.
+
 ## Communication
 
-Please reach out to us on the #communitygroups channel on the CNCF slack. Please avoid using DMs unless strictly necessary as doing so both has the potential of overwhelming project maintainers and others with similar questions lose the benefit of public discussion.
+Please reach out to us on the #communitygroups channel on the CNCF slack. Please avoid using direct messages unless strictly necessary as doing so both has the potential of overwhelming project maintainers and others with similar questions lose the benefit of public discussion.
 
 It's best if you use a public communication channel whenever possible; however, if you need to communicate in private, please feel free to send the program admins a note via meetups@cncf.io (please use the public channels for any program-related discussion).
 
