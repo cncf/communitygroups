@@ -107,13 +107,13 @@ If you're planning a hands-on demo, you should ensure that the WiFi can handle t
 
 Furthermore, you should check you're not limited by some quotas (Cloud provider).
 
-The choice of date and time matters. Most meetups choose Tuesdays, Wednesdays, or Thursdays after work.
+The choice of date and time matters. Most meetups choose Tuesdays, Wednesdays, or Thursdays after work. But use your discretion, since every culture varies.
 
 ### Booking
 
 If the room capacity limits you, you should do an **overbooking**.
 
-Most of the time, there are 30% of people who RSVP, but they never come.
+Most of the time, there are 30% of people who RSVP, but never come. Recently KCDs (1 to 2 day summit-like events have a 92% show rate).
 
 You should think about sending a **reminder** message to the meetup group to ask the people to free their place if they can't come.
 
@@ -122,9 +122,9 @@ You should think about sending a **reminder** message to the meetup group to ask
 The following steps can be useful to attract more folks for your upcoming event
 
 - Reach out to meetups in the area taking place to share your event (don't forget to return the favor)
-- Post on social media channels and notify the CNCF to bump your message
+- Post on social media channels and notify the CNCF to bump your message. This can be done in the Slack workspace via the #socialmedia channel. Tag Katie Meinder and she will amplify from the CNCF main accounts, provided your post is vendor-nuetral.
 - Place your event in newsletters and podcasts
-- Write a CNCF blog post
+- Write a CNCF blog post that is about 800 words. Submit for review at pr@cncf.io.
 
 
 ## 4. Run the event
@@ -143,7 +143,7 @@ As an introduction to the event, there are common recommendations you should tal
 
 - **CNCF Code of Conduct**: As CNCF Community Event, you oblige by the [code of conduct](https://www.cncf.io/conduct/). You can summarize it to be "excellent to each other"
 - **Taking picture's disclaimer**: Make attendees aware that the organizer team takes pictures, with some selective ones getting shared publicly
-- **Thank the sponsors**
+- **Thank the sponsor(s)**
 - **Welcome feedback**: share information where to reach the organizers to ask questions and share feedback about the event.
 
 ### Hosting the event
@@ -242,8 +242,8 @@ As an organizer, you play a crucial role in managing various aspects of the even
 
 ### CNCF swag
 
-If you're a **newly** created meetup and added to community.cncf.io, please reach out to meetups@cncf.io for a complimentary $100 swag certificate to the [CNCF Store](https://store.cncf.io).
+If you're a **newly** created meetup and added to community.cncf.io, you have the opportunity earn swag! If you have hosted at last two events within a 90-day perdiod, please reach out to meetups@cncf.io for a complimentary $100 swag certificate to the [CNCF Store](https://store.cncf.io). Just link to the two events of yours that are in reference.
 
 ### Ask for help
 
-If you have any other questions, you can ask them in the [CNCF Slack](https://app.slack.com/client/T08PSQ7BQ/C015WPLD3F1).
+If you have any other questions, you can ask them in the [CNCF Slack](https://cloud-native.slack.com/archives/C015WPLD3F1).
