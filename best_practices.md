@@ -242,7 +242,7 @@ As an organizer, you play a crucial role in managing various aspects of the even
 
 ### CNCF swag
 
-If you're a **newly** created meetup and added to community.cncf.io, you have the opportunity earn swag! If you have hosted at last two events within a 90-day perdiod, please reach out to meetups@cncf.io for a complimentary $100 swag certificate to the [CNCF Store](https://store.cncf.io). Just link to the two events of yours that are in reference.
+If you're a **newly** created meetup and added to community.cncf.io, you have the opportunity earn swag! If you have hosted at last two events within a 90-day perdiod, please reach out to community.cncf.io for a complimentary $100 swag certificate to the [CNCF Store](https://store.cncf.io). Just link to the two events of yours that are in reference.
 
 ### Ask for help
 
