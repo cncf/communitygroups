@@ -74,12 +74,15 @@ Joining forces helps spread the load and expands the network.
 ### Find Speakers
 
 You should provide some **form** to allow people to submit their talk proposal similar to this:
-
 https://docs.google.com/forms/d/1V2Y03YMOrIor0M796_WMbYx-fdsn80ngaT-PIum8gUU/edit
 
 > **_Note_**: Make a copy! Please do not edit that form.
 
-When possible, take care to review their presentations.
+When possible, take care to review their presentations, and always abide by CNCF's values to remain vendor nuetral.
+
+Vendor neutrality in the context of a conference session refers to the principle of maintaining an impartial and unbiased environment during the session, particularly when discussing products, services, or solutions offered by different vendors. The goal is to ensure that the content presented is free from any undue influence, endorsements, or promotional activities related to specific vendors.
+
+By adhering to the concept of vendor neutrality it fosters an environment where knowledge sharing and learning take precedence over commercial interests, benefiting both attendees and the broader industry.
 
 Attend **conferences** (e.g, DockerCon, CloudNativeCon, etc.) where you can find speakers and meet many people who use or are involved in the CNCF projects that may be interested in joining your group.
 
