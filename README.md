@@ -7,7 +7,7 @@
 * [Bevy training and support](#bevy-training)
 * [Communication](#communication)
 * [Naming your chapter](#naming-your-chapter)
-* [Community group inactivity](#community-group-inactivity)
+* [Standards of remaining an Active group](#community-group-inactivity)
 * [Code of Conduct](#code-of-conduct)
 
 ## Program description
