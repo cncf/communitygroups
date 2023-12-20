@@ -73,10 +73,12 @@ Joining forces helps spread the load and expands the network.
 
 ### Find Speakers
 
-You should provide some **form** to allow people to submit their talk proposal similar to this:
+You should provide a **form** to allow people to submit their talk proposal similar to this:
 https://docs.google.com/forms/d/1V2Y03YMOrIor0M796_WMbYx-fdsn80ngaT-PIum8gUU/edit
 
 > **_Note_**: Make a copy! Please do not edit that form.
+
+Pro Tip: Sessionize has a community license that you can apply for, if you host free community events. [Read more](https://sessionize.com/playbook/community-license)
 
 When possible, take care to review their presentations, and always abide by CNCF's values to remain vendor nuetral.
 
