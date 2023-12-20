@@ -36,7 +36,7 @@ Please check out our [best_practices](./best_practices.md).
 
 ## How to apply?
 
-Please fill out [this request form](https://docs.google.com/forms/d/e/1FAIpQLScknQNnuhm-BLF4TQ5_wNXhtg18Sg7CWXkvwLhEpbCnyWr9gA/viewform) in its entirety. If you do not hear back within 30 days, please reach out to community-groups@cncf.io Please do not fill out the form more than once for the same chapter/city request.
+Please fill out [this request form](https://docs.google.com/forms/d/e/1FAIpQLScknQNnuhm-BLF4TQ5_wNXhtg18Sg7CWXkvwLhEpbCnyWr9gA/viewform) in its entirety. If you do not hear back within 45 days, please reach out to community-groups@cncf.io Please do not fill out the form more than once for the same chapter/city request.
 
 
 ## Bevy Training
