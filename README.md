@@ -28,7 +28,7 @@ For all Cloud Native Community Groups, CNCF offers the following benefits:
   - This includes support from CNCF (Audra Montenegro and Katie Greenley)
   - And quarterly tips and tricks session hosted by Bevy expert Maia Walshe
 
-✒️ NOTE: With over 180 active global chapters, w cannot monetarily support your community group with sponsorships outside what is listed above.
+✒️ NOTE: With over 180 active global chapters, we cannot monetarily support your community group with sponsorships outside what is listed above, but we are always looking into adding more incentives.
 
 ## Best Practices
 
