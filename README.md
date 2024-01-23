@@ -25,8 +25,9 @@ For all Cloud Native Community Groups, CNCF offers the following benefits:
 - Boosting the visibility of your community group and events. See below under the “Communication” section for more details.
 - 25% discount to Linux Foundation training exams for CKAD and KCNA.
 - Cost coverage for the hosted community platform, Bevy
-  - This includes support from CNCF (Audra Montenegro and Katie Greenley)
+  - This includes support from CNCF (Audra Montenegro and Katie Greenley).
   - And quarterly tips and tricks session hosted by Bevy expert Maia Walshe
+- Office hours hosted once per week in differernt time zones. [See what works best for you](https://community.cncf.io/central-city/), and bring your questions about anything related to CNCF community groups.
 
 ✒️ NOTE: With over 180 active global chapters, we cannot monetarily support your community group with sponsorships outside what is listed above, but we are always looking into adding more incentives.
 
