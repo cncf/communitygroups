@@ -5,7 +5,7 @@ Cloud Native Community Group logos can be found via [the CNCF logo repository](h
 
 NOTE: For naming conventions, please use "Cloud Native CITY NAME" for your social media pages and other promotions. You may use a tagline that statest your groups is an official CNCF chapter.
 
-IMPORTANT: Cloud Native Community Groups are no longer permitted to create their own logos. This will also alleviate organizers having to hire design services. It also creates unity accross all community groups supported by CNCF, and brand awareness for when organizers try to secure sponsorships.
+IMPORTANT: Cloud Native Community Groups are no longer permitted to create their own logos. This will also alleviate organizers having to hire design services. It also creates unity across all community groups supported by CNCF, and brand awareness for when organizers try to secure sponsorships.
 
 # Recognition Help
 
