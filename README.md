@@ -37,10 +37,14 @@ Please check out our [best_practices](./best_practices.md).
 
 ## How to apply?
 
-Please fill out [this request form](https://docs.google.com/forms/d/e/1FAIpQLScknQNnuhm-BLF4TQ5_wNXhtg18Sg7CWXkvwLhEpbCnyWr9gA/viewform) in its entirety. If you do not hear back within 45 days, please reach out to community-groups@cncf.io Please do not fill out the form more than once for the same chapter/city request.
+Applications are on hold for the month of April. We will have a new, transparent form ready by May 2024.
+
+Once a GitHub issue will be filled, there will be a 30-day grace period. If you do not hear back after that amount of time has passed, please reach out to community-groups@cncf.io.
 
 
 ## Bevy Training
+
+Bevy is the platform that backs community.cncf.io. With over 190 ACTIVE chapters (as of 2024), Bevy allows for in-person and virtual meetups, co-hosting, emailing your attendees, transparent analytics for organizers, and a microsite (small website) that can feature sponsors, speakers, and more!
 
 * CNCF and Bevy have organized the training session for the Community Groups organizers. It has been recorded and now [available on YouTube](https://www.youtube.com/watch?v=_rBdomoYlmc).
 * You can also access the Bevy Help Portal at <https://help.bevylabs.com/>.
