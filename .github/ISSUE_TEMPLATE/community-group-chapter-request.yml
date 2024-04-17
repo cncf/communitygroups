@@ -1,5 +1,5 @@
-name: Cloud Native Community Group (CNCG) Application
-description: Thank you for your interest in hosting a community group. Please read the CNCG guidelines and understand what a CNCF chapter is along with the [benefits and expectations](https://github.com/cncf/communitygroups/blob/main/README.md) for city chapters.
+name: "Cloud Native Community Group (CNCG) Application"
+description: "Thank you for your interest in hosting a community group. Please read the CNCG guidelines and understand what a CNCF chapter is along with the [benefits and expectations](https://github.com/cncf/communitygroups/blob/main/README.md) for city chapters."
 labels: [New]
 
 body:
