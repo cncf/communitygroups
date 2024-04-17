@@ -1,10 +1,13 @@
 name: "Cloud Native Community Group (CNCG) Application"
-description: "Thank you for your interest in hosting a community group. Please read the CNCG guidelines and understand what a CNCF chapter is along with the [benefits and expectations](https://github.com/cncf/communitygroups/blob/main/README.md) for city chapters."
+description: Apply for a new chapter
+title: "Cloud Native <City Name>"
 labels: [New]
-
 body:
 - type: markdown
-
+attributes:
+value: | "Thank you for your interest in hosting a community group. Please read the CNCG guidelines and understand what a CNCF chapter is along with the [benefits and expectations](https://github.com/cncf/communitygroups/blob/main/README.md) for city chapters."
+- type: textarea
+  attributes:
 label: Name of your chapter name
     description: New chapters should to begin a city level, with the opportunity grow over time.
     placeholder: Cloud Native CITY NAME
