@@ -6,48 +6,52 @@ body:
 - type: markdown
 
 label: Name of your chapter name
-    description: New chapters should to begin a city-level, with the opportunity grow over time.
+    description: New chapters should to begin a city level, with the opportunity grow over time.
     placeholder: Cloud Native CITY NAME
   validations:
     required: true
 - type: input
   attributes:
 
-    label: Application contact emails
+label: Application contact emails
     description: Provide the email address(es) of individuals who should be contacted regarding this application. If more than one email is provided, please comma separate them.
     placeholder: Comma-separate multiple emails here
   validations:
     required: true
 - type: input
   attributes:
-
+  
 label: Chapter Summary
-description: Provide a very brief, single line summary of the chapter and desire for it.
-placeholder: This chapter brings together...
+    description: Provide a very brief, single line summary of the chapter and desire for it.
+    placeholder: This chapter brings together...
   validations:
     required: true
 - type: input
   attributes:
 
 label: Chapter Desription
-description: Provide a brief, 100-300 word description of the chapter that explains what it aims to do, and who it intends to gather.
-placeholder: This chapter brings together...
+    description: Provide a brief, 100-300 word description of the chapter that explains what it aims to do, and who it intends to gather.
+    placeholder: This chapter brings together...
   validations:
     required: true
 - type: input
   attributes:
 
 label: Tell as about yourself and other organizers
-description: Provide the name(s) and email address(es) of yourself and any other individual who should be contacted regarding this application. If more than one email is provided, please comma separate them.
-placeholder: Applicant(s) name and contact email(s)
+    description: Provide the name(s) and email address(es) of yourself and any other individual who should be contacted regarding this application. If more than one email is provided, please comma separate them.
+    placeholder: Applicant(s) name and contact email(s)
  validations:
     required: true
+ - type: input
+    attributes:
 
 label: Your personal URL references
 description: Add your LinkedIn profile to showcase your experience with community, and any URL pointing to meetups you may currently be hosting. If you have a GitHub account, please add it as well.]
 placeholder: Your community.cncf.io profile URL
 validations:
     required: true
+ - type: input
+    attributes:
   
 - propertyName: response to CoC
     name: Agree to CoC
