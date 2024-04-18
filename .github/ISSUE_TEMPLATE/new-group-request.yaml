@@ -1,38 +1,69 @@
 name: New Cloud Native Community Group request
-description: Request to create a new CNCG 
-title: "[Group Request] Create a new CNCG"
+description: Request to create a new Cloud Native Community group by city. 
+title: "[Group Request] Create a new chapter"
 body:
 - id: group_name
   type: input
   attributes:
-    label: Requested name for the new CNCG
-    placeholder: e.g. Cloud Native Community Japan (CNCJ)
+    label: Requested name for the new CNCG (by city)
+    placeholder: e.g. Cloud Native San Francisco
   validations:
     required: true
 - id: location
   type: input
   attributes:
-    label: What region or location are you wanting to start your CNCG?
-    placeholder: e.g. Tokyo, Japan
+    label: What country are you wanting to start your CNCG?
+    placeholder: e.g. United States
   validations:
     required: true
-- id: description
+- id: collaborators
   type: textarea
   attributes:
-    label: What should the repo description be?
+    label: List your name and email, along with any co-organizer(s) details and cama separate details betwen organizers
+  placeholder: e.g. First/GivenName Last/FamilyName email, Organizer 2 details
   validations:
     required: false
-- id: collaborators
+- id: GitHub and LinkedIn Profiles
   type: input
   attributes:
-    label: List any other organizer's GitHub handles
-    placeholder: e.g. @jeefy @amye
+    label: List both GitHun and LinkedIn URLs for all organizers
+    placeholder: e.g. @AudMonte01, https://www.linkedin.com/in/audramontenegro/ 
   validations:
     required: true
 - id: content
   type: textarea
   attributes:
     label: What type of content or specific technologies do you want to focus on?
-    placeholder: Kubernetes, Observability, other CNCF projects, etc.
+    placeholder: e.g. Kubernetes, Observability, other or all CNCF projects
   validations:
     required: false
+    - id: CNCF community profile
+  type: textarea
+  attributes:
+    label: You must have a profile on community.cncf.io asscoiated with the above-listed email address(es)
+    placeholder: e.g. https://community.cncf.io/u/m8bqcv/#/about, 
+  validations:
+    required: false
+    - id: Organizer Terms
+  type: checkboxes
+  attributes:
+    label: Code of Conduct
+    description: The Code of Conduct helps create a safe space for everyone. We require
+      that everyone agrees to it, including any and all futre speakers and future co-organizers
+    options:
+      - label: I agree to follow the CNCF code of conduct [https://github.com/cncf/foundation/blob/main/code-of-conduct.md]
+        required: true
+  type: checkboxes
+  attributes:
+    label: Inclusive
+    description: You agree to be inclusive of all people eager to learn about cloud native, no matter what level of expertise they are at
+    options:
+      - label: I agree. To assure this, I have recently completed the [Inclusive Open Source Community Orientation (LFC102) course](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
+        required: true
+  type: checkboxes
+  attributes:
+    label: Vendor-Nuetral
+    description: You agree to host vendor-nuetral content for the main portion of your meetups (note: sponsors can have up to 15 minutes on stage to pitch a product or service)
+    options:
+      - label: I have read what [vendor-nuetrality means](https://contribute.cncf.io/maintainers/community/vendor-neutrality/), (and my other organizers) agree that the main content of our meetups will remain vendor-nuetral.
+        required: true
