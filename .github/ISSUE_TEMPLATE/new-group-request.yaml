@@ -19,8 +19,8 @@ body:
 - id: collaborators
   type: textarea
   attributes:
-    label: List your name and email, along with any co-organizer(s) details and comma separating details betwen organizers
-    placeholder: e.g. First/GivenName Last/FamilyName email, Organizer 2 details
+    label: List your name and email, along with any co-organizer(s) details (please use commas to separate details between organizers)
+    placeholder: e.g. First/Given Name Last/Family Name (email), Organizer 2 details
   validations:
     required: false
 - id: social_profiles
