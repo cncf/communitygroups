@@ -5,7 +5,7 @@ body:
 - id: group_name
   type: input
   attributes:
-    label: Requested name for the new CNCG by city. NOTE: If you recently had a deactivated chapter, please do not fill out this form, and reach out to community-groups@cncf.io.
+    label: Requested name for the new CNCG by city. If you recently had a deactivated chapter, please do not fill out this form, and reach out to community-groups@cncf.io.
     placeholder: e.g. Cloud Native San Francisco
   validations:
     required: true
