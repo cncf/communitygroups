@@ -20,7 +20,7 @@ body:
   type: textarea
   attributes:
     label: List your name and email, along with any co-organizer(s) details and cama separate details betwen organizers
-  placeholder: e.g. First/GivenName Last/FamilyName email, Organizer 2 details
+    placeholder: e.g. First/GivenName Last/FamilyName email, Organizer 2 details
   validations:
     required: false
 - id: social_profiles
