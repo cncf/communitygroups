@@ -37,14 +37,14 @@ body:
     placeholder: e.g. Kubernetes, Observability, other or all CNCF projects
   validations:
     required: false
-    - id: CNCF community profile
+- id: CNCF community profile
   type: textarea
   attributes:
     label: You must have a profile on community.cncf.io asscoiated with the above-listed email address(es)
     placeholder: e.g. https://community.cncf.io/u/m8bqcv/#/about, 
   validations:
     required: false
-    - id: Organizer Terms
+- id: Organizer Terms
   type: checkboxes
   attributes:
     label: Code of Conduct
@@ -53,6 +53,7 @@ body:
     options:
       - label: I agree to follow the CNCF code of conduct [https://github.com/cncf/foundation/blob/main/code-of-conduct.md]
         required: true
+- id: Inclusivity
   type: checkboxes
   attributes:
     label: Inclusive
@@ -60,9 +61,10 @@ body:
     options:
       - label: I agree. To assure this, I have recently completed the [Inclusive Open Source Community Orientation (LFC102) course](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
         required: true
+- id: Vendor Neutral
   type: checkboxes
   attributes:
-    label: Vendor-Nuetral
+    label: Vendor-Neutral
     description: You agree to host vendor-nuetral content for the main portion of your meetups (note: sponsors can have up to 15 minutes on stage to pitch a product or service)
     options:
       - label: I have read what [vendor-nuetrality means](https://contribute.cncf.io/maintainers/community/vendor-neutrality/), (and my other organizers) agree that the main content of our meetups will remain vendor-nuetral.
