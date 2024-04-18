@@ -20,7 +20,7 @@ body:
   type: textarea
   attributes:
     label: Tell us about yourself. List your name, email, company, GitHub URL, LinkedIn URL, and CNCF Slack workspace name (or if you need to be invited)
-    placeholder: e.g. Audra Montenegro, CNCF, https://github.com/AudMonte01, https://www.linkedin.com/in/audramontenegro/, CNCF Slack: Audra Montenegro
+    placeholder: e.g. Audra Montenegro, CNCF, https://github.com/AudMonte01, https://www.linkedin.com/in/audramontenegro/, Audra Montenegro in CNCF Slack
   validations:
     required: false
 - id: collaborators
