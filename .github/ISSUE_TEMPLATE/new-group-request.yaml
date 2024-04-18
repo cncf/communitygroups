@@ -12,7 +12,7 @@ body:
 - id: location
   type: input
   attributes:
-    label: What country are you wanting to start your CNCG?
+    label: What country are you wanting to start your CNCG in?
     placeholder: e.g. United States
   validations:
     required: true
@@ -26,7 +26,7 @@ body:
 - id: social_profiles
   type: input
   attributes:
-    label: List both GitHun and LinkedIn URLs for all organizers
+    label: List both GitHub and LinkedIn URLs for all organizers
     placeholder: e.g. @AudMonte01, https://www.linkedin.com/in/audramontenegro/ 
   validations:
     required: true
@@ -49,7 +49,7 @@ body:
   attributes:
     label: Code of Conduct
     description: The Code of Conduct helps create a safe space for everyone. We require
-      that everyone agrees to it, including any and all futre speakers and future co-organizers
+      that everyone agrees to it, including any and all futre speakers and future co-organizers.
     options:
       - label: I agree to follow the CNCF code of conduct [https://github.com/cncf/foundation/blob/main/code-of-conduct.md]
         required: true
@@ -57,7 +57,7 @@ body:
   type: checkboxes
   attributes:
     label: Inclusive
-    description: You agree to be inclusive of all people eager to learn about cloud native, no matter what level of expertise they are at
+    description: You agree to be inclusive of all people eager to learn about cloud native, no matter what level of expertise they are in their journey.
     options:
       - label: I agree. To assure this, I have recently completed the [Inclusive Open Source Community Orientation (LFC102) course](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
         required: true
@@ -67,5 +67,5 @@ body:
     label: Vendor Neutral
     description: "You agree to host vendor-nuetral content for the main portion of your meetups (note: sponsors can have up to 15 minutes on stage to pitch a product or service)"
     options:
-      - label: I have read what [vendor-nuetrality means](https://contribute.cncf.io/maintainers/community/vendor-neutrality/), (and my other organizers) agree that the main content of our meetups will remain vendor-nuetral.
+      - label: I have read what [vendor-nuetrality means](https://contribute.cncf.io/maintainers/community/vendor-neutrality/), (and my other organizers) agree that the main content of our meetups will remain vendor-nuetral
         required: true
