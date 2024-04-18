@@ -90,7 +90,7 @@ body:
         required: true
   type: checkboxes
   attributes:
-    label: Agree to use Cloud Native Community Group branding
+    label: Agree to use CNCG branding
     description: "In an effort to avoide trademark miss-use, and have unity within the CNCG program, you agree to use [CNCG branding](https://github.com/cncf/artwork/blob/main/examples/other.md#cloud-native-community-groups)."
       - label: I agree to use the CNCG logo in my chapter and social branding
         required: true
