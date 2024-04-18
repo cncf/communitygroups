@@ -1,0 +1,38 @@
+name: New Cloud Native Community Group request
+description: Request to create a new CNCG 
+title: "[Group Request] Create a new CNCG"
+body:
+- id: group_name
+  type: input
+  attributes:
+    label: Requested name for the new CNCG
+    placeholder: e.g. Cloud Native Community Japan (CNCJ)
+  validations:
+    required: true
+- id: location
+  type: input
+  attributes:
+    label: What region or location are you wanting to start your CNCG?
+    placeholder: e.g. Tokyo, Japan
+  validations:
+    required: true
+- id: description
+  type: textarea
+  attributes:
+    label: What should the repo description be?
+  validations:
+    required: false
+- id: collaborators
+  type: input
+  attributes:
+    label: List any other organizer's GitHub handles
+    placeholder: e.g. @jeefy @amye
+  validations:
+    required: true
+- id: content
+  type: textarea
+  attributes:
+    label: What type of content or specific technologies do you want to focus on?
+    placeholder: Kubernetes, Observability, other CNCF projects, etc.
+  validations:
+    required: false

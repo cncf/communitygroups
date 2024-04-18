@@ -11,16 +11,4 @@ repository:
   homepage: https://community.cncf.io/
 
   # Collaborators: give specific users access to this repository.
-  collaborators:
-  # Admins
-  - username: caniszczyk
-    permission: admin
-
-  - username: idvoretskyi
-    permission: admin
-    
-  - username: amye
-    permission: admin
-    
-  - username: xmulligan
-    permission: admin
+  # This should be managed via CLOWarden, see https://github.com/cncf/people
