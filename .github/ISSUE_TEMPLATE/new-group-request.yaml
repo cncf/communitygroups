@@ -5,14 +5,15 @@ body:
 - id: group_name
   type: input
   attributes:
-    label: Requested name for the new CNCG by city. If you recently had a deactivated chapter, please do not fill out this form, and reach out to community-groups@cncf.io.
+    label: City name for the new CNCG
+    description: "If you recently had a deactivated chapter, please do not fill out this form, and reach out to community-groups@cncf.io."
     placeholder: e.g. Cloud Native San Francisco
   validations:
     required: true
 - id: location
   type: input
   attributes:
-    label: What country are you wanting to start your community group in?
+    label: What country do you want to start your community group in?
     placeholder: e.g. United States
   validations:
     required: true
@@ -40,14 +41,15 @@ body:
 - id: content
   type: textarea
   attributes:
-    label: What type of content or specific technologies do you want to focus on? If you run another meetup, please link it here.
+    label: What type of content or specific technologies do you want to focus on?
+    description: "If you already run a meetup, please link it here."
     placeholder: e.g. Kubernetes, Observability, other or all CNCF projects
   validations:
     required: false
 - id: community_profile
   type: textarea
   attributes:
-    label: You must have a profile on community.cncf.io asscoiated with the above-listed email address(es)
+    label: You must have a profile on [community.cncf.io](https://community.cncf.io) asscoiated with the above-listed email address(es)
     placeholder: e.g. https://community.cncf.io/u/m8bqcv/#/about, 
   validations:
     required: false
@@ -58,7 +60,7 @@ body:
     description: "The Code of Conduct helps create a safe space for everyone. We require
       that everyone agrees to it, including any and all futre speakers and future co-organizers."
     options:
-      - label: I agree to follow the CNCF code of conduct [https://github.com/cncf/foundation/blob/main/code-of-conduct.md]
+      - label: I agree to follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
         required: true
 - id: organizer_residency
   type: checkboxes
