@@ -60,6 +60,7 @@ body:
     options:
       - label: I agree to follow the CNCF code of conduct [https://github.com/cncf/foundation/blob/main/code-of-conduct.md]
         required: true
+- id: organizer_residency
   type: checkboxes
   attributes:
     label: Where organizers reside
@@ -67,6 +68,7 @@ body:
     options:
       - label: I confirm I am local to or leave near the city I am proposing a chapter for.
         required: true
+- id: organizer_affiliation
   type: checkboxes
   attributes:
     label: Organizers companies/affiliations
@@ -74,6 +76,7 @@ body:
     options:
       - label: You agree if there is more than one organizer now, or onboarded in the future, the majority comes from different companies
         required: true
+- id: organizer_inclusivity
   type: checkboxes
   attributes:
     label: Inclusive
@@ -81,6 +84,7 @@ body:
     options:
       - label: I agree. To assure this, I have recently completed the [Inclusive Open Source Community Orientation (LFC102) course](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
         required: true
+- id: organizer_neutrality
   type: checkboxes
   attributes:
     label: Vendor Neutral
@@ -88,12 +92,14 @@ body:
     options:
       - label: I have read what [vendor-nuetrality means](https://contribute.cncf.io/maintainers/community/vendor-neutrality/), (and my other organizers) agree that the main content of our meetups will remain vendor-nuetral
         required: true
+- id: organizer_branding
   type: checkboxes
   attributes:
     label: Agree to use CNCG branding
     description: "In an effort to avoide trademark miss-use, and have unity within the CNCG program, you agree to use [CNCG branding](https://github.com/cncf/artwork/blob/main/examples/other.md#cloud-native-community-groups)."
       - label: I agree to use the CNCG logo in my chapter and social branding
         required: true
+- id: organizer_bevy
   type: checkboxes
   attributes:
     label: Registration through Bevy
@@ -101,6 +107,7 @@ body:
     options:
       - label: I agree to host free registration in Bevy
         required: true
+- id: organizer_activity
   type: checkboxes
   attributes:
     label: Remain an active chapter
@@ -108,6 +115,7 @@ body:
     options:
       - label: I agree to have a meetup at least once every 90 days, or else communicate reasoning for upcoming inactivity.
         required: true
+- id: organizer_collaboration
   type: checkboxes
   attributes:
     label: Collaboration with other chapters
@@ -115,6 +123,7 @@ body:
     options:
       - label: I acknowledge the CNCF right to approve additional chapters in my area based on this criteria
         required: true
+- id: organizer_diversity
   type: checkboxes
   attributes:
     label: Aim to have a diverse representation of speakers in your meetups
