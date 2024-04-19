@@ -38,19 +38,19 @@ body:
     placeholder: e.g. If you have a co-organizer, please list the same details as you did for yourself
   validations:
     required: false
+- id: community_profile
+  type: textarea
+  attributes:
+    label: You must have a profile on community.cncf.io asscoiated with the above-listed email address(es)
+    placeholder: e.g. https://community.cncf.io/u/m8bqcv/#/about, 
+  validations:
+    required: false
 - id: content
   type: textarea
   attributes:
     label: What type of content or specific technologies do you want to focus on?
     description: "If you already run a meetup, please link it here."
     placeholder: e.g. Kubernetes, Observability, other or all CNCF projects
-  validations:
-    required: false
-- id: community_profile
-  type: textarea
-  attributes:
-    label: You must have a profile on [community.cncf.io](https://community.cncf.io) asscoiated with the above-listed email address(es)
-    placeholder: e.g. https://community.cncf.io/u/m8bqcv/#/about, 
   validations:
     required: false
 - id: organizer_coc
