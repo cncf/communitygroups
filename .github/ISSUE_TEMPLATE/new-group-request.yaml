@@ -16,21 +16,21 @@ body:
     placeholder: e.g. United States
   validations:
     required: true
-- id: organizer
+- id: organizer_1
   type: textarea
   attributes:
     label: Tell us about yourself. List your name, email, company, GitHub URL, LinkedIn URL, and CNCF Slack workspace name (or if you need to be invited)
     placeholder: e.g. Audra Montenegro, CNCF, https://github.com/AudMonte01, https://www.linkedin.com/in/audramontenegro/, Audra Montenegro in CNCF Slack
   validations:
     required: false
-- id: collaborators
+- id: organizer_2
   type: input
   attributes:
     label: Organizer 2
     placeholder: e.g. If you have a co-organizer, please list the same details as you did for yourself
   validations:
     required: false
-- id: collaborators
+- id: organizer_3
   type: input
   attributes:
     label: Organizer 3
@@ -51,7 +51,7 @@ body:
     placeholder: e.g. https://community.cncf.io/u/m8bqcv/#/about, 
   validations:
     required: false
-- id: organizer_terms
+- id: organizer_coc
   type: checkboxes
   attributes:
     label: Code of Conduct
