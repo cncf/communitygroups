@@ -5,7 +5,7 @@ body:
 - chars: ! "\U0001F68F"
   codes: 1F68F
   name: BUS STOP
-  description: "Before submitting an issue here, please be sure to check all open issues to assure there is not already another group being proposed for the same area. If there is, please comment within that GitHub issue, with your interest to co-organize. Prior to getting here, you should have already explored pre-existing chapter on community.cncf.io. If you find a pre-existing chapter there, then please use the 'Contact Us' button to reach out to the organizers. It is good practice to first attend their meetups (if they do not already know you)."
+  description: "Before submitting an issue here, please be sure to check all open issues to assure there is not already another group being proposed for the same area. If there is, please comment within that GitHub issue, with your interest to co-organize. Prior to getting here, you should have already explored pre-existing chapter on community.cncf.io. If you find a pre-existing chapter there, then please use the 'Contact Us' button to reach out to the organizers. It is good practice to first attend their meetups (if they do not already know you). Please give up to 45 days to hear a response from us, as we review your request, and perform our due diligence of assuring there is not already a pre-exisiting chapter."
 - id: group_name
   type: input
   attributes:
@@ -136,7 +136,4 @@ body:
     description: "Diversity means something different for each country. The commonality among all countries is to strive to promote women or non-male speakers."
     options:
       - label: I/We will do our best to host diverse speakers throughout the year
-        required: true
-- id: response_time
-    description: "Please give up to 45 days to hear a response from us, as we review your request, and perform our due diligence of assuring there is not already a pre-exisiting chapter."
- 
+        required: true 
