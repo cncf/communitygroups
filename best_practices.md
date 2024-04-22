@@ -96,9 +96,12 @@ It is better to find a place in a central location. Downtown would be ideal beca
 
 If you are on a budget to order food, it is usually best to opt for cold dishes. It is highly recommended to offer vegan and vegetarian options.
 
-## 2. Schedule a new event
+What to offer the sponsors in return
+* Thank your sponsors by highlighting them in the "Sponsor" tab within your Bevy event settings. You can do this by uploading their logo and adding a link that takes people to their website.
+* Offer your sponsor to set up a small table in our just outside the room, so people can engage in conversation.
+* Offer your sponsor no more than 15 minutes of talking time on the stage. But be sure they are NOT the main content.
 
-First of all, don't forget to thank your sponsors.
+## 2. Schedule a new event
 
 Then the essential information is about the agenda. Each talk description should contain:
 
