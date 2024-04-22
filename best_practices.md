@@ -26,7 +26,7 @@ Each of the steps above are now described in more detail.
 - [0. Create the Cloud Native Community Group](#0-create-the-cloud-native-community-group)
 - [1. Start planning you event](#1-start-planning-you-event)
   * [Find Speakers](#find-speakers)
-  * [Find sponsors/place](#find-sponsors-place)
+  * [Sponsorships](#sponsorships)
 - [2. Schedule a new event](#2-schedule-a-new-event)
   * [Booking](#booking)
 - [3. Announce the event](#3-announce-the-event)
@@ -88,7 +88,7 @@ By adhering to the concept of vendor neutrality it fosters an environment where 
 
 Attend **conferences** (e.g, DockerCon, CloudNativeCon, etc.) where you can find speakers and meet many people who use or are involved in the CNCF projects that may be interested in joining your group.
 
-### Find sponsors/place
+### Sponsorships
 
 You should contact local technology companies. Many of them are interested in hosting such kind of events.
 
