@@ -2,10 +2,14 @@ name: New Cloud Native Community Group (CNCG) request
 description: Request to create a new Cloud Native Community group by city. 
 title: "[Group Request] Create a new chapter"
 body:
+- chars: ! "\U0001F68F"
+  codes: 1F68F
+  name: BUS STOP
+  description: "Before submitting an issue here, please be sure to check all open issues to assure there is not already another group being proposed for the same area. If there is, please comment within that GitHub issue, with your interest to co-organize. Prior to getting here, you should have already explored pre-existing chapter on community.cncf.io. If you find a pre-existing chapter there, then please use the 'Contact Us' button to reach out to the organizers. It is good practice to first attend their meetups (if they do not already know you)."
 - id: group_name
   type: input
   attributes:
-    label: City name for the new CNCG
+    label: City or location name for your CNCG
     description: "If you recently had a deactivated chapter, please do not fill out this form, and reach out to community-groups@cncf.io."
     placeholder: e.g. Cloud Native San Francisco
   validations:
@@ -20,39 +24,38 @@ body:
 - id: organizer_1
   type: textarea
   attributes:
-    label: Tell us about yourself. List your name, email, company, GitHub URL, LinkedIn URL, and CNCF Slack workspace name (or if you need to be invited)
-    placeholder: e.g. Audra Montenegro, CNCF, https://github.com/AudMonte01, https://www.linkedin.com/in/audramontenegro/, Audra Montenegro in CNCF Slack
+    label: Tell us about yourself. List your name, email, company, GitHub URL, LinkedIn URL, and CNCF Slack workspace name (or if you need to be invited), and a required profile link on community.cncf.io
+    placeholder: e.g. Audra Montenegro, CNCF, https://github.com/AudMonte01, https://www.linkedin.com/in/audramontenegro/, Audra Montenegro in CNCF Slack, https://community.cncf.io/u/m8bqcv/#/about
   validations:
-    required: false
+    required: true
 - id: organizer_2
-  type: input
+  type: textarea
   attributes:
-    label: Organizer 2
-    placeholder: e.g. If you have a co-organizer, please list the same details as you did for yourself
+    label: Tell us about your co-organizer. List their name, email, company, GitHub URL, LinkedIn URL, and CNCF Slack workspace name (or if they need to be invited), and a required profile link on community.cncf.io
+    placeholder: e.g. Audra Montenegro, CNCF, https://github.com/AudMonte01, https://www.linkedin.com/in/audramontenegro/, Audra Montenegro in CNCF Slack, https://community.cncf.io/u/m8bqcv/#/about
   validations:
     required: false
 - id: organizer_3
-  type: input
-  attributes:
-    label: Organizer 3
-    placeholder: e.g. If you have a co-organizer, please list the same details as you did for yourself
-  validations:
-    required: false
-- id: community_profile
   type: textarea
   attributes:
-    label: You must have a profile on community.cncf.io asscoiated with the above-listed email address(es)
-    placeholder: e.g. https://community.cncf.io/u/m8bqcv/#/about, 
+    label: Tell us about your co-organizer. List their name, email, company, GitHub URL, LinkedIn URL, and CNCF Slack workspace name (or if they need to be invited), and a required profile link on community.cncf.io
+    placeholder: e.g. Audra Montenegro, CNCF, https://github.com/AudMonte01, https://www.linkedin.com/in/audramontenegro/, Audra Montenegro in CNCF Slack, https://community.cncf.io/u/m8bqcv/#/about
   validations:
     required: false
 - id: content
   type: textarea
   attributes:
-    label: What type of content or specific technologies do you want to focus on?
-    description: "If you already run a meetup, please link it here."
-    placeholder: e.g. Kubernetes, Observability, other or all CNCF projects
+    label: If you already run a meetup, please link it here
+    placeholder: e.g. https://www.meetup.com/bay-area-kubernetes-meetup/
   validations:
     required: false
+- id: meetup.com
+  type: textarea
+  attributes:
+    label: What type of content or specific technologies do you want to focus on? 
+    placeholder: e.g. Kubernetes, Observability, other or all CNCF projects
+  validations:
+    required: true
 - id: organizer_coc
   type: checkboxes
   attributes:
@@ -60,7 +63,7 @@ body:
     description: "The Code of Conduct helps create a safe space for everyone. We require
       that everyone agrees to it, including any and all futre speakers and future co-organizers."
     options:
-      - label: I agree to follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
+      - label: I/We agree to follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
         required: true
 - id: organizer_residency
   type: checkboxes
@@ -68,7 +71,7 @@ body:
     label: Where organizers reside
     description: "All CNCG organizers must live in the area they are inquiring to host a chapter in. The above-mentioned city must be where you reside full time."
     options:
-      - label: I confirm I am local to or leave near the city I am proposing a chapter for.
+      - label: I/We confirm I/we am/are local to or live near the city of the above-proposed chapter.
         required: true
 - id: organizer_affiliation
   type: checkboxes
@@ -76,7 +79,7 @@ body:
     label: Organizers companies/affiliations
     description: "Not all CNCG organizers can be from the same company."
     options:
-      - label: You agree if there is more than one organizer now, or onboarded in the future, the majority comes from different companies
+      - label: I/We agree if there is more than one organizer now, or onboarded in the future, the majority comes from different companies
         required: true
 - id: organizer_inclusivity
   type: checkboxes
@@ -84,7 +87,7 @@ body:
     label: Inclusive
     description: "You agree to be inclusive of all people eager to learn about cloud native, no matter what level of expertise they are in their journey."
     options:
-      - label: I agree. To assure this, I have recently completed the [Inclusive Open Source Community Orientation (LFC102) course](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
+      - label: I/We agree. To assure this, I/we have recently completed the [Inclusive Open Source Community Orientation (LFC102) course](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
         required: true
 - id: organizer_neutrality
   type: checkboxes
@@ -92,7 +95,7 @@ body:
     label: Vendor Neutral
     description: "CNCGs should have vendor-nuetral content for the main portion of your meetups (note: sponsors can have up to 15 minutes on stage to pitch a product or service)"
     options:
-      - label: I have read what [vendor-nuetrality means](https://contribute.cncf.io/maintainers/community/vendor-neutrality/), (and my other organizers) agree that the main content of our meetups will remain vendor-nuetral
+      - label: I/We have read what [vendor-nuetrality means](https://contribute.cncf.io/maintainers/community/vendor-neutrality/), (and my other organizers) agree that the main content of our meetups will remain vendor-nuetral
         required: true
 - id: organizer_branding
   type: checkboxes
@@ -100,7 +103,7 @@ body:
     label: Agree to use CNCG branding
     description: "In an effort to avoide trademark miss-use, and have unity within the CNCG program, you agree to use [CNCG branding](https://github.com/cncf/artwork/blob/main/examples/other.md#cloud-native-community-groups)."
     options:
-      - label: I agree to use the CNCG logo in my chapter and social branding
+      - label: I/We agree to use the CNCG logo in my chapter and social branding
         required: true
 - id: organizer_bevy
   type: checkboxes
@@ -108,23 +111,23 @@ body:
     label: Registration through Bevy
     description: "In order to properly support your chapter with benefits, registration for your meetups must be through Bevy, or the current CNCF community platform."
     options:
-      - label: I agree to host free registration in Bevy
+      - label: I/We agree to host free registration in Bevy
         required: true
 - id: organizer_activity
   type: checkboxes
   attributes:
     label: Remain an active chapter
-    description: "You agree to host a meetup, study group, or virtual event at least 1 time every 90 days (quarter). And if you foresee a delay, I will notify the CNCF team via community-groups@cncf.io"
+    description: "You agree to host a meetup, study group, or virtual event [at least 1 time every 90 days (quarter)](https://github.com/cncf/communitygroups/blob/main/README.md#community-group-inactivity). And if you foresee a delay, I will notify the CNCF team via community-groups@cncf.io"
     options:
-      - label: I agree to have a meetup at least once every 90 days, or else communicate reasoning for upcoming inactivity.
+      - label: I/We agree to have a meetup at least once every 90 days, or else communicate reasoning for upcoming inactivity.
         required: true
 - id: organizer_collaboration
   type: checkboxes
   attributes:
     label: Collaboration with other chapters
-    description: "CNCF has the right to approve additional chapters in your area if you live in city of over 1 million people"
+    description: "CNCF has the right to approve additional chapters in your area if you live in a significant populous area."
     options:
-      - label: I acknowledge the CNCF right to approve additional chapters in my area based on this criteria
+      - label: I/We acknowledge the CNCF right to approve additional chapters in my area based on this criteria
         required: true
 - id: organizer_diversity
   type: checkboxes
@@ -132,5 +135,8 @@ body:
     label: Aim to have a diverse representation of speakers in your meetups
     description: "Diversity means something different for each country. The commonality among all countries is to strive to promote women or non-male speakers."
     options:
-      - label: Along with my co-organizers, we will do our best to currate diverse content throughout the year
+      - label: I/We will do our best to host diverse speakers throughout the year
         required: true
+- id: response_time
+    description: "Please give up to 45 days to hear a response from us, as we review your request, and perform our due diligence of assuring there is not already a pre-exisiting chapter."
+ 
