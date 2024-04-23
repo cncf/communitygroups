@@ -2,12 +2,10 @@ name: New Cloud Native Community Group (CNCG) request
 description: Request to create a new Cloud Native Community group by city
 title: "[Group Request] Create a new chapter"
 body:
-- id: submission_warning
-  type: markdown
+- type: markdown
   attributes:
-    label: Please give up to 45 days to review your request. Before submitting an issue here, please be sure to check all open issues to assure there is not already another group requesting a chapter in the same area. If there is, please comment with your interest to co-organize within that GitHub issue. Prior to getting here, you should have already explored pre-existing chapters on community.cncf.io. If you find your location there, then please use the 'Contact Us' button to reach out to the organizers. 
-  validations:
-    required: false
+    value: |
+      Please give up to 45 days to review your request. Before submitting an issue here, please be sure to check all open issues to assure there is not already another group requesting a chapter in the same area. If there is, please comment with your interest to co-organize within that GitHub issue. Prior to getting here, you should have already explored pre-existing chapters on community.cncf.io. If you find your location there, then please use the 'Contact Us' button to reach out to the organizers. 
 - id: group_name
   type: input
   attributes:
