@@ -5,8 +5,8 @@ body:
 - type: markdown
   attributes:
     value: |
-      Please give CNCF up to 45 days to review your request. Before submitting an issue here, please be sure to check all open issues to assure there is not already another group requesting a chapter in the same area. If there is, please comment with your interest to co-organize within that GitHub issue. Prior to getting here, you should have already explored pre-existing chapters on community.cncf.io. If you find your location there, then please use the 'Contact Us' button to reach out to the organizers. 
-- id: group_name
+      Prior to getting here, you should have already checked community.cncf.io for active chapters in your area. If you wish to collaborate with them, please use the 'Contact Us" button. If they are not responsive, please file an organizer request form.
+      Before submitting an issue here, please be sure to check all open issues to assure there is not already another group requesting a chapter in the same area. If there is, please comment with your interest to co-organize within that GitHub issue.
   type: input
   attributes:
     label: City or location name for your CNCG
@@ -52,8 +52,8 @@ body:
 - id: meetupDOTcom
   type: textarea
   attributes:
-    label: What type of content or specific technologies do you want to focus on? 
-    placeholder: e.g. Kubernetes, Observability, other or all CNCF projects
+    label: What is your mission statement - your intent for this chapter?
+    placeholder: e.g. We’re excited about microservices, containers, the distributions that run them and the solutions that deploy, manage, and extend them. Any skill level is welcome; we’re all new to Kubernetes and we want to create an open, welcoming environment for other Kubernauts.
   validations:
     required: true
 - id: organizer_coc
@@ -135,4 +135,8 @@ body:
     description: "Diversity means something different for each country. The commonality among all countries is to strive to promote women or non-male speakers."
     options:
       - label: I/We will do our best to host diverse speakers throughout the year
-        required: true 
+        required: true
+- type: markdown
+  attributes:
+    value: |
+      Please give CNCF up to 45 days to review your request.
