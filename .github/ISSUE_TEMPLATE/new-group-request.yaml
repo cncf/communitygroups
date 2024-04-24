@@ -6,7 +6,8 @@ body:
   attributes:
     value: |
       Prior to getting here, you should have already checked community.cncf.io for active chapters in your area. If you wish to collaborate with them, please use the 'Contact Us' button. If they are not responsive, please file an organizer request form. Before submitting an issue here, please be sure to check all open issues to assure there is not already another group requesting a chapter in the same area. If there is, please comment with your interest to co-organize within that GitHub issue.
-  type: input
+- type: input
+  id: name
   attributes:
     label: City or location name for your CNCG
     description: "If you recently had a deactivated chapter, please do not fill out this form, and reach out to community-groups@cncf.io."
