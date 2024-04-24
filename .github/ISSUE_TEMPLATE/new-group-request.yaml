@@ -54,7 +54,7 @@ body:
 - id: meetupDOTcom
   type: textarea
   attributes:
-    label: What is your mission statement - your intent for this chapter?
+    label: What is your mission statement or objective for this new chapter?
     placeholder: e.g. We’re excited about microservices, containers, the distributions that run them and the solutions that deploy, manage, and extend them. Any skill level is welcome; we’re all new to Kubernetes and we want to create an open, welcoming environment for other Kubernauts.
   validations:
     required: true
