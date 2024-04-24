@@ -5,6 +5,8 @@ body:
 - type: markdown
   attributes:
     value: |
+      ### Please Read:
+      
       Prior to getting here, you should have already checked community.cncf.io for active chapters in your area. If you wish to collaborate with them, please use the 'Contact Us' button. If they are not responsive, please file an organizer request form. Before submitting an issue here, please be sure to check all open issues to assure there is not already another group requesting a chapter in the same area. If there is, please comment with your interest to co-organize within that GitHub issue.
 - type: input
   id: name
@@ -139,4 +141,4 @@ body:
 - type: markdown
   attributes:
     value: |
-      Please give CNCF up to 45 days to review your request.
+      ### Please give CNCF up to 45 days to review your request.
