@@ -141,4 +141,4 @@ body:
 - type: markdown
   attributes:
     value: |
-      ### Please give CNCF up to 45 days to review your request.
+      ### Review and approval for your chapter can take up to 45 days as our team does our due diligence. If you have questions throughout the process, please comment within your GitHub issue.
