@@ -7,7 +7,7 @@ body:
     value: |
       ### Please Read:
       
-      Prior to getting here, you should have already checked community.cncf.io for active chapters in your area. If you wish to collaborate with them, please use the 'Contact Us' button. If they are not responsive, please file an organizer request form. Before submitting an issue here, please be sure to check all open issues to assure there is not already another group requesting a chapter in the same area. If there is, please comment with your interest to co-organize within that GitHub issue.
+      Prior to getting here, you should have already checked community.cncf.io for active chapters in your area. If you wish to collaborate with them, please use the 'Contact Us' button. If they are not responsive, please [file an organizer issue here](https://github.com/cncf/communitygroups/issues/new?assignees=&labels=&projects=&template=organizer-request.yml&title=%5BOrganizer+Request%5D+Add+or+Remove+Organizer+Name). Before submitting an issue here, please be sure to check all open issues to assure there is not already another group requesting a chapter in the same area. If there is, please comment with your interest to co-organize within that GitHub issue.
 - type: input
   id: name
   attributes:
@@ -96,7 +96,7 @@ body:
     label: Vendor Neutral
     description: "CNCGs should have vendor-nuetral content for the main portion of your meetups. Please note that [sponsors can have up to 15 minutes on stage](https://github.com/cncf/communitygroups/blob/main/best_practices.md#sponsorships)"
     options:
-      - label: I/We have read what [vendor-nuetrality means](https://contribute.cncf.io/maintainers/community/vendor-neutrality/), (and my other organizers) agree that the main content of our meetups will remain vendor-nuetral
+      - label: I/We have read what [vendor-nuetrality means](https://contribute.cncf.io/maintainers/community/vendor-neutrality/), and agree that the main content of our meetups will remain vendor-nuetral
         required: true
 - id: organizer_branding
   type: checkboxes
