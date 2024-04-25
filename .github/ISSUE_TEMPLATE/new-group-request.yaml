@@ -7,11 +7,11 @@ body:
     value: |
       ### Please Read:
       
-      :loudspeaker: Prior to getting here, you should have already checked community.cncf.io for active chapters in your area. :loudspeaker:
+      :loudspeaker: Prior to filling out the below form, please check [community.cncf.io](https://community.cncf.io) to confirm there isn't an active chapter in your area. If there is an active chapter, we recommend collaborating with the current organizers and you can [file an organizer issue here](https://github.com/cncf/communitygroups/issues/new?assignees=&labels=&projects=&template=organizer-request.yml&title=%5BOrganizer+Request%5D+Add+or+Remove+Organizer+Name). :loudspeaker:
 
-      If you wish to collaborate with them, please use the 'Contact Us' button. If they are not responsive, please [file an organizer issue here](https://github.com/cncf/communitygroups/issues/new?assignees=&labels=&projects=&template=organizer-request.yml&title=%5BOrganizer+Request%5D+Add+or+Remove+Organizer+Name). 
+      Additionally, check all [open issues](https://github.com/cncf/communitygroups/issues) to ensure there isn't an open request. If there is an open ticket, please comment within that GitHub issue with your interest to co-organize.
       
-      Before submitting an issue here, please be sure to check all open issues to assure there is not already another group requesting a chapter in the same area. If there is, please comment with your interest to co-organize within that GitHub issue.
+      If you have checked all the above areas and there is no active chapter or open GitHub issues, fill out the form for our team to review.
 - type: input
   id: name
   attributes:
