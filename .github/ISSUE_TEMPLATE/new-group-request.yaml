@@ -7,7 +7,11 @@ body:
     value: |
       ### Please Read:
       
-      Prior to getting here, you should have already checked community.cncf.io for active chapters in your area. If you wish to collaborate with them, please use the 'Contact Us' button. If they are not responsive, please [file an organizer issue here](https://github.com/cncf/communitygroups/issues/new?assignees=&labels=&projects=&template=organizer-request.yml&title=%5BOrganizer+Request%5D+Add+or+Remove+Organizer+Name). Before submitting an issue here, please be sure to check all open issues to assure there is not already another group requesting a chapter in the same area. If there is, please comment with your interest to co-organize within that GitHub issue.
+      :loudspeaker: Prior to getting here, you should have already checked community.cncf.io for active chapters in your area. :loudspeaker:
+
+      If you wish to collaborate with them, please use the 'Contact Us' button. If they are not responsive, please [file an organizer issue here](https://github.com/cncf/communitygroups/issues/new?assignees=&labels=&projects=&template=organizer-request.yml&title=%5BOrganizer+Request%5D+Add+or+Remove+Organizer+Name). 
+      
+      Before submitting an issue here, please be sure to check all open issues to assure there is not already another group requesting a chapter in the same area. If there is, please comment with your interest to co-organize within that GitHub issue.
 - type: input
   id: name
   attributes:
