@@ -5,7 +5,8 @@ body:
 - type: markdown
   attributes:
     value: |
-      If you are an inquiring co-organizer, at this point you should have already tried to contact the organizers of the existing chapter on community.cncf.io via the 'Contact Us' button within the chapter, and you have not yet received a response. OR you are a current organizer that is requesting to remove a co-organizer, and tag them here for transparency (a conversation should have already taken place with this person one on one).
+      If you are requesting to become a new organizer. The CNCF team will tag/add the current CNCG organizers to review and comment on your request.
+      If you are requesting to remove an organizer, please fill out the below as a formal resignation
 - id: chapter
   type: input
   attributes:
