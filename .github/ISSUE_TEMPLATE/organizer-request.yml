@@ -101,4 +101,5 @@ body:
   attributes:
     value: |
       Review and approval for your request to become a new organizer can take up to 30 days allowing the current organizers time to review and discuss your request. All communication will be with in the GitHub issue. If you have questions throughout the process, please comment within your GitHub issue.
-      Resignation time can vary. Please add AudMonte01 as an assignee for a faster turnaround.
+      
+      Resignation time can vary. Please add @AudMonte01 as an assignee for a faster turnaround.
