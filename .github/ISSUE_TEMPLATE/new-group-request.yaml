@@ -110,11 +110,11 @@ body:
     options:
       - label: I/We agree to use the CNCG logo in my/our chapter and social branding
         required: true
-- id: organizer_bevy
+- id: organizer_registration
   type: checkboxes
   attributes:
-    label: Registration through Bevy
-    description: "In order to properly support your chapter with benefits, registration for your meetups must be through Bevy, or the current CNCF community platform."
+    label: Registration through CNCF platforms
+    description: "In order to properly support your chapter with benefits, registration for your meetups must be through CNCF platforms, or the current CNCF community platform."
     options:
       - label: I/We agree to host free registration in the main CNCF platform
         required: true
