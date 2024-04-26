@@ -1,5 +1,5 @@
-name: New Chapter Organizer Request
-description: Request to become or be removed as organizer from existing chapter
+name: Chapter Organizer Request
+description: This form is for those who are requesting to become a new organizer, or to remove an organizer from an existing CNCG on community.cncf.io.
 title: "[Organizer Request] Add or Remove Organizer Name"
 body:
 - type: markdown
