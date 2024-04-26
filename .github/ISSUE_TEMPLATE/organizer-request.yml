@@ -18,17 +18,21 @@ body:
 - id: organizer
   type: textarea
   attributes:
-    label: Tell us about the organizer and why they should be added or removed from the above-mentioned chapter
-    placeholder: e.g. Audra Montenegro is resigning her role as co-organizer due to lack of time to commit to the chapter
+    label: Tell us about yourself. List your name, email, company, GitHub URL, LinkedIn URL, and CNCF Slack workspace name (or if you need to be invited), and a required profile link on community.cncf.io
+    placeholder: e.g. Audra Montenegro, CNCF, https://github.com/AudMonte01, https://www.linkedin.com/in/audramontenegro/, Audra Montenegro in CNCF Slack, https://community.cncf.io/u/m8bqcv/#/about
   validations:
     required: true
 - id: organizer_2
   type: textarea
   attributes:
-    label: Tell us another the organizer and why they should be added or removed from the above-mentioned chapter
+    label: Tell us why you want to be added or removed from the chapter
     placeholder: e.g. I, Audra Montenegro would like to join as a co-organizer. I have xyz experience that would be an asset to the chapter
   validations:
     required: false
+- type: markdown
+  attributes:
+    value: |
+       If requesting to become a new organizer please review and accept the below terms and conditions all organizers adhere to:
 - id: organizer_coc
   type: checkboxes
   attributes:
@@ -36,7 +40,7 @@ body:
     description: "The Code of Conduct helps create a safe space for everyone. We require that everyone agrees to it."
     options:
       - label: I agree to follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
-        required: true
+        required: false
 - id: organizer_residency
   type: checkboxes
   attributes:
