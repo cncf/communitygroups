@@ -28,6 +28,7 @@ For all Cloud Native Community Groups, CNCF offers the following benefits:
   - This includes support from CNCF (Audra Montenegro and Katie Greenley).
   - And quarterly tips and tricks session hosted by Bevy expert Maia Walshe
 - Office hours hosted once per week in differernt time zones. [See what works best for you](https://community.cncf.io/central-city/), and bring your questions about anything related to CNCF community groups.
+- Credly badges for organizers! We would like to recognize your efforts for helping make Cloud Native ubiquitous. To qualify, each December we will see if you have been an organizer for the duration of the year, and your chapter has hosted at least 1 in-person meetup every 90 days (4 times a year) with no deactivations.
 
 ✒️ NOTE: With over 180 active global chapters, we cannot monetarily support your community group with sponsorships outside what is listed above, but we are always looking into adding more incentives.
 
