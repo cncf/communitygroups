@@ -6,6 +6,7 @@
 * [How to apply/get started](#how-to-apply)
 * [Bevy training and support](#bevy-training)
 * [Communication](#communication)
+* [Social Media Best Practices and Resources](#social-media-best-practices-and-resources)
 * [Naming your chapter](#naming-your-chapter)
 * [Standards of remaining an Active group](#community-group-inactivity)
 * [Code of Conduct](#code-of-conduct)
@@ -72,6 +73,25 @@ It's best if you use a public communication channel whenever possible; however, 
 
 The #socialmedia channel via the CNCF slack workspace is a great place to post your social media efforts requesting assistance from CNCF to amplify. Just tag Katie Meinders and Jessie Adams-Shore to help amplify your social post.
 
+## Social Media Tips, Tricks, and Best Practices
+
+We encourage each chapter to create their own social media accounts on the platforms that are most relevant in their local area, in addition to LinkedIn so CNCF can properly help amplify your announcements.
+
+CNCF is present on [Twitter (X)](https://twitter.com/CloudNativeFdn) and [LinkedIn](https://www.linkedin.com/company/cloud-native-computing-foundation/mycompany/) with over 100,000 followers on each. If you are a CNCF chapter promoting your community on community.cncf.io, then CNCF will be happy to help you promote your meetups on social media. Simply join the [#sociamedia channel in the CNCF Slack workspace](https://cloud-native.slack.com/archives/C12MRQ97A), and tag Katie Meinders asking her to re-share your post. Each CNCG is limited to one post amplification per week. NOTE: In the spirit of vendor nuetrality, CNCF will not amplify sponsor posts.
+
+IMPORTANT: Every LinkedIn page created should be created as a company page, and must add CNCF's core community program manager, Audra Montenegro as an admin.
+
+Common things to promote in your meetups
+* Speakers and their content! This is the most attractive thing to your audience
+* The details! Tell people when, where, and the location of your meetup
+* Food and beverage! What refreshmenets will you will be providing
+* Promote your sponsors! They will appreciate the shout out. You do this by thanking them for sponsoring your event and showcasing their logo. They also appreciate you linking to their website or their open source resource or insights (more attractive to this audience)
+* Giveaways! Not everyone will have this opportunity, over time you will generate sponsors for this, or [earn a voucher from us](benefits-of-joining-the-CNCF-community-groups-program).
+
+Do you need samples of promotional graphics? Here we have some templates in Canva that will at least help you with sizing and placement of key content:
+* [LinkedIn and Facebook](https://www.canva.com/design/DAGDoVUWY9w/QwHhJgCuoEFvefVxQIGJ2w/view?)
+* [Twitter](https://www.canva.com/design/DAGDoQ6zx2c/5ym4UFerINEdRlgEyHmTuA/view?)
+* [Instagram](https://www.canva.com/design/DAGDoXtCdB4/CIqyQVHUcfmq_AcDswEMVw/view?)
 
 ## Community Group Inactivity
 
