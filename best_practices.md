@@ -17,7 +17,7 @@ flowchart TB
     wrapup --> start
     wrapup -.- retro[Retro] & resources[Share documents and pictures]
 
-    classDef mainPath fill:#C2C2FF,stroke:#4747FF;
+    classDef mainPath fill:#6A5ACD,stroke:#4747FF;
     class create,start,schedule,announce,run,wrapup mainPath;
 ```
 
