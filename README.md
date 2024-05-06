@@ -73,7 +73,7 @@ It's best if you use a public communication channel whenever possible; however, 
 
 The #socialmedia channel via the CNCF slack workspace is a great place to post your social media efforts requesting assistance from CNCF to amplify. Just tag Katie Meinders and Jessie Adams-Shore to help amplify your social post.
 
-## Social Media Tips, Tricks, and Best Practices
+## Social Media Best Practices and Resources
 
 We encourage each chapter to create their own social media accounts on the platforms that are most relevant in their local area, in addition to LinkedIn so CNCF can properly help amplify your announcements.
 
