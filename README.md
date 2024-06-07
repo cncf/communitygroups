@@ -95,7 +95,10 @@ Do you need samples of promotional graphics? Here we have some templates in Canv
 
 ## Community Group Inactivity
 
-If your group has more than 90 days of inactivity in the number of events/meetups being help, then you will be deemed an “Inactive” group via the Cloud Native Computing Foundation and removed from [community.cncf.io](https://community.cncf.io/)
+If your group has more than 90 days of inactivity in the number of events/meetups being heald, then you will be deemed an “Inactive” group via the Cloud Native Computing Foundation and removed from [community.cncf.io](https://community.cncf.io/). There are many ways to keep your chapter active outside of regular in-person, speaker-to-audience meetups. Examples are:
+* Co-hosting a meetup with a neighboring chapter. [Learn about the Co-Host feature in Bevy](https://youtu.be/rEKoZ5OAGpo).
+* Host a study group for one of the many Kubernetes certifications
+* Use Bevy's virtual feature to host a virtual meetup or study group
 
 Should a community group violate vendor neutrality, a CNCF core value, the following path towards deactivation will ocur.
 * 1st offense = a written violation via email
