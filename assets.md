@@ -9,6 +9,6 @@ IMPORTANT: Cloud Native Community Groups are no longer permitted to create their
 
 # Recognition Help
 
-Some chapters have stated it would be helpful to approach companies who do not know who CNCF is, with a presentation that explains who CNCF is. Well, look no further than [the main CNCF repostitory of presentations where there is an overview slide deck in multiple languages.](https://github.com/cncf/presentations/blob/main/README.md#cncf-overview-presentation).
+Some chapters have stated it would be helpful to approach companies who do not know who CNCF is, with a presentation that explains who CNCF is. Well, look no further than [the main CNCF repostitory of presentations where there is an overview slide deck in multiple languages.](https://github.com/cncf/presentations/blob/main/README.md#cncf-overview-presentation)
 
 CNCF is also happy to write letters of reccomendation for those who need help securing a venue, or simply need recognition of an official CNCF chapter. Just reach out to community-groups@cncf.io with your request.
