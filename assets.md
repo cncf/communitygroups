@@ -7,6 +7,14 @@ NOTE: For naming conventions, please use "Cloud Native CITY NAME" for your socia
 
 IMPORTANT: Cloud Native Community Groups are no longer permitted to create their own logos. This will also alleviate organizers having to hire design services. It also creates unity across all community groups supported by CNCF, and brand awareness for when organizers try to secure sponsorships.
 
+# Promotional Graphics
+
+Do you need samples of promotional graphics? Here we have some templates in Canva that will at least help you with sizing and placement of key content:
+
+* [LinkedIn and Facebook](https://www.canva.com/design/DAGDoVUWY9w/QwHhJgCuoEFvefVxQIGJ2w/view?)
+* [Twitter](https://www.canva.com/design/DAGDoQ6zx2c/5ym4UFerINEdRlgEyHmTuA/view?)
+* [Instagram](https://www.canva.com/design/DAGDoXtCdB4/CIqyQVHUcfmq_AcDswEMVw/view?)
+
 # Recognition Help
 
 Some chapters have stated it would be helpful to approach companies who do not know who CNCF is, with a presentation that explains who CNCF is. Well, look no further than [the main CNCF repostitory of presentations where there is an overview slide deck in multiple languages.](https://github.com/cncf/presentations/blob/main/README.md#cncf-overview-presentation)
