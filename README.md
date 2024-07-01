@@ -68,7 +68,7 @@ Please use "Cloud Native CITY NAME" when naming your chapter. We ask that you av
 ## Communication
 
 We strive to keep all organizers as up to date as possible when it comes to program updates and changes. Here are a few ways you can stay in the loop:
-* Subscribe to our global organizer newsletter by going to your community profile and then "updates". There you can opt-in by marking the "Global" checkbox under the "Receive general communications from" header.
+* Subscribe to our global organizer newsletter by going to your [community profile and then "updates"](https://community.cncf.io/accounts/profile/#updates). There you can opt-in by marking the "Global" checkbox under the "Receive general communications from" header.
 * Please reach out to us on the #communitygroups channel on the CNCF slack. Please avoid using direct messages unless strictly necessary as doing so both has the potential of overwhelming project maintainers and others with similar questions lose the benefit of public discussion.
 * It's best if you use a public communication channel whenever possible; however, if you need to communicate in private, please feel free to send the program admins a note via community-groups@cncf.io (please use the public channels for any program-related discussion).
 
