@@ -2,7 +2,7 @@
 
 * [Program description](#program-description)
 * [Benefits of joining the CNCF Community Groups Program](#benefits-of-joining-the-cncf-community-groups-program)
-* [Best practices](#best-practices)
+* [Best practices](https://github.com/cncf/communitygroups/blob/main/best_practices.md)
 * [How to apply/get started](#how-to-apply)
 * [Bevy training and support](#bevy-training)
 * [Communication](#communication)
