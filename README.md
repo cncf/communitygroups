@@ -39,9 +39,7 @@ Please check out our [best_practices](./best_practices.md).
 
 ## How to apply?
 
-Applications are on hold for the month of April. We will have a new, transparent form ready by May 2024.
-
-Once a GitHub issue will be filled, there will be a 30-day grace period. If you do not hear back after that amount of time has passed, please reach out to community-groups@cncf.io.
+Applications can now be submitted via a [GitHub issue](https://github.com/cncf/communitygroups/issues/new?assignees=&labels=&projects=&template=new-group-request.yaml&title=%5BGroup+Request%5D+Create+a+new+chapter). Once a GitHub issue will be filled, there will be a 30-day grace period. If you do not hear back after that amount of time has passed, please reach out to community-groups@cncf.io.
 
 
 ## Bevy Training
