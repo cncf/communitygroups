@@ -15,6 +15,10 @@ Do you need samples of promotional graphics? Here we have some templates in Canv
 * [Twitter](https://www.canva.com/design/DAGDoQ6zx2c/5ym4UFerINEdRlgEyHmTuA/view?)
 * [Instagram](https://www.canva.com/design/DAGDoXtCdB4/CIqyQVHUcfmq_AcDswEMVw/view?)
 
+Other
+* [Slide template](https://docs.google.com/presentation/d/1WpQgEuM8ocmBJ7Nhev1b9hsg1CB1NwfdbfWlXj4XfMs/edit?usp=sharing)
+
+
 # Recognition Help
 
 Some chapters have stated it would be helpful to approach companies who do not know who CNCF is, with a presentation that explains who CNCF is. Well, look no further than [the main CNCF repostitory of presentations where there is an overview slide deck in multiple languages.](https://github.com/cncf/presentations/blob/main/README.md#cncf-overview-presentation)
