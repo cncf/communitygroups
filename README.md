@@ -8,7 +8,7 @@
 * [Communication](#communication)
 * [Social Media Best Practices and Resources](#social-media-best-practices-and-resources)
 * [Naming your chapter](#naming-your-chapter)
-* [Standards of remaining an Active group](#community-group-inactivity)
+* [Chapter Activity](#community-group-inactivity)
 * [Code of Conduct](#code-of-conduct)
 
 ## Program description
@@ -25,6 +25,7 @@ For all Cloud Native Community Groups, CNCF offers the following benefits:
 - Joining the CNCF organizer-exclusive Slack channel for collaboration
 - Boosting the visibility of your community group and events. See below under the “Communication” section for more details.
 - 25% discount to Linux Foundation training exams for CKAD and KCNA.
+- Discounts to KubeCon + CloudNativeCons around the world
 - Cost coverage for the hosted community platform, Bevy
   - This includes support from CNCF (Audra Montenegro and Katie Greenley).
   - And quarterly tips and tricks session hosted by Bevy expert Maia Walshe
