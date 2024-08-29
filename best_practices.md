@@ -24,7 +24,7 @@ flowchart TB
 Each of the steps above are now described in more detail.
 
 - [0. Getting Started](#0-create-the-cloud-native-community-group)
-- [1. Start planning you event](#1-start-planning-you-event)
+- [1. Start planning your event](#1-start-planning-you-event)
   * [Find Speakers](#find-speakers)
   * [Sponsorships](#sponsorships)
 - [2. Schedule a new event](#2-schedule-a-new-event)
