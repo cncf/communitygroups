@@ -43,7 +43,7 @@ Please fill out [this request form](https://docs.google.com/forms/d/e/1FAIpQLSck
 * CNCF and Bevy have organized the training session for the Community Groups organizers. It has been recorded and now [available on YouTube](https://www.youtube.com/watch?v=_rBdomoYlmc).
 * You can also access the Bevy Help Portal at <https://help.bevylabs.com/>.
 * [Bevy FAQ can be found here](https://github.com/cncf/communitygroups/blob/main/FAQ.md).
-* If you want to test video features, you can use: [https://tokbox.com/developer/tools/precall/](https://tokbox.com/developer/tools/precall/)
+* If you want to test video features, you can use: <https://tokbox.com/developer/tools/precall/>
 
 ### Support
 
