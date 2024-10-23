@@ -47,7 +47,7 @@ body:
     label: Where organizer resides
     description: "All new CNCG organizers must live in the area they are inquiring to host a chapter in. The above-mentioned location must be where you reside full time."
     options:
-      - label: I confirm I am local to or live near the city of the above-proposed chapter (do not mark if irrelevent to request)
+      - label: I confirm I am local to or live near the city of the above-proposed chapter (do not mark if not relevent to request)
         required: false
 - id: organizer_affiliation
   type: checkboxes
@@ -55,7 +55,7 @@ body:
     label: Organizers companies/affiliations
     description: "Not all CNCG organizers can be from the same company."
     options:
-      - label: I come from xyz company which is differing from that of the current organizers (do not mark if irrelevent to request)
+      - label: I come from xyz company which is differing from that of the current organizers (do not mark if not relevent to request)
         required: false
 - id: organizer_inclusivity
   type: checkboxes
@@ -63,15 +63,15 @@ body:
     label: Inclusive
     description: "You agree to be inclusive of all people eager to learn about cloud native, no matter what level of expertise they are at in their open source journey."
     options:
-      - label: I agree. To assure this, I have recently completed the [Inclusive Open Source Community Orientation (LFC102) course](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/) (do not mark if irrelevent to request)
+      - label: I agree. To assure this, I have recently completed the [Inclusive Open Source Community Orientation (LFC102) course](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/) (do not mark if not relevent to request)
         required: false
 - id: organizer_neutrality
   type: checkboxes
   attributes:
     label: Vendor Neutral
-    description: "CNCGs should have vendor-nuetral content for the main portion of your meetups. Please note that [sponsors can have up to 15 minutes on stage](https://github.com/cncf/communitygroups/blob/main/best_practices.md#sponsorships)"
+    description: "CNCGs should have vendor-neutral content for the main portion of your meetups. Please note that [sponsors can have up to 15 minutes on stage](https://github.com/cncf/communitygroups/blob/main/best_practices.md#sponsorships)"
     options:
-      - label: I have read what [vendor-nuetrality means](https://contribute.cncf.io/maintainers/community/vendor-neutrality/), and I agree the main content of our meetups will remain vendor-nuetral (do not mark if irrelevent to request)
+      - label: I have read what [vendor-nuetrality means](https://contribute.cncf.io/maintainers/community/vendor-neutrality/), and I agree the main content of our meetups will remain vendor-nuetral (do not mark if not relevent to request)
         required: false
 - id: organizer_activity
   type: checkboxes
@@ -79,7 +79,7 @@ body:
     label: Remain an active chapter
     description: "You understand and agree to host a meetup, study group, or virtual event [at least 1 time every 90 days (quarter)](https://github.com/cncf/communitygroups/blob/main/README.md#community-group-inactivity). And if you foresee a delay, you will notify the CNCF team via community-groups@cncf.io"
     options:
-      - label: I understand the activity level standards of all CNCF chapters (do not mark if irrelevent to request)
+      - label: I understand the activity level standards of all CNCF chapters (do not mark if not relevent to request)
         required: false
 - id: organizer_collaboration
   type: checkboxes
@@ -87,7 +87,7 @@ body:
     label: Collaboration with other chapters
     description: "CNCF has the right to approve additional chapters in your location if you live in a significant populous area."
     options:
-      - label: I acknowledge the CNCF right to approve additional chapters in my area based on this criteria (do not mark if irrelevent to request)
+      - label: I acknowledge the CNCF right to approve additional chapters in my area based on this criteria (do not mark if not relevent to request)
         required: false
 - id: organizer_diversity
   type: checkboxes
@@ -95,7 +95,7 @@ body:
     label: Aim to have a diverse representation of speakers in your meetups
     description: "Diversity means something different for each country. The commonality among all countries is to strive to promote women or non-male speakers."
     options:
-      - label: I will do my best to host diverse speakers throughout the year (do not mark if irrelevent to request)
+      - label: I will do my best to host diverse speakers throughout the year (do not mark if not relevent to request)
         required: false
 - type: markdown
   attributes:
