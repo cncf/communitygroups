@@ -36,37 +36,33 @@ Bevy will centralize all cloud native groups, across the globe –– making it 
 
 <img src="https://github.com/cncf/communitygroups/blob/main/cncf-banner-02%20(1).jpg" alt="banner" width="800"/>
 
-### **Why is CNCF switching over from Meetup to Bevy?**
+### **Why did CNCF switch over from Meetup to Bevy?**
 
-We’re making the switch to Bevy because we’ve heard your concerns. Meetup was not the best tool to build community, especially an online community. It was not easy to communicate with community members on Meetup, run online events, and it was hard to keep group members active and engaged or to gauge who was active or engaged. The ability to collect data was limited and ultimately, it felt like a very disjointed experience from CNCF itself.
+We made the switch to Bevy in 2020 because we heard your concerns. Meetup was not the best tool to build community, especially an online community. It was not easy to communicate with community members, run online events, and it was hard to keep group members active and engaged, or to gauge who was an active member. The ability to collect data was limited and ultimately, it felt like a very disjointed experience from CNCF itself.
 
 ### **When do I need to switch over from Meetup to Bevy?**
 
-CNCF will stop supporting groups on Meetup on <span style="text-decoration:underline;">Friday, December 31st, 2021</span>. We will provide you instructions on how to create an account on Bevy before this date.
+CNCF stopped supporting groups on Meetup on <span style="text-decoration:underline;">Friday, December 31st, 2021</span>. While you can still use meetup.com as a marketing engine, registration must be turned off (or set to a capacity of 0 or 1), and point to community.cncf.io for registration. Please note, this will create duplicate efforts, as Bevy is no longer integrated with meetup.com.
 
 ### **What will happen to my group on Meetup after the switch to Bevy?**
 
-CNCF currently pays for Pro membership for almost 200 groups on Meetup. CNCF will stop paying for this membership and end our contract with Meetup. Some of you may have spent years building your groups on Meetup but since we know only about 20-30% of group members are active in any group, it would be a confusing and unfair experience for community members to have to seek out information about your group on Meetup and Bevy. To make things easier for everyone involved, we’ve decided to close down the groups we’d been paying for. Additionally, when we stop paying for the groups there would be a short window in which someone else could step up and take financial responsibility for keeping the group open, but that is not a cost we felt anyone of our leaders or community members should shoulder. We have invested a lot of analysis, time, and money into moving our events community onto Bevy and we are confident it will be a much better experience for leaders on group management and members on event attendance.
+CNCF previously paid for Pro membership for almost 200 groups on Meetup. CNCF stopped paying for this membership and ended our contract at the end of 2021. Some of you may have spent years building your groups on Meetup but since we know only about 20-30% of group members are active in any group, it would be a confusing and unfair experience for community members to have to seek out information about your group on Meetup and Bevy. To make things easier for everyone involved, we decided to close down the groups we had been paying for. Additionally, when we stopped paying for the groups there was a short window in which someone else could step up and take financial responsibility for keeping the group open, but that is not a cost we felt anyone of our leaders or community members should shoulder. We have invested a lot of analysis, time, and money into moving our events community onto Bevy and we are confident it will be a much better experience for leaders on group management and members on event attendance.
 
 ### **Will all my group members switch over from Meetup to Bevy?**
 
 No. Only ~20% of your group members are probably active and so we’d imagine only the most active group members from Meetup will actually make an account and join your Bevy group. This means you will have the most accurate number of group members in your groups on Bevy and can build a truly cohesive and engaged group.
 
-### **How are we communicating this change to group members?**
+### **How was this change communicated to group members?**
 
-In November 2021, we will send an email and Meetup message to the group members letting them know about this upcoming change.
+In November 2021, we sent an email and Meetup message to the group members letting them know about this upcoming change.
 
 ### **When will my group page be ready?**
 
-Most of the existing Meetup groups have already been migrated to the new platform. If you are an owner of the Meetup group that already exists on the CNCG platform or you want to bootstrap a new group on Bevy, please follow these instructions to apply - [https://github.com/cncf/communitygroups#how-to-apply](https://github.com/cncf/communitygroups#how-to-apply). Meetup has a function that allows for group and member data from Meetup to be transferred from Meetup to Bevy. This means that as long as you and your group members sign up for a new Bevy account using the same email address you used for your Meetup account, all of your group and even history will show up automatically in your new Bevy account.
-
-### **Will I have to start from scratch when building my group on Bevy?**
-
-No. We are migrating group and member data from Meetup to Bevy. All groups will have a page on Bevy and all of the data of your members will transfer over. When they make an account on Bevy to join your group, as long as they use the same email address they used on Meetup, all their information should populate over creating a seamless and hopefully improved community experience for your members.
+Most of the existing Meetup groups have already been migrated to the new platform. If you are an owner of the Meetup group that already exists on the CNCG platform or you want to bootstrap a new group on Bevy, please apply by [filing a GitHub issue here](https://github.com/cncf/communitygroups/issues/new?template=new-group-request.yaml). Meetup has a function that allows for you to download your members if they were attendees of an event. You must have a Pro Account to be able to do this. Once done, please reach out to community-groups@cncf.io to request your members to be uploaded to your Bevy chapter.
 
 ### **I am an organizer of the Meetup group, and my group was migrated on Bevy. However I don't have the organizers permissions. Why?**
 
-The Meetup groups have been migrated, but organizers were not (it’s not technically possible, unfortumatelty). We'll encourage you to apply for runnigng this chapter as usual - https://github.com/cncf/communitygroups#how-to-apply. Once application is processed, we'll invite you as an organizer.
+The Meetup groups have been migrated, but organizers were not (it’s not technically possible, unfortumatelty). We'll encourage you to apply for running this chapter via the GitHub issue linked above.
 
 ### **Why can’t you simply create an account for everyone from Meetup to Bevy?**
 
