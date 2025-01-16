@@ -30,6 +30,7 @@ Each of the steps above are now described in more detail.
 - [2. Schedule a new event](#2-schedule-a-new-event)
   * [Booking](#booking)
 - [3. Announce the event](#3-announce-the-event)
+  * [Ticketing for an event](#ticketing-for-an-event)
 - [4. Run the event](#4-run-the-event)
   * [Preparation](#preparation)
   * [Event Introduction](#event-introduction)
@@ -134,6 +135,9 @@ The following steps can be useful to attract more folks for your upcoming event
 - Place your event in newsletters and podcasts
 - Write a CNCF blog post that is about 800 words. Submit for review at pr@cncf.io.
 
+### Ticketing for an event
+
+All Cloud Native Community Groups (CNCGs) must use community.cncf.io for registration of their events. Each meetup must remain free to attend.
 
 ## 4. Run the event
 
