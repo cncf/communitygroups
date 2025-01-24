@@ -56,7 +56,7 @@ Bevy is the platform that backs community.cncf.io. With over 190 ACTIVE chapters
 
 - If you have any technical difficulties with the platform itself, please reach out to the Bevy platform support by clicking the purple question mark in the bottom right corner of your Bevy chapter dashboard.
 - Troubleshooting: The troubleshooting guide by Bevy is available here: [help.bevylabs.com/article/499-troubleshooting](https://help.bevylabs.com/article/499-troubleshooting)
-- Last resort, you can reach out to Audra Montenegro in the CNCF Slack workspace to help you, especially if it is time senstive.
+- Last resort, you can reach out to Audra Montenegro in the CNCF Slack workspace to help you, especially if it is time sensitive.
 
 ## Naming your chapter
 
