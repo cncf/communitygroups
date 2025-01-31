@@ -63,7 +63,7 @@ body:
     label: Inclusive
     description: "You agree to be inclusive of all people eager to learn about cloud native, no matter what level of expertise they are at in their open source journey."
     options:
-      - label: I agree. To assure this, I have recently completed the [Inclusive Open Source Community Orientation (LFC102) course](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/) (do not mark if not relevant to request)
+      - label: I agree. To assure this, I have recently completed the [Inclusive Open Source Community Orientation (LFC102) course](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/) (do not mark if not relevant to request). I will comment in this issue with a link to my Credly badge proving completion of the course.
         required: false
 - id: organizer_neutrality
   type: checkboxes
