@@ -16,7 +16,7 @@ Do you need samples of promotional graphics? Here we have some templates in Canv
 * [Instagram](https://www.canva.com/design/DAGDoXtCdB4/CIqyQVHUcfmq_AcDswEMVw/view?)
 
 Other
-* [Slide template](https://docs.google.com/presentation/d/1WpQgEuM8ocmBJ7Nhev1b9hsg1CB1NwfdbfWlXj4XfMs/edit?usp=sharing)
+* [Slide template](https://docs.google.com/presentation/d/1mQb66vAwSLJhLv52hfC8OpjdR7inOpQuxWe9gfVsCNM/edit?usp=sharing)
 
 
 # Recognition Help
