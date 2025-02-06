@@ -7,6 +7,12 @@ NOTE: For naming conventions, please use "Cloud Native CITY NAME" for your socia
 
 IMPORTANT: Cloud Native Community Groups are no longer permitted to create their own logos. This will also alleviate organizers having to hire design services. It also creates unity across all community groups supported by CNCF, and brand awareness for when organizers try to secure sponsorships.
 
+# Sponsor Prospectus
+
+If you need a formal presentation show or PDF to share with a prospecting sponsor, we have create a professsional template that highlights common needs for meetups, and what sponsors can get in return.
+
+Feel free to make a copy and edit [this template in Canva](https://www.canva.com/design/DAGSX9KG53Q/8tAN20diaVRFPvIcMWVOYA/edit?utm_content=DAGSX9KG53Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). Make sure the packages match what your team can offer, and images to be based on your past meetups.
+
 # Promotional Graphics
 
 Do you need samples of promotional graphics? Here we have some templates in Canva that will at least help you with sizing and placement of key content:
