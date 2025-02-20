@@ -2,10 +2,11 @@
 
 Cloud Native Community Group logos can be found via [the CNCF logo repository](https://github.com/cncf/artwork/blob/master/examples/other.md#cloud-native-community-groups)
 * simply add "Cloud Native [YOUR CHAPTER NAME]" underneath it
+* Or you can add your own local flare that represents your city. As long as you do not use the Kubernetes Helm or other logos without linking to the project site, or using them in an altered manner. [Refer to the LF trademark guidelines here](https://www.linuxfoundation.org/legal/trademark-usage).
 
-NOTE: For naming conventions, please use "Cloud Native CITY NAME" for your social media pages and other promotions. You may use a tagline that states your group is an official CNCF chapter.
+NOTE: For naming conventions, please use "Cloud Native CITY NAME" for your social media pages and other promotions. You may use a tagline that states your group is an official CNCF chapter, but please DO NOT use CNCF in the name. For example CNCF Hyderabad is not acceptable, as it may lead people to believe CNCF has offices in that city.
 
-IMPORTANT: Cloud Native Community Groups are no longer permitted to create their own logos. This will also alleviate organizers having to hire design services. It also creates unity across all community groups supported by CNCF, and brand awareness for when organizers try to secure sponsorships.
+IMPORTANT: Using the above CNCG logo creates unity across all community groups supported by CNCF, and an offical brand/identity awareness for when organizers try to secure sponsorships.
 
 # Sponsor Prospectus
 
