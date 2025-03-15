@@ -98,9 +98,9 @@ body:
   type: checkboxes
   attributes:
     label: Vendor Neutral
-    description: "CNCGs should have vendor-nuetral content for the main portion of your meetups. Please note that [sponsors can have up to 15 minutes on stage](https://github.com/cncf/communitygroups/blob/main/best_practices.md#sponsorships)"
+    description: "CNCGs should have vendor-neutral content for the main portion of your meetups. Please note that [sponsors can have up to 15 minutes on stage](https://github.com/cncf/communitygroups/blob/main/best_practices.md#sponsorships)"
     options:
-      - label: I/We have read what [vendor-nuetrality means](https://contribute.cncf.io/maintainers/community/vendor-neutrality/), and agree that the main content of our meetups will remain vendor-nuetral
+      - label: I/We have read what [vendor-neutrality means](https://contribute.cncf.io/maintainers/community/vendor-neutrality/), and agree that the main content of our meetups will remain vendor-neutral
         required: true
 - id: organizer_branding
   type: checkboxes
