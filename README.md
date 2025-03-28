@@ -6,7 +6,7 @@
 * [How to apply/get started](#how-to-apply)
 * [Bevy training and support](#bevy-training)
 * [Communication](#communication)
-* [Marketing Best Practices and Resources](#social-media-best-practices-and-resources)
+* [Marketing Best Practices and Resources](#marketing-best-practices-and-resources)
 * [Naming your chapter](#naming-your-chapter)
 * [Chapter Activity](#community-group-inactivity)
 * [Code of Conduct](#code-of-conduct)
