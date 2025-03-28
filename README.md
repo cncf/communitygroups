@@ -6,7 +6,7 @@
 * [How to apply/get started](#how-to-apply)
 * [Bevy training and support](#bevy-training)
 * [Communication](#communication)
-* [Social Media Best Practices and Resources](#social-media-best-practices-and-resources)
+* [Marketing Best Practices and Resources](#social-media-best-practices-and-resources)
 * [Naming your chapter](#naming-your-chapter)
 * [Chapter Activity](#community-group-inactivity)
 * [Code of Conduct](#code-of-conduct)
@@ -71,25 +71,30 @@ We strive to keep all organizers as up to date as possible when it comes to prog
 * Please reach out to us on the #communitygroups channel on the CNCF slack. Please avoid using direct messages unless strictly necessary as doing so both has the potential of overwhelming project maintainers and others with similar questions lose the benefit of public discussion.
 * It's best if you use a public communication channel whenever possible; however, if you need to communicate in private, please feel free to send the program admins a note via community-groups@cncf.io (please use the public channels for any program-related discussion).
 
-## Social Media Best Practices and Resources
+## Marketing Best Practices and Resources
 
+### Social Media
 We encourage each chapter to create their own social media accounts on the platforms that are most relevant in their local area, in addition to LinkedIn so CNCF can properly help amplify your announcements.
 
 CNCF is present on [Twitter (X)](https://twitter.com/CloudNativeFdn) and [LinkedIn](https://www.linkedin.com/company/cloud-native-computing-foundation/mycompany/) with over 100,000 followers on each. If you are a CNCF chapter promoting your community on community.cncf.io, then CNCF will be happy to help you promote your meetups on social media. Simply join the [#sociamedia channel in the CNCF Slack workspace](https://cloud-native.slack.com/archives/C12MRQ97A), and tag Jessie Adams-Shore asking her to re-share your post. Each CNCG is limited to one post amplification per week. NOTE: In the spirit of vendor nuetrality, CNCF will not amplify sponsor posts.
 
 IMPORTANT: Every LinkedIn page created should be created as a company page, and must add CNCF's core community program manager, Audra Montenegro as an admin.
 
-Common things to promote in your meetups
+### Common things to promote in your meetups
 * Speakers and their content! This is the most attractive thing to your audience
 * The details! Tell people when, where, and the location of your meetup
 * Food and beverage! What refreshmenets will you will be providing
 * Promote your sponsors! They will appreciate the shout out. You do this by thanking them for sponsoring your event and showcasing their logo. They also appreciate you linking to their website or their open source resource or insights (more attractive to this audience)
 * Giveaways! Not everyone will have this opportunity, over time you will generate sponsors for this, or [earn a voucher from us](benefits-of-joining-the-CNCF-community-groups-program).
 
-Do you need samples of promotional graphics? Here we have some templates in Canva that will at least help you with sizing and placement of key content:
+### Promotional Graphics
+Here we have some templates in Canva that will at least help you with sizing and placement of key content:
 * [LinkedIn and Facebook](https://www.canva.com/design/DAGDoVUWY9w/QwHhJgCuoEFvefVxQIGJ2w/view?)
 * [Twitter](https://www.canva.com/design/DAGDoQ6zx2c/5ym4UFerINEdRlgEyHmTuA/view?)
 * [Instagram](https://www.canva.com/design/DAGDoXtCdB4/CIqyQVHUcfmq_AcDswEMVw/view?)
+
+### Partnering with other communities
+This is acceptable, as long as it is a general tech community or open source community. Usually the exchange is presence at their events, and your brand recognition. CNCF just asks you do not market their events to your members.
 
 ## Community Group Inactivity
 
