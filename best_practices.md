@@ -6,16 +6,16 @@ Depending on the size of the meetup additional steps may be required.
 
 ```mermaid
 flowchart TB
-    create[0. Create a Cloud Native Community Group] --> start[1. Start planning the event]
-    start -.- speakers[Find speakers] & sponsor[Find a sponsor]
-    sponsor -.- location[Event location] & food[Food and drinks]
-    start --> schedule[2. Schedule the event]
-    schedule --> announce[3. Announce the event]
-    announce --> run[4. Run the event]
-    run --> wrapup[5. Post event]
-    run -.- setup[Setup Location] & welcome[Welcome attendees] & program[Conduct program]
+    create[Create a Cloud Native Community Group] --> start[Start planning the event]
+    start --> speakers[Find speakers] & sponsor[Find a sponsor]
+    sponsor --> location[Event location] & food[Food and drinks]
+    start --> schedule[Schedule the event]
+    schedule --> announce[Announce the event]
+    announce --> run[Run the event]
+    run --> wrapup[Post event]
+    run --> setup[Setup Location] & welcome[Welcome attendees] & program[Conduct program]
     wrapup --> start
-    wrapup -.- retro[Retro] & resources[Share documents and pictures]
+    wrapup --> retro[Retro] & resources[Share documents and pictures]
 
     classDef mainPath fill:#6A5ACD,stroke:#4747FF;
     class create,start,schedule,announce,run,wrapup mainPath;
