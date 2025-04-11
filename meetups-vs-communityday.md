@@ -9,6 +9,7 @@ Hosting a Cloud Native Community Day is a great way to practice for a KCD. A Clo
 * Your event is still free to attend like a meetup, but perhaps you create qualification standards in case your capacity is limited.
 * You still host it on [community.cncf.io](https://community.cncf.io/) so CNCF can see you have had practice at an event larger than a meetup, and CNCF can gauge if your community is ready for a KCD based on attendance.
 * These can be hosted as often as you would like with a reccomendation being no more than once per quarter.
+* There is no limit to the number of attendees.
 * NOTE: Hosting a Cloud Native Community Day is not a requirement for hosting a KCD.
 
 How does a Cloud Native Community Day differ from a KCD?
@@ -17,5 +18,6 @@ How does a Cloud Native Community Day differ from a KCD?
 * KCDs can charge a fee for their tickets.
 * KCDs get an accreditation from CNCF for hosting an event.
 * There are requirements to assure CNCF quality standards.
+* KCD have a limite of 500 attendees.
 * KCDs in the same city (and sometimes small country) can only be hosted once per year.
 * Learn more at https://www.cncf.io/kcds/
