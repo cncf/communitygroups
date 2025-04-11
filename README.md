@@ -29,7 +29,7 @@ For all Cloud Native Community Groups, CNCF offers the following benefits:
 - Cost coverage for the hosted community platform, Bevy
   - This includes support from CNCF (Audra Montenegro and Katie Greenley).
   - And quarterly tips and tricks session hosted by Bevy expert Maia Walshe
-- Office hours hosted once per week in differernt time zones. [See what works best for you](https://community.cncf.io/central-city/), and bring your questions about anything related to CNCF community groups.
+- Office hours hosted once per week in different time zones. [See what works best for you](https://community.cncf.io/central-city/), and bring your questions about anything related to CNCF community groups.
 - Credly badges for organizers! We would like to recognize your efforts for helping make Cloud Native ubiquitous. To qualify, each December we will see if you have been an organizer for the duration of the year, and your chapter has hosted at least 1 in-person meetup every 90 days (4 times a year) with no deactivations. Registrations must be via CNCF's community platform (community.cncf.io).
 
 ✒️ NOTE: With over 180 active global chapters, we cannot monetarily support your community group with sponsorships outside what is listed above, but we are always looking into adding more incentives.
@@ -76,14 +76,14 @@ We strive to keep all organizers as up to date as possible when it comes to prog
 ### Social Media
 We encourage each chapter to create their own social media accounts on the platforms that are most relevant in their local area, in addition to LinkedIn so CNCF can properly help amplify your announcements.
 
-CNCF is present on [Twitter (X)](https://twitter.com/CloudNativeFdn) and [LinkedIn](https://www.linkedin.com/company/cloud-native-computing-foundation/mycompany/) with over 100,000 followers on each. If you are a CNCF chapter promoting your community on community.cncf.io, then CNCF will be happy to help you promote your meetups on social media. Simply join the [#sociamedia channel in the CNCF Slack workspace](https://cloud-native.slack.com/archives/C12MRQ97A), and tag Jessie Adams-Shore asking her to re-share your post. Each CNCG is limited to one post amplification per week. NOTE: In the spirit of vendor nuetrality, CNCF will not amplify sponsor posts.
+CNCF is present on [Twitter (X)](https://twitter.com/CloudNativeFdn) and [LinkedIn](https://www.linkedin.com/company/cloud-native-computing-foundation/mycompany/) with over 100,000 followers on each. If you are a CNCF chapter promoting your community on community.cncf.io, then CNCF will be happy to help you promote your meetups on social media. Simply join the [#socialmedia channel in the CNCF Slack workspace](https://cloud-native.slack.com/archives/C12MRQ97A), and tag Jessie Adams-Shore asking her to re-share your post. Each CNCG is limited to one post amplification per week. NOTE: In the spirit of vendor neutrality, CNCF will not amplify sponsor posts.
 
 IMPORTANT: Every LinkedIn page created should be created as a company page, and must add CNCF's core community program manager, Audra Montenegro as an admin.
 
 ### Common things to promote in your meetups
 * Speakers and their content! This is the most attractive thing to your audience
 * The details! Tell people when, where, and the location of your meetup
-* Food and beverage! What refreshmenets will you will be providing
+* Food and beverage! What refreshments will you will be providing
 * Promote your sponsors! They will appreciate the shout out. You do this by thanking them for sponsoring your event and showcasing their logo. They also appreciate you linking to their website or their open source resource or insights (more attractive to this audience)
 * Giveaways! Not everyone will have this opportunity, over time you will generate sponsors for this, or [earn a voucher from us](benefits-of-joining-the-CNCF-community-groups-program).
 
@@ -103,7 +103,7 @@ If your group has more than 90 days of inactivity in the number of events/meetup
 * Host a study group for one of the many Kubernetes certifications
 * Use Bevy's virtual feature to host a virtual meetup or study group
 
-Should a community group violate vendor neutrality, a CNCF core value, the following path towards deactivation will ocur.
+Should a community group violate vendor neutrality, a CNCF core value, the following path towards deactivation will occur.
 * 1st offense = a written violation via email
 * 2nd offense = a community meeting with organizers for final warning
 * 3rd offense = disabling your chapter
