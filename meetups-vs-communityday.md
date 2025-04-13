@@ -18,6 +18,6 @@ How does a Cloud Native Community Day differ from a KCD?
 * KCDs can charge a fee for their tickets.
 * KCDs get an accreditation from CNCF for hosting an event.
 * There are requirements to assure CNCF quality standards.
-* KCD have a limite of 500 attendees.
+* KCD have a limit of 500 attendees.
 * KCDs in the same city (and sometimes small country) can only be hosted once per year.
 * Learn more at https://www.cncf.io/kcds/
