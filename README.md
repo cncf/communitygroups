@@ -31,8 +31,9 @@ For all Cloud Native Community Groups, CNCF offers the following benefits:
   - And quarterly tips and tricks session hosted by Bevy expert Maia Walshe
 - Office hours hosted once per week in different time zones. [See what works best for you](https://community.cncf.io/central-city/), and bring your questions about anything related to CNCF community groups.
 - Credly badges for organizers! We would like to recognize your efforts for helping make Cloud Native ubiquitous. To qualify, each December we will see if you have been an organizer for the duration of the year, and your chapter has hosted at least 1 in-person meetup every 90 days (4 times a year) with no deactivations. Registrations must be via CNCF's community platform (community.cncf.io).
+- 5 free certification vouchers for remaining an active chapter year-round. This means at least one (1) in-person event each quarter with more than 10 attendees (not just registrations). So keep track of your check-in in Bevy! These badges are distributed in January the following year.
 
-✒️ NOTE: With over 180 active global chapters, we cannot monetarily support your community group with sponsorships outside what is listed above, but we are always looking into adding more incentives.
+✒️ NOTE: With over 200 active global chapters, we cannot monetarily support your community group with sponsorships outside what is listed above, but we are always looking into adding more incentives.
 
 ## Best Practices
 
