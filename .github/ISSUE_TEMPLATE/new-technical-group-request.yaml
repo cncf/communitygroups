@@ -1,0 +1,139 @@
+name: Cloud Native Technical Community Group (CNTCG) Creation Request
+description: Virtual groups focused on a particular domain or subject
+title: '[Technical Group Request] Create a new group'
+body:
+  - type: markdown
+    attributes:
+      value: |-
+        ### Please Read:
+              
+        :loudspeaker: Prior to filling out the below form, please check [community.cncf.io](https://community.cncf.io) to confirm there isn't a similar community already. If there is an active group, we recommend collaborating with the current organizers and you can [file an organizer issue here](https://github.com/cncf/communitygroups/issues/new?assignees=&labels=&projects=&template=organizer-request.yml&title=%5BOrganizer+Request%5D+Add+or+Remove+Organizer+Name). :loudspeaker:
+
+        Additionally, check all [open issues](https://github.com/cncf/communitygroups/issues) to ensure there isn't an open request. If there is an open issue, please comment within that GitHub issue with your interest to co-organize.
+              
+        If you have checked all the above areas and there is no active related group or open GitHub issues, fill out the form for our team to review.
+  - type: textarea
+    id: organizer_1
+    attributes:
+      label: Tell us about yourself
+      description: >-
+        List your name, email, company, GitHub URL, CNCF Slack workspace name,
+        and a required profile link on community.cncf.io
+    validations:
+      required: true
+  - type: textarea
+    id: organizer_2
+    attributes:
+      label: Co-organizer information
+      description: >-
+        Tell us about your co-organizer. List your name, email, company, GitHub
+        URL, CNCF Slack workspace name, and a required profile link on
+        community.cncf.io
+  - type: textarea
+    id: organizer_3
+    attributes:
+      label: Additional Co-organizer information
+      description: >-
+        Tell us about your co-organizer. List your name, email, company, GitHub
+        URL, CNCF Slack workspace name, and a required profile link on
+        community.cncf.io
+  - type: checkboxes
+    id: organizer_affiliation
+    attributes:
+      label: Do you have more than one organization represented?
+      description: Not all CNTCG organizers can be from the same company.
+      options:
+        - label: >-
+            I/We agree if there is more than one organizer now or onboarded in
+            the future, the majority come from different companies.
+          required: true
+  - type: textarea
+    id: mission
+    attributes:
+      label: What is your mission statement or objective for this CNTCG?
+      description: What domain do you cover? How do you intend to help the ecosystem?
+    validations:
+      required: true
+  - type: checkboxes
+    id: organizer_coc
+    attributes:
+      label: Code of Conduct
+      description: >-
+        The Code of Conduct helps create a safe space for everyone. We require
+        that everyone agrees to it, including any and all futre speakers and
+        future co-organizers.
+      options:
+        - label: >-
+            I/We agree to follow the [CNCF Code of
+            Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
+          required: true
+  - type: checkboxes
+    id: organizer_inclusivity
+    attributes:
+      label: Inclusivity
+      description: >-
+        You agree to be inclusive of all people eager to learn about cloud
+        native, no matter what level of expertise they are at in their open
+        source journey
+      options:
+        - label: >-
+            I/We agree. To assure this, I/we have recently completed the
+            [Inclusive Open Source Community Orientation (LFC102)
+            course](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
+          required: true
+  - type: checkboxes
+    id: organizer_neutrality
+    attributes:
+      label: Vendor Neutrality
+      description: CNTCGs should focus on vendor-neutral content.
+      options:
+        - label: >-
+            I/We have read what [vendor-neutrality
+            means](https://contribute.cncf.io/maintainers/community/vendor-neutrality/),
+            and agree that the main content of our meetings will remain
+            vendor-neutral
+          required: true
+  - type: checkboxes
+    id: organizer_branding
+    attributes:
+      label: Branding
+      description: >-
+        In an effort to avoid trademark miss-use, and have unity within the CNCG
+        program, you agree to use [CNCG
+        branding](https://github.com/cncf/artwork/blob/main/examples/other.md#cloud-native-community-groups)
+      options:
+        - label: I/We agree to use the CNCG logo in my/our group and social branding
+          required: true
+  - type: checkboxes
+    id: organizer_activity
+    attributes:
+      label: Remain an active group
+      description: >-
+        You agree to host a meeting [at least 1 time every 90 days
+        (quarter)](https://github.com/cncf/communitygroups/blob/main/README.md#community-group-inactivity).
+        And if you foresee a delay, you will notify the CNCF team via
+        community-groups@cncf.io
+      options:
+        - label: >-
+            I/We agree to have at least one meeting every 90 days, or else
+            communicate reasoning for upcoming inactivity.
+          required: true
+  - type: checkboxes
+    id: organizer_diversity
+    attributes:
+      label: ' Aim to have a diverse representation of speakers in your meetings'
+      options:
+        - label: I/We will do our best to host diverse speakers throughout the year
+          required: true
+  - type: markdown
+    attributes:
+      value: >-
+        ### Review of your CNTCG request can take up to 30 days, as our team
+        along with the TOC perform their due diligence and vote on the
+        application.If you have questions throughout the process, please comment
+        within your GitHub issue.
+  - type: markdown
+    attributes:
+      value: >-
+        This template was generated with [Issue Forms
+        Creator](https://issue-forms-creator.netlify.app)
