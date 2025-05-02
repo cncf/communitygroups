@@ -25,7 +25,7 @@ Hosting a Cloud Native Community Day is a great way to practice for a KCD. A Clo
 * KCDs in the same city (and sometimes small country) can only be hosted once per year.
 * Learn more at https://www.cncf.io/kcds/
 
-### Is Cloud Native Day in my city a part of the program?
+### Is a Cloud Native Day in my city a part of the program?
 
 If the event is not named exactly "Cloud Native Community Day", most likely it is not.
 
