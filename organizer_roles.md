@@ -1,9 +1,9 @@
 # ORGANIZERS
 
-In order to remain a strong and active community, we believe CNCGs are successfull with 2 or more organizers with responsibilities
-divided among eachother.
+In order to remain a strong and active community, we believe CNCGs are successful with 2 or more organizers with responsibilities
+divided among each other.
 
-You are already donating your time to further the knoweldge and awareness of Cloud Native technologies, likely in addition to a full-time job. In addition, people may fall ill, get injured, or have new deadlines. With that, it will benefit you to have backup to avoid cancelations of your meetups.
+You are already donating your time to further the knowledge and awareness of Cloud Native technologies, likely in addition to a full-time job. In addition, people may fall ill, get injured, or have new deadlines. With that, it will benefit you to have backup to avoid cancellations of your meetups.
 
 ### All organizers are leaders
 Thank you in advance for not assuming lead organizer roles, as Bevy can be confusing with the permission sets.
