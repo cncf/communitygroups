@@ -12,7 +12,10 @@ Hosting a Cloud Native Community Day is a great way to practice for a KCD. A Clo
 * There is no limit to the number of attendees.
 * NOTE: Hosting a Cloud Native Community Day is not a requirement for hosting a KCD.
 
-How does a Cloud Native Community Day differ from a KCD?
+## FAQ
+
+### How does a Cloud Native Community Day differ from a KCD?
+
 * The KCDs are supported by CNCF with more benefits/perks, and go through an official application and planning process.
 * These are 1 to 2 day events like a summit, and often times can host multiple tracks and keynotes.
 * KCDs can charge a fee for their tickets.
@@ -21,3 +24,11 @@ How does a Cloud Native Community Day differ from a KCD?
 * KCD have a limit of 500 attendees.
 * KCDs in the same city (and sometimes small country) can only be hosted once per year.
 * Learn more at https://www.cncf.io/kcds/
+
+### Is Cloud Native Day in my city a part of the program?
+
+If the event is not named exactly "Cloud Native Community Day", most likely it is not.
+
+Events like "Cloud Native {CITY_NAME}",  "Cloud Native Day {CITY_NAME}", "Kubehuddle {CITI_NAME}" are independent from the CNCF,
+even if they might be organized by CNCF Ambassadors or member companies.
+CNCF does not govern those events, and the formats are managed by the respective organizers of the events.
