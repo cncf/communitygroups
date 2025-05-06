@@ -1,7 +1,7 @@
 # ORGANIZERS
 
 In order to remain a strong and active community, we believe CNCGs are successful with 2 or more organizers with responsibilities
-divided among each other.
+divided among each other. Ideally there is no more than 5 organizers for virtual chapters, and no more than 7 for in-person. Please refer to the roles below.
 
 You are already donating your time to further the knowledge and awareness of Cloud Native technologies, likely in addition to a full-time job. In addition, people may fall ill, get injured, or have new deadlines. With that, it will benefit you to have backup to avoid cancellations of your meetups.
 
