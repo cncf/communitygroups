@@ -1,15 +1,15 @@
 # Cloud Native Community Groups
 
-* [Program description](#program-description)
-* [Benefits of joining the CNCF Community Groups Program](#benefits-of-joining-the-cncf-community-groups-program)
-* [Best practices](https://github.com/cncf/communitygroups/blob/main/best_practices.md)
-* [How to apply/get started](#how-to-apply)
-* [Bevy training and support](#bevy-training)
-* [Communication](#communication)
-* [Marketing Best Practices and Resources](#marketing-best-practices-and-resources)
-* [Naming your chapter](#naming-your-chapter)
-* [Chapter Activity](#community-group-inactivity)
-* [Code of Conduct](#code-of-conduct)
+- [Program description](#program-description)
+- [Benefits of joining the CNCF Community Groups Program](#benefits-of-joining-the-cncf-community-groups-program)
+- [Best practices](https://github.com/cncf/communitygroups/blob/main/best_practices.md)
+- [How to apply/get started](#how-to-apply)
+- [Bevy training and support](#bevy-training)
+- [Communication](#communication)
+- [Marketing Best Practices and Resources](#marketing-best-practices-and-resources)
+- [Naming your chapter](#naming-your-chapter)
+- [Chapter Activity](#community-group-inactivity)
+- [Code of Conduct](#code-of-conduct)
 
 ## Program description
 
@@ -18,9 +18,18 @@ CNCF is currently working on expanding the Cloud Native community worldwide, and
 If you are interested in joining the list of official CNCF Community Groups, please review the information below.
 As of 2021, Cloud Native Community Groups program is powered by the Bevy platform, and managed by the CNCF staff.
 
+### Technical Community Groups
+
+A [Technical Community Group](https://github.com/cncf/toc/blob/main/governance/tag-governance.md#technical-community-groups) is focused primarily on identifying and discussing a particular technical scope, technology, or problem space. This type of community group is expected to have one or more monthly virtual meetings, and may also have in-person meetups.
+
+### Regional Community Groups
+
+A Regional Community Group is the long-standing, traditional type of community group in CNCF. This type of group is primarily focused on building relationships among cloud native end users and contributors in a particular region. It is expected to have one or more in-person meetups per year, and may also have virtual meetings.
+
 ## Benefits of joining the CNCF Community Groups Program
 
 For all Cloud Native Community Groups, CNCF offers the following benefits:
+
 - One-time complimentary swag coupon of $100 USD to the CNCF Store provided to each community group (not to each organizer), is available after hosting 2 successful (over 10 people attended) in-person events per chapter within 3 months or 90 days. NOTE: Registration must happen within the Bevy platform for this coupon to be earned. Requesting your voucher - write to community-groups@cncf.io with a link to your past Bevy event pages. We will make an exception for virtual events, if your event has over 100 attendees.
 - Joining the CNCF organizer-exclusive Slack channel for collaboration
 - Boosting the visibility of your community group and events. See below under the “Communication” section for more details.
@@ -43,15 +52,14 @@ Please check out our [best_practices](./best_practices.md).
 
 Applications can now be submitted via a [GitHub issue](https://github.com/cncf/communitygroups/issues/new?assignees=&labels=&projects=&template=new-group-request.yaml&title=%5BGroup+Request%5D+Create+a+new+chapter). Once a GitHub issue will be filled, there will be a 30-day grace period. If you do not hear back after that amount of time has passed, please reach out to community-groups@cncf.io.
 
-
 ## Bevy Training
 
 Bevy is the platform that backs community.cncf.io. With over 190 ACTIVE chapters (as of 2024), Bevy allows for in-person and virtual meetups, co-hosting, emailing your attendees, transparent analytics for organizers, and a microsite (small website) that can feature sponsors, speakers, and more!
 
-* CNCF and Bevy have organized the training session for the Community Groups organizers. It has been recorded and now [available on YouTube](https://www.youtube.com/watch?v=_rBdomoYlmc).
-* You can also access the Bevy Help Portal at <https://help.bevylabs.com/>.
-* [Bevy FAQ can be found here](https://github.com/cncf/communitygroups/blob/main/FAQ.md).
-* If you want to test video features, you can use: <https://tokbox.com/developer/tools/precall/>
+- CNCF and Bevy have organized the training session for the Community Groups organizers. It has been recorded and now [available on YouTube](https://www.youtube.com/watch?v=_rBdomoYlmc).
+- You can also access the Bevy Help Portal at <https://help.bevylabs.com/>.
+- [Bevy FAQ can be found here](https://github.com/cncf/communitygroups/blob/main/FAQ.md).
+- If you want to test video features, you can use: <https://tokbox.com/developer/tools/precall/>
 
 ### Support
 
@@ -68,13 +76,15 @@ Please use "Cloud Native CITY NAME" when naming your chapter. We ask that you av
 ## Communication
 
 We strive to keep all organizers as up to date as possible when it comes to program updates and changes. Here are a few ways you can stay in the loop:
-* Subscribe to our global organizer newsletter by going to your [community profile and then "updates"](https://community.cncf.io/accounts/profile/#updates). There you can opt-in by marking the "Global" checkbox under the "Receive general communications from" header.
-* Please reach out to us on the #communitygroups channel on the CNCF slack. Please avoid using direct messages unless strictly necessary as doing so both has the potential of overwhelming project maintainers and others with similar questions lose the benefit of public discussion.
-* It's best if you use a public communication channel whenever possible; however, if you need to communicate in private, please feel free to send the program admins a note via community-groups@cncf.io (please use the public channels for any program-related discussion).
+
+- Subscribe to our global organizer newsletter by going to your [community profile and then "updates"](https://community.cncf.io/accounts/profile/#updates). There you can opt-in by marking the "Global" checkbox under the "Receive general communications from" header.
+- Please reach out to us on the #communitygroups channel on the CNCF slack. Please avoid using direct messages unless strictly necessary as doing so both has the potential of overwhelming project maintainers and others with similar questions lose the benefit of public discussion.
+- It's best if you use a public communication channel whenever possible; however, if you need to communicate in private, please feel free to send the program admins a note via community-groups@cncf.io (please use the public channels for any program-related discussion).
 
 ## Marketing Best Practices and Resources
 
 ### Social Media
+
 We encourage each chapter to create their own social media accounts on the platforms that are most relevant in their local area, in addition to LinkedIn so CNCF can properly help amplify your announcements.
 
 CNCF is present on [Twitter (X)](https://twitter.com/CloudNativeFdn) and [LinkedIn](https://www.linkedin.com/company/cloud-native-computing-foundation/mycompany/) with over 100,000 followers on each. If you are a CNCF chapter promoting your community on community.cncf.io, then CNCF will be happy to help you promote your meetups on social media. Simply join the [#socialmedia channel in the CNCF Slack workspace](https://cloud-native.slack.com/archives/C12MRQ97A), and tag Jessie Adams-Shore asking her to re-share your post. Each CNCG is limited to one post amplification per week. NOTE: In the spirit of vendor neutrality, CNCF will not amplify sponsor posts.
@@ -82,32 +92,42 @@ CNCF is present on [Twitter (X)](https://twitter.com/CloudNativeFdn) and [Linked
 IMPORTANT: Every LinkedIn page created should be created as a company page, and must add CNCF's core community program manager, Audra Montenegro as an admin.
 
 ### Common things to promote in your meetups
-* Speakers and their content! This is the most attractive thing to your audience
-* The details! Tell people when, where, and the location of your meetup
-* Food and beverage! What refreshments will you will be providing
-* Promote your sponsors! They will appreciate the shout out. You do this by thanking them for sponsoring your event and showcasing their logo. They also appreciate you linking to their website or their open source resource or insights (more attractive to this audience)
-* Giveaways! Not everyone will have this opportunity, over time you will generate sponsors for this, or [earn a voucher from us](benefits-of-joining-the-CNCF-community-groups-program).
+
+- Speakers and their content! This is the most attractive thing to your audience
+- The details! Tell people when, where, and the location of your meetup
+- Food and beverage! What refreshments will you will be providing
+- Promote your sponsors! They will appreciate the shout out. You do this by thanking them for sponsoring your event and showcasing their logo. They also appreciate you linking to their website or their open source resource or insights (more attractive to this audience)
+- Giveaways! Not everyone will have this opportunity, over time you will generate sponsors for this, or [earn a voucher from us](benefits-of-joining-the-CNCF-community-groups-program).
 
 ### Promotional Graphics
+
 Here we have some templates in Canva that will at least help you with sizing and placement of key content:
-* [LinkedIn and Facebook](https://www.canva.com/design/DAGDoVUWY9w/QwHhJgCuoEFvefVxQIGJ2w/view?)
-* [Twitter](https://www.canva.com/design/DAGDoQ6zx2c/5ym4UFerINEdRlgEyHmTuA/view?)
-* [Instagram](https://www.canva.com/design/DAGDoXtCdB4/CIqyQVHUcfmq_AcDswEMVw/view?)
+
+- [LinkedIn and Facebook](https://www.canva.com/design/DAGDoVUWY9w/QwHhJgCuoEFvefVxQIGJ2w/view?)
+- [Twitter](https://www.canva.com/design/DAGDoQ6zx2c/5ym4UFerINEdRlgEyHmTuA/view?)
+- [Instagram](https://www.canva.com/design/DAGDoXtCdB4/CIqyQVHUcfmq_AcDswEMVw/view?)
 
 ### Partnering with other communities
+
 This is acceptable, as long as it is a general tech community or open source community. Usually the exchange is presence at their events, and your brand recognition. CNCF just asks you do not market their events to your members.
 
 ## Community Group Inactivity
 
-If your group has more than 90 days of inactivity in the number of events/meetups being heald, then you will be deemed an “Inactive” group via the Cloud Native Computing Foundation and removed from [community.cncf.io](https://community.cncf.io/). There are many ways to keep your chapter active outside of regular in-person, speaker-to-audience meetups. Examples are:
-* Co-hosting a meetup with a neighboring chapter. [Learn about the Co-Host feature in Bevy](https://youtu.be/rEKoZ5OAGpo).
-* Host a study group for one of the many Kubernetes certifications
-* Use Bevy's virtual feature to host a virtual meetup or study group
+If your group has more than 90 days of inactivity in the number of events/meetups being held, then you will be deemed an “Inactive” group via the Cloud Native Computing Foundation and removed from [community.cncf.io](https://community.cncf.io/).
 
-Should a community group violate vendor neutrality, a CNCF core value, the following path towards deactivation will occur.
-* 1st offense = a written violation via email
-* 2nd offense = a community meeting with organizers for final warning
-* 3rd offense = disabling your chapter
+Technical Community Groups that fail to meet at least six times in a calendar year will also be considered inactive.
+
+There are many ways to keep your chapter active outside of regular in-person, speaker-to-audience meetups. Examples are:
+
+- Co-hosting a meetup with a neighboring chapter. [Learn about the Co-Host feature in Bevy](https://youtu.be/rEKoZ5OAGpo).
+- Host a study group for one of the many Kubernetes certifications
+- Use Bevy's virtual feature to host a virtual meetup or study group
+
+Should a community group violate vendor neutrality — a CNCF core value — the following path towards deactivation will occur.
+
+- 1st offense = a written violation via email
+- 2nd offense = a community meeting with organizers for final warning
+- 3rd offense = disabling your chapter
 
 ## Code of Conduct
 
