@@ -28,6 +28,11 @@ body:
     placeholder: e.g. We’re excited about microservices, containers, the distributions that run them and the solutions that deploy, manage, and extend them. Any skill level is welcome; we’re all new to Kubernetes and we want to create an open, welcoming environment for other Kubernauts.
   validations:
     required: true
+- id: organizer_ambassador
+  type: textarea
+  attributes:
+    label: Community groups are required to have at least one organizer who is a CNCF Ambassador. Please list the name of your ambassador organizer(s).
+    placeholder: e.g. Audra Montenegro
 - id: organizer_1
   type: textarea
   attributes:

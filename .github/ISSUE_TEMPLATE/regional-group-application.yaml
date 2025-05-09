@@ -70,6 +70,11 @@ body:
     options:
       - label: I/We agree to follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
         required: true
+- id: ambassador
+  type: textarea
+  attributes:
+    label: Community groups are required to have at least one organizer who is a CNCF Ambassador. Please list the name of your ambassador organizer(s).
+    placeholder: e.g. Audra Montenegro
 - id: organizer_residency
   type: checkboxes
   attributes:
