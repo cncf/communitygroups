@@ -52,6 +52,16 @@ Please check out our [best_practices](./best_practices.md).
 
 Applications can now be submitted via a [GitHub issue](https://github.com/cncf/communitygroups/issues/new?assignees=&labels=&projects=&template=new-group-request.yaml&title=%5BGroup+Request%5D+Create+a+new+chapter). Once a GitHub issue will be filled, there will be a 30-day grace period. If you do not hear back after that amount of time has passed, please reach out to community-groups@cncf.io.
 
+### Key Requirements
+
+At the time of application:
+
+- You must have at least 2 organizers (ideally 3-5) who are willing to commit to the group for at least 6 months
+- One of the organizers must be a CNCF Ambassador
+- At least two of the organizers must be affiliated with different organizations
+- You must have a name for your group that is not already in use by another CNCF community group
+- You should have a refined mission statement or objective for this new chapter
+
 ## Bevy Training
 
 Bevy is the platform that backs community.cncf.io. With over 190 ACTIVE chapters (as of 2024), Bevy allows for in-person and virtual meetups, co-hosting, emailing your attendees, transparent analytics for organizers, and a microsite (small website) that can feature sponsors, speakers, and more!
