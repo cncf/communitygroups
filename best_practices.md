@@ -131,9 +131,9 @@ You should think about sending a **reminder** message to the meetup group to ask
 The following steps can be useful to attract more folks for your upcoming event
 
 - Reach out to meetups in the area taking place to share your event (don't forget to return the favor)
-- Post on social media channels and notify the CNCF to bump your message. This can be done in the Slack workspace via the #socialmedia channel. Tag Katie Meinder and she will amplify from the CNCF main accounts, provided your post is vendor-nuetral.
+- Post on the public #socialmedia Slack channel and CNCF will monitor and aplify or engage with it. This can be done in the CNCF Slack workspace.
 - Place your event in newsletters and podcasts
-- Write a CNCF blog post that is about 800 words. Submit for review at pr@cncf.io.
+- Write a CNCF blog post that is about 800 words. Submit for review at marketing@cncf.io.
 
 ### Ticketing for an event
 
