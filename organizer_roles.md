@@ -1,6 +1,6 @@
 # ORGANIZERS
 
-### NUMBER LIMITATIONS
+### NUMBER OF ORGANIZERS
 In order to remain a strong and active community, we believe CNCGs are successful with 2 or more organizers with responsibilities
 divided among each other. Ideally there is no more than 5 organizers for virtual chapters, and no more than 7 for in-person. Please refer to the roles below.
 
