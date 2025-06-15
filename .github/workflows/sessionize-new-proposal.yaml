@@ -1,0 +1,50 @@
+name: sessionize-new-proposal
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 14-23,0-2 * * 1-5" # Every hour between 8AM and 8PM CST, Monday to Friday
+env:
+  # Setting an environment variable with the value of a configuration variable
+  SESSIONIZE_LATEST_SESSION_ID_PREVIOUS: ${{ vars.SESSIONIZE_LATEST_SESSION_ID }}
+
+jobs:
+  retrieve-latest-session:
+    name: retrieve-latest-session
+    runs-on: ubuntu-latest
+    outputs:
+      SESSIONIZE_LATEST_SESSION_ID_OUTPUT: ${{ steps.retrieve-sessions.outputs.SESSIONIZE_LATEST_SESSION_ID_OUTPUT }}
+    steps:
+    - id: retrieve-sessions
+      name: Retrieve latest session
+      env:
+        SESSIONIZE_SESSION_LIST_URL: ${{ secrets.SESSIONIZE_SESSION_LIST_URL }}
+        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+      run: |
+        SESSIONIZE_LATEST_SESSION_ID=$(curl -s $SESSIONIZE_SESSION_LIST_URL | jq -r '.[].sessions[].id' | sort -u | tail -n 1)
+        if [ -z "$SESSIONIZE_LATEST_SESSION_ID_PREVIOUS" ]; then
+          echo "Previous session ID is empty, skipping Slack notification"
+        elif [ "$SESSIONIZE_LATEST_SESSION_ID_PREVIOUS" -eq "$SESSIONIZE_LATEST_SESSION_ID" ]; then
+          continue
+        else
+          SESSIONIZE_NEW_SESSIONS=$(curl -s $SESSIONIZE_SESSION_LIST_URL | jq -r --arg SESSIONIZE_LATEST_SESSION_ID_PREVIOUS "$SESSIONIZE_LATEST_SESSION_ID_PREVIOUS" '[.[].sessions[] | select(.id > $SESSIONIZE_LATEST_SESSION_ID_PREVIOUS) | {id, title, description, speakers: ([.speakers[].name] | join(", "))}]')
+          echo $SESSIONIZE_NEW_SESSIONS | jq -c '.[]' | while read -r object; do
+            curl -s --location "$SLACK_WEBHOOK_URL" --header 'Content-Type: application/json' --data "$object"
+            sleep 3
+          done
+        fi
+        echo "SESSIONIZE_LATEST_SESSION_ID_OUTPUT=$SESSIONIZE_LATEST_SESSION_ID" >> "$GITHUB_OUTPUT"
+  update-github-variable:
+    name: update-github-variable
+    runs-on: ubuntu-latest
+    needs: retrieve-latest-session
+    steps:
+    - id: update-github-variable
+      uses: mmoyaferrer/set-github-variable@v1.0.0
+      env:
+        SESSIONIZE_LATEST_SESSION_ID_INPUT: ${{needs.retrieve-latest-session.outputs.SESSIONIZE_LATEST_SESSION_ID_OUTPUT}}
+      with:
+          name: 'SESSIONIZE_LATEST_SESSION_ID'
+          value: ${{ env.SESSIONIZE_LATEST_SESSION_ID_INPUT}}
+          repository: ${{ github.repository }}
+          token: ${{ secrets.REPO_ACCESS_TOKEN }}
