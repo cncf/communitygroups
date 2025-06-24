@@ -22,18 +22,24 @@ jobs:
         SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
       run: |
         SESSIONIZE_LATEST_SESSION_ID=$(curl -s $SESSIONIZE_SESSION_LIST_URL | jq -r '.[].sessions[].id' | sort -u | tail -n 1)
+        echo "SESSIONIZE_LATEST_SESSION_ID_OUTPUT=$SESSIONIZE_LATEST_SESSION_ID" >> "$GITHUB_OUTPUT"
+
         if [ -z "$SESSIONIZE_LATEST_SESSION_ID_PREVIOUS" ]; then
           echo "Previous session ID is empty, skipping Slack notification"
-        elif [ "$SESSIONIZE_LATEST_SESSION_ID_PREVIOUS" -eq "$SESSIONIZE_LATEST_SESSION_ID" ]; then
-          : # no-op 
-        else
-          SESSIONIZE_NEW_SESSIONS=$(curl -s $SESSIONIZE_SESSION_LIST_URL | jq -r --arg SESSIONIZE_LATEST_SESSION_ID_PREVIOUS "$SESSIONIZE_LATEST_SESSION_ID_PREVIOUS" '[.[].sessions[] | select(.id > $SESSIONIZE_LATEST_SESSION_ID_PREVIOUS) | {id, title, description, speakers: ([.speakers[].name] | join(", "))}]')
-          echo $SESSIONIZE_NEW_SESSIONS | jq -c '.[]' | while read -r object; do
-            curl -s --location "$SLACK_WEBHOOK_URL" --header 'Content-Type: application/json' --data "$object"
-            sleep 3
-          done
+          exit 0
         fi
-        echo "SESSIONIZE_LATEST_SESSION_ID_OUTPUT=$SESSIONIZE_LATEST_SESSION_ID" >> "$GITHUB_OUTPUT"
+
+        if [ "$SESSIONIZE_LATEST_SESSION_ID_PREVIOUS" -eq "$SESSIONIZE_LATEST_SESSION_ID" ]; then
+          echo "Latest session ID is the same as the previous one, skipping Slack notification"
+          exit 0
+        fi
+
+        SESSIONIZE_NEW_SESSIONS=$(curl -s $SESSIONIZE_SESSION_LIST_URL | jq -r --arg SESSIONIZE_LATEST_SESSION_ID_PREVIOUS "$SESSIONIZE_LATEST_SESSION_ID_PREVIOUS" '[.[].sessions[] | select(.id > $SESSIONIZE_LATEST_SESSION_ID_PREVIOUS) | {id, title, description, speakers: ([.speakers[].name] | join(", "))}]')
+        echo $SESSIONIZE_NEW_SESSIONS | jq -c '.[]' | while read -r object; do
+          curl -s --location "$SLACK_WEBHOOK_URL" --header 'Content-Type: application/json' --data "$object"
+          sleep 3 # sleep to avoid rate limiting
+        done
+
   update-github-variable:
     name: update-github-variable
     runs-on: ubuntu-latest
