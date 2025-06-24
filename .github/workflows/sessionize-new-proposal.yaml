@@ -25,7 +25,7 @@ jobs:
         if [ -z "$SESSIONIZE_LATEST_SESSION_ID_PREVIOUS" ]; then
           echo "Previous session ID is empty, skipping Slack notification"
         elif [ "$SESSIONIZE_LATEST_SESSION_ID_PREVIOUS" -eq "$SESSIONIZE_LATEST_SESSION_ID" ]; then
-          continue
+          : # no-op 
         else
           SESSIONIZE_NEW_SESSIONS=$(curl -s $SESSIONIZE_SESSION_LIST_URL | jq -r --arg SESSIONIZE_LATEST_SESSION_ID_PREVIOUS "$SESSIONIZE_LATEST_SESSION_ID_PREVIOUS" '[.[].sessions[] | select(.id > $SESSIONIZE_LATEST_SESSION_ID_PREVIOUS) | {id, title, description, speakers: ([.speakers[].name] | join(", "))}]')
           echo $SESSIONIZE_NEW_SESSIONS | jq -c '.[]' | while read -r object; do
