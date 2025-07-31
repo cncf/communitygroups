@@ -1,6 +1,8 @@
 name: Technical Community Group Request
 description: Request to create a new Cloud Native Community Group by topic
 title: "[TCG Request] <Group Topic>"
+labels:
+  - kind/tech-community-group
 body:
 - type: markdown
   attributes:
