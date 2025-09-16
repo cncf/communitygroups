@@ -37,14 +37,14 @@ body:
 - id: organizer_2
   type: textarea
   attributes:
-    label: Tell us about your co-leaders. List their information just as you did for yourself, or point to the GitHub issue where this was resolved in the TOC repository.
+    label: Tell us about your co-organizers. List their information just as you did for yourself, or point to the GitHub issue where this was resolved in the TOC repository.
     placeholder: e.g. Audra Montenegro, CNCF, https://github.com/AudMonte01, https://www.linkedin.com/in/audramontenegro/, Audra Montenegro in CNCF Slack, https://community.cncf.io/u/m8bqcv/#/about
   validations:
     required: false
 - id: organizer_3
   type: textarea
   attributes:
-    label: Tell us about your co-leaders. List their information just as you did for yourself, or point to the GitHub issue where this was resolved in the TOC repository.
+    label: Tell us about your co-organizers. List their information just as you did for yourself, or point to the GitHub issue where this was resolved in the TOC repository.
     placeholder: e.g. Audra Montenegro, CNCF, https://github.com/AudMonte01, https://www.linkedin.com/in/audramontenegro/, Audra Montenegro in CNCF Slack, https://community.cncf.io/u/m8bqcv/#/about
   validations:
     required: false
@@ -60,9 +60,9 @@ body:
   type: checkboxes
   attributes:
     label: Organizer affiliations
-    description: "The majority of TCG leaders cannot come from the same company."
+    description: "The majority of TCG organizers cannot come from the same company."
     options:
-      - label: I confirm on behalf of the all the TCG leaders that not more than half of us are from the same organization.
+      - label: I confirm on behalf of the all the TCG organizers that not more than half of us are from the same organization.
         required: true
 - id: organizer_inclusivity
   type: checkboxes
@@ -70,7 +70,7 @@ body:
     label: Inclusive
     description: "You agree to be inclusive of all people eager to learn about cloud native, no matter what level of expertise they are at in their open source journey."
     options:
-      - label: We agree. To assure this, all TCG leaders have recently completed the [Inclusive Open Source Community Orientation (LFC102) course](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
+      - label: We agree. To assure this, all TCG organizers have recently completed the [Inclusive Open Source Community Orientation (LFC102) course](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
         required: true
 - id: organizer_neutrality
   type: checkboxes
