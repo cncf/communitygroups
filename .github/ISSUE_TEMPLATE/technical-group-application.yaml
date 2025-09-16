@@ -9,18 +9,15 @@ body:
     value: |
       ### Please Read:
       
-      :loudspeaker: Prior to filling out the below form, please check [community.cncf.io](https://community.cncf.io) to confirm there isn't an active Technical Community Group for this topic. 
+      :loudspeaker: Prior to filling out the below form, please check [community.cncf.io](https://community.cncf.io) to confirm there is not already an active Technical Community Group for this topic. 
       
-      If there is an active group close to this space, we recommend collaborating with the current organizers. If there is a deactivated group, please reach out to community-groups@cncf.io, or [file an organizer issue here](https://github.com/cncf/communitygroups/issues/new?assignees=&labels=&projects=&template=organizer-request.yml&title=%5BOrganizer+Request%5D+Add+or+Remove+Organizer+Name). :loudspeaker:
+      Please note--review of your request can take up to 30 days, as our team performs our due diligence. If you have questions throughout the process, please comment within your GitHub issue.
 
-      Additionally, check all [open issues](https://github.com/cncf/communitygroups/issues) to ensure there isn't an open request for this topic already. If there is an open ticket, please comment within that GitHub issue with your interest to co-organize.
-
-      If you have checked all the above areas and there is no active chapter or open GitHub issues, fill out the form for our team to review.
 - type: input
   id: name
   attributes:
-    label: Topic of this CNCG
-    placeholder: e.g. Cloud Native San Francisco
+    label: Topic of this TCG
+    placeholder: e.g. TCG Platform Engineering
   validations:
     required: true
 - id: content
@@ -40,22 +37,15 @@ body:
 - id: organizer_2
   type: textarea
   attributes:
-    label: Tell us about your co-organizer. List their name, email, company, GitHub URL, LinkedIn URL, and CNCF Slack workspace name (or if they need to be invited), and a required profile link on community.cncf.io
+    label: Tell us about your co-leaders. List their information just as you did for yourself, or point to the GitHub issue where this was resolved in the TOC repository.
     placeholder: e.g. Audra Montenegro, CNCF, https://github.com/AudMonte01, https://www.linkedin.com/in/audramontenegro/, Audra Montenegro in CNCF Slack, https://community.cncf.io/u/m8bqcv/#/about
   validations:
     required: false
 - id: organizer_3
   type: textarea
   attributes:
-    label: Tell us about your co-organizer. List their name, email, company, GitHub URL, LinkedIn URL, and CNCF Slack workspace name (or if they need to be invited), and a required profile link on community.cncf.io
+    label: Tell us about your co-leaders. List their information just as you did for yourself, or point to the GitHub issue where this was resolved in the TOC repository.
     placeholder: e.g. Audra Montenegro, CNCF, https://github.com/AudMonte01, https://www.linkedin.com/in/audramontenegro/, Audra Montenegro in CNCF Slack, https://community.cncf.io/u/m8bqcv/#/about
-  validations:
-    required: false
-- id: meetupDOTcom
-  type: textarea
-  attributes:
-    label: If you already lead another group, please link it here
-    placeholder: e.g. https://www.meetup.com/bay-area-kubernetes-meetup/
   validations:
     required: false
 - id: organizer_coc
@@ -70,9 +60,9 @@ body:
   type: checkboxes
   attributes:
     label: Organizer affiliations
-    description: "There must be at least 2 organizers with different affiliations."
+    description: "The majority of TCG leaders cannot come from the same company."
     options:
-      - label: The organizers affirm that two or more are from different affiliations
+      - label: I confirm on behalf of the all the TCG leaders that not more than half of us are from the same organization.
         required: true
 - id: organizer_inclusivity
   type: checkboxes
@@ -80,47 +70,23 @@ body:
     label: Inclusive
     description: "You agree to be inclusive of all people eager to learn about cloud native, no matter what level of expertise they are at in their open source journey."
     options:
-      - label: We agree. To assure this, We have recently completed the [Inclusive Open Source Community Orientation (LFC102) course](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
+      - label: We agree. To assure this, all TCG leaders have recently completed the [Inclusive Open Source Community Orientation (LFC102) course](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
         required: true
 - id: organizer_neutrality
   type: checkboxes
   attributes:
     label: Vendor Neutral
-    description: "CNCGs should have vendor-neutral content for the main portion of your meetups. Please note that [sponsors can have up to 15 minutes on stage](https://github.com/cncf/communitygroups/blob/main/best_practices.md#sponsorships)"
+    description: "TCGs should have vendor-neutral content for the main portion of your meetups. Please note that [sponsors can have up to 15 minutes on stage](https://github.com/cncf/communitygroups/blob/main/best_practices.md#sponsorships)"
     options:
       - label: We have read what [vendor-neutrality means](https://contribute.cncf.io/maintainers/community/vendor-neutrality/), and agree that the main content of our meetups will remain vendor-neutral
-        required: true
-- id: organizer_branding
-  type: checkboxes
-  attributes:
-    label: Agree to use CNCG branding
-    description: "In an effort to avoid trademark miss-use, and have unity within the CNCG program, you agree to use [CNCG branding](https://github.com/cncf/artwork/blob/main/examples/other.md#cloud-native-community-groups)."
-    options:
-      - label: We agree to use the CNCG logo in my/our chapter and social branding
-        required: true
-- id: organizer_registration
-  type: checkboxes
-  attributes:
-    label: Registration through CNCF platforms
-    description: "In order to properly support your chapter with benefits, registration for all events must be through CNCF platforms, or the current CNCF community platform."
-    options:
-      - label: We agree to host free registration in the main CNCF platform
-        required: true
-- id: organizer_activity
-  type: checkboxes
-  attributes:
-    label: Remain an active chapter
-    description: "While virtual meetings every 30 days is recommended, you agree to host a meetup, study group, or virtual event [at least 1 time every 90 days (quarter)](https://github.com/cncf/communitygroups/blob/main/README.md#community-group-inactivity). And if you foresee a delay, you will notify the CNCF team via community-groups@cncf.io"
-    options:
-      - label: We agree to have a meetup at least once every 90 days, or else communicate reasoning for upcoming inactivity.
         required: true
 - id: organizer_diversity
   type: checkboxes
   attributes:
-    label: Aim to have a diverse representation of speakers in your events
+    label: Aim to have a diverse representation of speakers in your meetings.
     description: "Diversity means something different for each country. The commonality among all countries is to strive to promote women or non-male speakers."
     options:
-      - label: We will do our best to host diverse speakers throughout the year
+      - label: We will do our best to host diverse presenters throughout the year
         required: true
 - type: markdown
   attributes:
