@@ -1,0 +1,5 @@
+# Node modules (dependencies)
+node_modules/
+
+# Journal entries (private by default - remove this line to make journals public)
+journal/

@@ -1,0 +1,5 @@
+{
+  "_instructions": "Commit Story Configuration - Place your OpenAI API key in .env file as OPENAI_API_KEY=your_key_here. Set debug to true to run journal generation in foreground with detailed logging visible during commits. Use for troubleshooting execution.",
+
+  "debug": false
+}
