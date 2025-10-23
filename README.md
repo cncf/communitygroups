@@ -97,7 +97,7 @@ IMPORTANT: Every LinkedIn page created should be created as a company page, and 
 - The details! Tell people when, where, and the location of your meetup
 - Food and beverage! What refreshments will you will be providing
 - Promote your sponsors! They will appreciate the shout out. You do this by thanking them for sponsoring your event and showcasing their logo. They also appreciate you linking to their website or their open source resource or insights (more attractive to this audience)
-- Giveaways! Not everyone will have this opportunity, over time you will generate sponsors for this, or [earn a voucher from us](benefits-of-joining-the-CNCF-community-groups-program).
+- Giveaways! Not everyone will have this opportunity, over time you will generate sponsors for this, or [earn a voucher from us](README.md#benefits-of-joining-the-cncf-community-groups-program).
 
 ### Promotional Graphics
 
