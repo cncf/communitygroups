@@ -78,7 +78,7 @@ Please use "Cloud Native CITY NAME" when naming your chapter. We ask that you av
 We strive to keep all organizers as up to date as possible when it comes to program updates and changes. Here are a few ways you can stay in the loop:
 
 - Subscribe to our global organizer newsletter by going to your [community profile and then "updates"](https://community.cncf.io/accounts/profile/#updates). There you can opt-in by marking the "Global" checkbox under the "Receive general communications from" header.
-- Please reach out to us on the #communitygroups channel on the CNCF slack. Please avoid using direct messages unless strictly necessary as doing so both has the potential of overwhelming project maintainers and others with similar questions lose the benefit of public discussion.
+- Please reach out to us on the [#communitygroups](https://cloud-native.slack.com/archives/C015WPLD3F1) channel in the CNCF slack Workspace. Please avoid using direct messages unless strictly necessary as doing so both has the potential of overwhelming project maintainers and others with similar questions lose the benefit of public discussion.
 - It's best if you use a public communication channel whenever possible; however, if you need to communicate in private, please feel free to send the program admins a note via community-groups@cncf.io (please use the public channels for any program-related discussion).
 
 ## Marketing Best Practices and Resources
@@ -87,7 +87,7 @@ We strive to keep all organizers as up to date as possible when it comes to prog
 
 We encourage each chapter to create their own social media accounts on the platforms that are most relevant in their local area, in addition to LinkedIn so CNCF can properly help amplify your announcements.
 
-CNCF is present on [Twitter (X)](https://twitter.com/CloudNativeFdn) and [LinkedIn](https://www.linkedin.com/company/cloud-native-computing-foundation/mycompany/) with over 100,000 followers on each, and a growing number of followers on [Bluesky](https://bsky.app/profile/cncf.io). If you are a CNCF chapter promoting your community on community.cncf.io, then CNCF will be happy to help you promote your meetups on social media. Simply join the [#socialmedia channel in the CNCF Slack workspace](https://cloud-native.slack.com/archives/C12MRQ97A) asking for amplifications of your post. CNCF staff automaically check that channel each day. Each CNCG is limited to one post amplification per week. NOTE: In the spirit of vendor neutrality, CNCF will not amplify sponsor posts.
+CNCF is present on [Twitter (X)](https://twitter.com/CloudNativeFdn) and [LinkedIn](https://www.linkedin.com/company/cloud-native-computing-foundation/mycompany/) with over 100,000 followers on each, and a growing number of followers on [Bluesky](https://bsky.app/profile/cncf.io). If you are a CNCF chapter promoting your community on community.cncf.io, then CNCF will be happy to help you promote your meetups on social media. Simply join the [#socialmedia](https://cloud-native.slack.com/archives/C12MRQ97A) channel in the CNCF Slack workspace for amplifications of your post. CNCF staff automaically check that channel each day. Each CNCG is limited to one post amplification per week. NOTE: In the spirit of vendor neutrality, CNCF will not amplify sponsor posts.
 
 IMPORTANT: Every LinkedIn page created should be created as a company page, and must add CNCF's core community program manager, Audra Montenegro as an admin.
 
