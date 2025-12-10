@@ -54,7 +54,7 @@ Applications can now be submitted via a [GitHub issue](https://github.com/cncf/c
 
 ## Bevy Training
 
-Bevy is the platform that backs community.cncf.io. With over 190 ACTIVE chapters (as of 2024), Bevy allows for in-person and virtual meetups, co-hosting, emailing your attendees, transparent analytics for organizers, and a microsite (small website) that can feature sponsors, speakers, and more!
+Bevy is the platform that backs community.cncf.io. With over 230 ACTIVE chapters (as of 2025), Bevy allows for in-person and virtual meetups, co-hosting, emailing your attendees, transparent analytics for organizers, and a microsite (small website) that can feature sponsors, speakers, and more!
 
 - CNCF and Bevy have organized the training session for the Community Groups organizers. It has been recorded and now [available on YouTube](https://www.youtube.com/watch?v=_rBdomoYlmc).
 - You can also access the Bevy Help Portal at <https://help.bevylabs.com/>.
