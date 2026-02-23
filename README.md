@@ -113,7 +113,7 @@ This is acceptable, as long as it is a general tech community or open source com
 
 ## Community Group Inactivity
 
-If your group has more than 90 days of inactivity in the number of events/meetups being held, then you will be deemed an “Inactive” group via the Cloud Native Computing Foundation and removed from [community.cncf.io](https://community.cncf.io/).
+If your group has more than 90 days of inactivity in the number of events/meetups being held, then you will be deemed an “Inactive” group via the Cloud Native Computing Foundation and removed from [community.cncf.io](https://community.cncf.io/). Upon group dormancy, leadership is reset and new organizers may step in without the approval of former organizers.
 
 Technical Community Groups that fail to meet at least six times in a calendar year will also be considered inactive.
 
