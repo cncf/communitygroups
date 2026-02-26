@@ -21,7 +21,7 @@ jobs:
         SESSIONIZE_SESSION_LIST_URL: ${{ secrets.SESSIONIZE_SESSION_LIST_URL }}
         SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
       run: |
-        SESSIONIZE_LATEST_SESSION_ID=$(curl -s $SESSIONIZE_SESSION_LIST_URL | jq -r '.[].sessions[].id' | sort -u | tail -n 1)
+        SESSIONIZE_LATEST_SESSION_ID=$(curl -s $SESSIONIZE_SESSION_LIST_URL | jq -r '.[].sessions[].id' | sort -n | tail -n 1)
         echo "SESSIONIZE_LATEST_SESSION_ID_OUTPUT=$SESSIONIZE_LATEST_SESSION_ID" >> "$GITHUB_OUTPUT"
 
         if [ -z "$SESSIONIZE_LATEST_SESSION_ID_PREVIOUS" ]; then
@@ -34,7 +34,7 @@ jobs:
           exit 0
         fi
 
-        SESSIONIZE_NEW_SESSIONS=$(curl -s $SESSIONIZE_SESSION_LIST_URL | jq -r --arg SESSIONIZE_LATEST_SESSION_ID_PREVIOUS "$SESSIONIZE_LATEST_SESSION_ID_PREVIOUS" '[.[].sessions[] | select(.id > $SESSIONIZE_LATEST_SESSION_ID_PREVIOUS) | {id, title, description, speakers: ([.speakers[].name] | join(", "))}]')
+        SESSIONIZE_NEW_SESSIONS=$(curl -s $SESSIONIZE_SESSION_LIST_URL | jq -r --arg SESSIONIZE_LATEST_SESSION_ID_PREVIOUS "$SESSIONIZE_LATEST_SESSION_ID_PREVIOUS" '[.[].sessions[] | select(.id | tonumber > ($SESSIONIZE_LATEST_SESSION_ID_PREVIOUS | tonumber)) | {id, title, description, speakers: ([.speakers[].name] | join(", "))}]')
         echo $SESSIONIZE_NEW_SESSIONS | jq -c '.[]' | while read -r object; do
           curl -s --location "$SLACK_WEBHOOK_URL" --header 'Content-Type: application/json' --data "$object"
           sleep 3 # sleep to avoid rate limiting
