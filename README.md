@@ -103,7 +103,7 @@ IMPORTANT: Every LinkedIn page created should be created as a company page, and 
 
 Here we have some templates in Canva that will at least help you with sizing and placement of key content:
 
-- [LinkedIn and Facebook]([https://www.canva.com/design/DAGDoVUWY9w/QwHhJgCuoEFvefVxQIGJ2w/view?](https://www.canva.com/design/DAGDoVUWY9w/95h_DM7rQsnWXWDSK2UAlQ/edit?utm_content=DAGDoVUWY9w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+- [LinkedIn and Facebook](https://www.canva.com/design/DAGDoVUWY9w/95h_DM7rQsnWXWDSK2UAlQ/edit?utm_content=DAGDoVUWY9w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Twitter](https://www.canva.com/design/DAGDoQ6zx2c/l2aRUC91lf0St4GTVSbYhA/edit?utm_content=DAGDoQ6zx2c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Instagram](https://www.canva.com/design/DAGDoXtCdB4/XlsMHZhYCLjz05MdvyA6_w/edit?utm_content=DAGDoXtCdB4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
