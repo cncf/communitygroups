@@ -78,7 +78,7 @@ CNCF will cover all costs for the hosted community platform.
 
 The events on a new platform will benefit from the CNCF Marketing team's power and coverage. Compared to the Meetup.com-hosted events, the new platform allows hosting the events under the cncf.io domain and embedding more deeply into the marketing tools and technologies currently used by CNCF for the networking outreach. Furthermore, CNCF is committed to marketing meetups and events across our platforms.
 
-How often are the Cloud Native Community Groups applications reviewed?
+### **How often are the Cloud Native Community Groups applications reviewed?**
 
 We review the CNCG applications weekly, and if your submission satisfies our requirements and best practices, we'll send you an invitation.
 
