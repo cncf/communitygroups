@@ -106,6 +106,8 @@ There are many ways to keep your chapter active outside of regular in-person, sp
 - Host a study group for one of the many Kubernetes certifications
 - Use Open Community Groups' virtual feature to host a virtual meetup or study group
 
+Should a co-organizer become inactive, a fellow organizer may submit an issue for said organizer's removal. The person who's removal is requested must be tagged in the issue. Once tagged, that person is provided a 30 day window to respond otherwsie, removal will move forward.
+
 Should a community group violate vendor neutrality — a CNCF core value — the following path towards deactivation will occur.
 
 - 1st offense = a written violation via email
