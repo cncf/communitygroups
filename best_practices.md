@@ -137,7 +137,7 @@ The following steps can be useful to attract more folks for your upcoming event
 
 ### Ticketing for an event
 
-All Cloud Native Community Groups (CNCGs) must use community.cncf.io for registration of their events. Each meetup must remain free to attend.
+All Cloud Native Community Groups (CNCGs) must use [Open Community Groups](https://ocgroups.dev/cncf) for registration of their events. Each meetup must remain free to attend.
 
 ## 4. Run the event
 
