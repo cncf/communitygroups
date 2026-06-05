@@ -36,7 +36,7 @@ For all Cloud Native Community Groups, CNCF offers the following benefits:
 - Discounts to KubeCon + CloudNativeCons around the world
 - Service coverage for the hosted community platform, Open Community Groups
   - This includes support from CNCF (Audra Montenegro and Helena Spease).
-- Office Hours hosted once a month by a regional CNCF Ambassador.
+- [Office Hours](https://ocgroups.dev/cncf/group/gcprdx7) hosted regularly by a regional CNCF Ambassador.
 - Credly badges for organizers! We would like to recognize your efforts for helping make Cloud Native ubiquitous. To qualify, each December we will see if you have been an organizer for the duration of the year.
 - 5 free certification vouchers for remaining an active chapter year-round. This means at least one (1) in-person event each quarter with more than 10 attendees (not just registrations). So keep track of your event attendance!
 
