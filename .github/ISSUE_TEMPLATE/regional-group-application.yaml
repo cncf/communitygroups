@@ -130,7 +130,7 @@ body:
   type: checkboxes
   attributes:
     label: Agree to use CNCG branding
-    description: "In an effort to avoid trademark misuse and maintain unity within the CNCG program, you agree to use [CNCG branding](https://github.com/cncf/artwork/blob/main/examples/other.md#cloud-native-community-groups)."
+    description: "In an effort to avoid trademark misuse and maintain unity within the CNCG program, you agree to use [CNCG branding](https://github.com/cncf/artwork/blob/main/examples/other.md#cloud-native-community-groups) (see also [branding.md](https://github.com/cncf/communitygroups/blob/main/branding.md) for naming conventions and other brand assets)."
     options:
       - label: I/We agree to use the CNCG logo in my/our group and social branding.
         required: true
