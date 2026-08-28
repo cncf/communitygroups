@@ -27,6 +27,7 @@ Each of the steps above are now described in more detail.
 - [1. Start planning your event](#1-start-planning-you-event)
   * [Find Speakers](#find-speakers)
   * [Sponsorships](#sponsorships)
+    + [Sponsor Prospectus](#sponsor-prospectus)
 - [2. Schedule a new event](#2-schedule-a-new-event)
   * [Booking](#booking)
 - [3. Announce the event](#3-announce-the-event)
@@ -57,6 +58,8 @@ Each of the steps above are now described in more detail.
 
 CNCF staff is responsible for creating the Cloud Native Community Groups (see the instructions in the [README.md](../README.md) file, but to understand the various admin rights of who can create new groups, please visit the [OCGroups documentation](https://ocgroups.dev/docs#/getting-started/choose-dashboard?id=how-to-pick-the-right-workspace).
 It is useful to create a community slack channel `#cloud-native-<city name>` for event coordination ([CNCF Slack](https://app.slack.com/client/T08PSQ7BQ/C015WPLD3F1)).
+
+Before you start promoting your group, check out [branding.md](./branding.md) for the official logo, naming conventions, and other brand assets.
 
 The **description** of the group is left to the discretion of the organizers.
 
@@ -101,6 +104,12 @@ What to offer the sponsors in return
 * Thank your sponsors by highlighting them in the event settings on your community platform. For specific instructions on managing sponsors and reusable profiles, please refer to the [OCGroups documentation](https://ocgroups.dev/docs#/guides/group-dashboard?id=sponsors-reusable-profiles).
 * Offer your sponsor to set up a small table in our just outside the room, so people can engage in conversation.
 * Offer your sponsor no more than 15 minutes of talking time on the stage. But be sure they are NOT the main content.
+
+#### Sponsor Prospectus
+
+If you need a formal presentation to show, or a PDF to share with a prospecting sponsor, we have created a professional template that highlights common needs for meetups, and what sponsors can get in return.
+
+Feel free to make a copy and edit [this template in Canva](https://www.canva.com/design/DAGSX9KG53Q/8tAN20diaVRFPvIcMWVOYA/edit?utm_content=DAGSX9KG53Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). Make sure the packages match what your team can offer, and images to be based on your past meetups.
 
 ## 2. Schedule a new event
 

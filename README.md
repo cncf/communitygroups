@@ -6,6 +6,7 @@
 - [How to apply/get started](#how-to-apply)
 - [Communication](#communication)
 - [Marketing Best Practices and Resources](#marketing-best-practices-and-resources)
+  - [Branding & Logos](#branding--logos)
 - [Naming your chapter](#naming-your-chapter)
 - [Chapter Activity](#community-group-inactivity)
 - [Code of Conduct](#code-of-conduct)
@@ -44,7 +45,12 @@ For all Cloud Native Community Groups, CNCF offers the following benefits:
 
 ## Best Practices
 
-Please check out our [best_practices](./best_practices.md).
+Please check out our [best_practices.md](./best_practices.md) guide for the full walkthrough of running a Cloud Native Community Group, including:
+
+- [Creating your group](./best_practices.md#0-create-the-cloud-native-community-group), [finding speakers](./best_practices.md#find-speakers), and [securing sponsorships](./best_practices.md#sponsorships)
+- [Scheduling](./best_practices.md#2-schedule-a-new-event), [announcing](./best_practices.md#3-announce-the-event), and [running](./best_practices.md#4-run-the-event) your event
+- [Host](./best_practices.md#cncf-community-groups---host-checklist) and [Organizer](./best_practices.md#cncf-community-groups---organizer-checklist) checklists for event day
+- [Post-event](./best_practices.md#5-post-event) follow-up and [CNCF swag](./best_practices.md#cncf-swag) eligibility
 
 ## How to apply?
 
@@ -66,6 +72,10 @@ We strive to keep all organizers as up to date as possible when it comes to prog
 
 ## Marketing Best Practices and Resources
 
+### Branding & Logos
+
+Use the official CNCG logo and add "Cloud Native [YOUR CHAPTER NAME]" underneath it. See [branding.md](./branding.md) for the logo source, naming conventions, and other brand assets (promotional graphics, recognition materials).
+
 ### Social Media
 
 We encourage each chapter to create their own social media accounts on the platforms that are most relevant in their local area, in addition to LinkedIn so CNCF can properly help amplify your announcements.
@@ -84,11 +94,7 @@ IMPORTANT: Every LinkedIn page created should be created as a company page, and 
 
 ### Promotional Graphics
 
-Here we have some templates in Canva that will at least help you with sizing and placement of key content:
-
-- [LinkedIn and Facebook](https://www.canva.com/design/DAGDoVUWY9w/95h_DM7rQsnWXWDSK2UAlQ/edit?utm_content=DAGDoVUWY9w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Twitter](https://www.canva.com/design/DAGDoQ6zx2c/l2aRUC91lf0St4GTVSbYhA/edit?utm_content=DAGDoQ6zx2c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Instagram](https://www.canva.com/design/DAGDoXtCdB4/XlsMHZhYCLjz05MdvyA6_w/edit?utm_content=DAGDoXtCdB4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+See [branding.md](./branding.md#promotional-graphics) for Canva templates that will help with sizing and placement of key content.
 
 ### Partnering with other communities
 
