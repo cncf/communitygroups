@@ -7,7 +7,7 @@ divided among each other. Ideally there is no more than 5 organizers for virtual
 You are already donating your time to further the knowledge and awareness of Cloud Native technologies, likely in addition to a full-time job. In addition, people may fall ill, get injured, or have new deadlines. With that, it will benefit you to have backup to avoid cancellations of your meetups.
 
 ### VENDOR REPRESENTATION
-Each team should have no more than 50% of organizers from the same company. This is to assure fair voting practices, what's more --> vendor nuetrality.
+Each team should have no more than 50% of organizers from the same company. This is to assure fair voting practices, what's more --> vendor neutrality.
 
 IMPORTANT: Cloud Native Community Groups are NOT to be used for self benefit. In an effort to avoid monopolizing practices, organizers cannot belong to more than two (2) community groups as an organizer. You may of course help advise other groups, but will not be recognized as an organizer on the front-end of said chapter page if you do not reside in, or travel to that chapter location 50% of the calendar year.
 
