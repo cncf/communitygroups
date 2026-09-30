@@ -7,7 +7,7 @@ Hosting a Cloud Native Community Day is a great way to practice for a KCD. A Clo
 * You acquire sponsorships.
 * You provide breaks with beverages and/or food.
 * Your event must be free to attend like a meetup if these are hosted within your chapter. Some have created qualification standards in case your capacity is limited.
-* You still host it on [community.cncf.io](https://community.cncf.io/) so CNCF can see you have had practice at an event larger than a meetup, and CNCF can gauge if your community is ready for a KCD based on attendance.
+* You still host it on [ocgroups.dev](https://ocgroups.dev/) so CNCF can see you have had practice at an event larger than a meetup, and CNCF can gauge if your community is ready for a KCD based on attendance.
 * These can be hosted as often as you would like with a reccomendation being no more than once per quarter.
 * There is no limit to the number of attendees.
 * NOTE: Hosting a Cloud Native Community Day is not a requirement for hosting a KCD.
