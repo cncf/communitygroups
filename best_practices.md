@@ -137,6 +137,10 @@ You should think about sending a **reminder** message to the meetup group to ask
 
 ## 3. Announce the event
 
+Event pages and announcements work well when they cover the topics, speakers, date, time, location, refreshments, and sponsors. Talk titles and descriptions that explain what attendees will learn, without claiming that a product is the best or only option, keep the focus on the community.
+CNCF can help amplify posts that follow its social media guidelines. Under those guidelines, CNCF can't share content that promotes a vendor product, content that links to a company website, or posts from member company or vendor accounts. Public events that are open to everyone can be promoted. Posts that link to the event page, speaker profiles, project websites, and GitHub repositories are the easiest for CNCF to share.
+For images and graphics, please use images that are free for commercial use, or credit the creator. The Canva templates in [branding.md](https://github.com/cncf/communitygroups/blob/main/branding.md#promotional-graphics) can help with sizing and placement.
+
 The following steps can be useful to attract more folks for your upcoming event
 
 - Reach out to meetups in the area taking place to share your event (don't forget to return the favor)
