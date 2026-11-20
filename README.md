@@ -39,7 +39,7 @@ For all Cloud Native Community Groups, CNCF offers the following benefits:
   - This includes support from CNCF (Audra Montenegro and Helena Spease).
 - [Office Hours](https://ocgroups.dev/cncf/group/gcprdx7) hosted regularly by a regional CNCF Ambassador.
 - Credly badges for organizers! We would like to recognize your efforts for helping make Cloud Native ubiquitous. To qualify, each December we will see if you have been an organizer for the duration of the year.
-- 5 free certification vouchers for remaining an active chapter year-round. This means at least one (1) in-person event each quarter with more than 10 attendees (not just registrations). So keep track of your event attendance!
+- 5 free certification vouchers for remaining an active chapter year-round. This means at least one (1) in-person event each quarter with more than 10 attendees (not just registrations). So keep track of your event attendance! These are now upon request only via community-groups@cncfc.io.
 
 ✒️ NOTE: With over 200 active global chapters, we cannot monetarily support your community group with sponsorships outside what is listed above, but we are always looking into adding more incentives.
 
